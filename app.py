@@ -5,12 +5,13 @@ import json
 # app layout
 st.set_page_config(
     layout="centered",
-    page_title="Happy Daily Cartoon",
-    page_icon=":smile:"
+    page_title="Joyful Bytes",
+    page_icon=":smile:",
+    theme="light"
 )
 
 # App title
-st.markdown("# Happy Daily Cartoon")
+st.markdown("# Joyful Bytes")
 
 # load in data
 with open("./data/generated-map.json", "r") as f:
