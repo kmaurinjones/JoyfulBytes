@@ -6,8 +6,7 @@ import json
 st.set_page_config(
     layout="centered",
     page_title="Joyful Bytes",
-    page_icon=":smile:",
-    theme="light"
+    page_icon=":smile:"
 )
 
 # App title
