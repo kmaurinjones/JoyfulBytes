@@ -1,0 +1,6 @@
+streamlit
+requests
+openai
+replicate
+beautifulsoup4
+pillow

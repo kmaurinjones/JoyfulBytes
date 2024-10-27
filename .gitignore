@@ -1,0 +1,22 @@
+# gitignore
+.DS_Store
+
+# python
+__pycache__
+
+# notebooks - anything from the notebooks folder
+.ipynb_checkpoints
+*notebooks*
+
+# venv
+*venv*
+
+# log files (may contain sensitive information)
+*.log
+
+# main.sh -- (may contain environment variables)
+main.sh
+
+# some utils
+*update_repo.py*
+*email.py*
