@@ -101,11 +101,22 @@ for attempt in range(1, image_gen_attempts + 1):
     logger.info(f"Attempt {attempt}/{image_gen_attempts} to generate valid image")
     
     try:
-        # Generate new prompt for each attempt, using feedback from previous validation
+        # Format feedback as improvement suggestions if available
+        formatted_feedback = None
+        if feedback and isinstance(feedback, dict):
+            formatted_feedback = {
+                "improvements_needed": [
+                    f"Improve {k.replace('_', ' ')}" 
+                    for k, v in feedback.items() 
+                    if v < score_threshold
+                ]
+            }
+        
+        # Generate new prompt with formatted feedback
         image_prompt = create_image_gen_prompt(
             story_text=chosen_story_summary,
             model="o1-mini-2024-09-12",
-            feedback=feedback,
+            feedback=formatted_feedback,
             tqdm_desc=f"Creating image generation prompt (attempt {attempt}/{image_gen_attempts})"
         )
         image_prompt = image_prompt[0]['full_prompt']
@@ -188,12 +199,11 @@ for attempt in range(1, image_gen_attempts + 1):
                 break
             else:
                 logger.info("Image quality below threshold. Updating prompt with feedback and retrying...")
-                feedback = image_validation # update image generation prompt with feedback for next attempt
+                feedback = image_validation  # Store validation results for next attempt
                 
     except Exception as e:
         logger.error(f"Error in attempt {attempt}: {str(e)}")
-else:  # This runs if the loop completes without breaking
-    logger.error(f"Failed to generate valid image after maximum ({image_gen_attempts}) attempts")
-    sys.exit(1)
+        feedback = None  # Reset feedback on error
+        continue
 
-logger.info("Script completed successfully")
+# ... rest of code ...
