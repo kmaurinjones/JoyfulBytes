@@ -33,7 +33,7 @@ logger.info(f"Starting new run at {run_start_time}")
 logger.info(f"Processing {len(CONFIG['search_queries'])} search terms: {CONFIG['search_queries'][:3]}")
 
 ### read in search terms from ./config.py file
-search_terms = CONFIG["search_queries"]#[:3]
+search_terms = CONFIG["search_queries"]
 
 ### Iterate through each search term and get the search results
 search_results = []
