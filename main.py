@@ -113,6 +113,8 @@ for attempt in range(1, image_gen_attempts + 1):
 
         generated_image_bytes = generate_image(image_prompt, file_type=file_type)
         image_validation = validate_generated_image(generated_image_bytes, image_prompt)
+
+        logger.info(f"Image validation: {image_validation}")
         
         if isinstance(image_validation, dict):
             # Calculate mean of text-related scores

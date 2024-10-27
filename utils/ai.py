@@ -333,7 +333,7 @@ def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: st
                     "content": [
                         {"type": "text", "text": base_prompt.format(
                             example_response=json.dumps(example_response), 
-                            image_gen_prompt=image_gen_prompt,
+                            image_gen_prompt=json.dumps(image_gen_prompt),
                         )},
                         {
                         "type": "image_url",
@@ -344,7 +344,7 @@ def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: st
                     ],
                     }
                 ],
-                max_tokens=150,
+                # max_tokens=200, # no reason to limit this
             )
 
             return json.loads(response.choices[0].message.content.strip())
