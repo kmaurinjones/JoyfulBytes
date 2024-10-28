@@ -73,7 +73,7 @@ for story in tqdm(rankings_stories, desc="Trying to get text content"):
     url = story['result']['url']  # Changed from story['result']['url']
     try:
         response = get_page_text_content(url=url, timeout=10)
-        if response.strip() and len(response.strip().split()) > 200: # ensure there's enough content
+        if response.strip() and len(response.strip().split()) > 300: # ensure there's enough content
             story['text_content'] = response
             logger.info(f"Successfully retrieved content from URL: {url}")
             break
@@ -157,6 +157,10 @@ for attempt in range(1, image_gen_attempts + 1):
                     if os.path.exists(map_file_path):
                         with open(map_file_path, 'r') as f:
                             generated_map = json.load(f)
+
+                        # also write the file to "./data/most-recent-image.png" -- this will be rendered in the README
+                        with open("./data/most-recent-image.png", 'wb') as f:
+                            f.write(generated_image_bytes)
                     else:
                         generated_map = {}
                     
