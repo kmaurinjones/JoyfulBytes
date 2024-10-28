@@ -4,3 +4,4 @@ openai
 replicate
 beautifulsoup4
 pillow
+tqdm
