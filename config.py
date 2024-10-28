@@ -1,13 +1,13 @@
 CONFIG = {
     "search_queries": [
         "Joyful news today",
-        "Incredible kindness today",
-        "Beautiful moments in the news",
         "Heartwarming acts today",
-        "Smiles and happiness today",
         "Feel-good stories today",
-        "Unbelievable generosity today",
-        "Love and hope in the news",
-        "Stories that spark joy today"
+        "Positive stories from north america now",
+        "Uplifting news south america yesterday",
+        "Good news happening in europe now",
+        "Heartwarming stories asia today",
+        "Inspiring moments africa today",
+        "Happy news from australia recently"
     ]
 }
