@@ -18,5 +18,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "NDTV Food"
+    },
+    "2024-10-28": {
+        "date": "October 28, 2024",
+        "image_path": "./data/images/20241028-083218-1.png",
+        "story_summary": "Bengaluru -- **Girish, a dedicated auto driver**, showcases unwavering integrity by returning a passenger's lost gold chain.\n\n*During a ride with Chitra*, Girish notices the missing chain in his rickshaw and takes it upon himself to locate her.\n\nDemonstrating exceptional kindness, he diligently searches for Chitra\u2019s residence to return the cherished item.\n\nUpon meeting, Chitra expresses profound gratitude, sharing the emotional encounter on social media and praising Girish's honesty.\n\nThe heartfelt gesture quickly resonates online, with many lauding Girish as a model of **humanity** and **trustworthiness**, inspiring the community with his selfless action.",
+        "story_url": "https://news24online.com/trending/humanity-still-exists-bengaluru-auto-driver-goes-extra-miles-to-return-passengers-lost-gold-chain-video/368625/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.21",
+        "name": "Humanity Still Exists! Bengaluru Auto Driver Goes Extra Miles To Return ...",
+        "url": "https://news24online.com/trending/humanity-still-exists-bengaluru-auto-driver-goes-extra-miles-to-return-passengers-lost-gold-chain-video/368625/",
+        "datePublished": "2024-10-28T06:22:00.0000000",
+        "datePublishedFreshnessText": "6 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://news24online.com/trending/humanity-still-exists-bengaluru-auto-driver-goes...",
+        "snippet": "Chitra took to social media to share the <b>heartwarming</b> gesture of the auto-driver. ... \u201cLet\u2019s make Girish and his noble/ kind <b>act</b> viral as we need more of this kind of people.\u201d ... Congress To Hold Meeting At AICC Headquarters <b>Today</b>. In the 2019 assembly elections in Maharashtra, the BJP won 105 seats, Shiv Sena secured 56, and Congress ...",
+        "dateLastCrawled": "2024-10-28T10:23:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=1802364090638&mkt=en-CA&setlang=en-US&w=EOPotAOp7EvNqCv6A3nVqDM_iF-xADch",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "News24 English"
     }
 }
