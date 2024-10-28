@@ -2,6 +2,8 @@
 
 Joyful Bytes is an innovative project that transforms uplifting news stories into delightful AI-generated artwork. By combining web scraping, natural language processing, and AI image generation, we create daily pieces that spread joy and positivity.
 
+![Most Recent Image](./data/most-recent-image.png)
+
 ## 🌟 Core Features
 
 - **Daily Positive Content**: Automated discovery and curation of uplifting news stories
