@@ -214,7 +214,6 @@ def create_image_gen_prompt(story_text: str, model: str = "o1-mini-2024-09-12", 
     - Clean white background
     - No solid blacks, only grayscale
     - Slightly wobbly, hand-drawn text caption below image
-    - Characters should have slightly exaggerated features for humor
     - Composition should be centered with plenty of white space around edges
     - There needs to be a caption text, and it should be in casual, all-caps handwriting style positioned at bottom. Explicitly denote the image text in 
     the prompt
