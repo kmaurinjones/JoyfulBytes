@@ -139,7 +139,8 @@ for attempt in range(1, image_gen_attempts + 1):
             logger.info(f"Text score mean: {text_mean:.2f}, Overall mean: {overall_mean:.2f}")
             
             # Check if the image meets the quality criteria
-            if text_mean > score_threshold and overall_mean > score_threshold:
+            # if text_mean > score_threshold and overall_mean > score_threshold:
+            if overall_mean > score_threshold:
                 logger.info("Generated image meets quality criteria")
                 
                 # Save the successful image
