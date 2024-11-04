@@ -57,5 +57,33 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-11-04": {
+        "date": "November 04, 2024",
+        "image_path": "./data/images/20241104-060002-1.png",
+        "story_summary": "Johannesburg -- A **good Samaritan** in Johannesburg touched many hearts by providing a *struggling family* with their **first meal of the day**. Captured in a TikTok video, the man's generous act showcased his compassionate interaction as he served the family, highlighting the spirit of **Ubuntu**.\n\nThe heartwarming gesture quickly went viral, garnering thousands of views and thousands of likes and comments from South Africans. Netizens expressed their admiration and gratitude, praising the man's selfless actions and celebrating the embodiment of community and kindness. This act of kindness resonated deeply, inspiring many to embrace the values of generosity and empathy.",
+        "story_url": "https://briefly.co.za/people/201669-johannesburg-good-samaritan-blesses-struggling-family-1st-meal-day-video-touches-sa/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Johannesburg Good Samaritan Blesses Struggling Family With ... - Briefly",
+        "url": "https://briefly.co.za/people/201669-johannesburg-good-samaritan-blesses-struggling-family-1st-meal-day-video-touches-sa/",
+        "datePublished": "2024-11-04T00:00:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "video": {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=2CA52C4382208D410D732CA52C4382208D410D73",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.TdHfa3B1iufEdmJdSG6ggA&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "",
+            "sourceWidth": 128,
+            "sourceHeight": 72,
+            "videoId": "2CA52C4382208D410D732CA52C4382208D410D73"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://briefly.co.za/people/201669-johannesburg-good-samaritan-blesses-struggling...",
+        "snippet": "The gent&#39;s <b>heartwarming</b> gestures touched Mzansi netizens, and they took to the comments section to praise him. Cynthia Iita said: &quot;God bless you, my brother.&quot; Danny Myburgh added: &quot;You are doing awesome work, my brother keep it up god bless you.&quot; Eunick087 wrote:",
+        "dateLastCrawled": "2024-11-04T08:19:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=3177909695348&mkt=en-CA&setlang=en-US&w=oLgSyEn0TJvFpbpZtYvm6lsm7VhuyEGA",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Briefly"
     }
 }
