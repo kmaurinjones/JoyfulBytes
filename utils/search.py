@@ -26,6 +26,7 @@ def search_bing(search_term: str):
         "safeSearch": "Strict",
         "freshness": "Day", # results from only the last 24 hours
         "setLang": "en-US",
+        "cc": "CA",
     }
 
     response = requests.get(search_url, headers=headers, params=params)

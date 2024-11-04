@@ -41,11 +41,11 @@
     },
     "2024-11-03": {
         "date": "November 03, 2024",
-        "image_path": "./data/images/20241103-220202-3.png",
-        "story_summary": "Guwahati -- **Guwahati Municipal Corporation (GMC)** transforms over 100 tonnes of unsold banana plants from Diwali festivities into nourishing treats for elephants.\n\nOn October 31, GMC collected these banana stems, *traditionally used as stands for diyas*, from various city locations and took them to an empty plot in Chabipool. There, the plants were meticulously segregated and cleaned before being dispatched to the **Assam State Zoo cum Botanical Garden** and **Garbhanga Reserve Forest**.\n\nThis project serves a dual purpose: providing nutritious food for the majestic **jumbos** and ensuring the city's cleanliness during the festive season. Each banana plant was carefully inspected to remove any harmful materials, ensuring the safety and well-being of the elephants.\n\nAssistant Commissioner **Ambarish Borah** highlighted that approximately 50 tonnes of banana plants were delivered to both the zoo and the Garbhanga forest, showcasing GMC's commitment to sustainable waste management and animal welfare during Diwali.",
+        "image_path": "./data/images/20241103-220831-1.png",
+        "story_summary": "**Guwahati** -- In a compassionate Diwali initiative, the **Guwahati Municipal Corporation (GMC)** collects over 100 tonnes of **unsold banana stems** from city streets.\n\n*Traditionally used as stands for diyas*, these banana plants, left unsold, are repurposed as nutritious **elephant fodder** for the Assam State Zoo cum Botanical Garden and Garbhanga Reserve Forest.\n\nThe GMC meticulously **segregates and cleans** the plants to ensure they are safe, removing any harmful substances like bamboo sticks, mustard oil, or gunpowder from firecrackers.\n\nThis thoughtful gesture not only **feeds the elephants** but also **maintains cleanliness** across Guwahati, showcasing a sustainable and heartwarming approach to festive waste management.",
         "story_url": "https://timesofindia.indiatimes.com/city/guwahati/guwahatis-heartwarming-diwali-gesture-turning-unsold-banana-plants-into-elephant-treats/articleshow/114923727.cms",
-        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
-        "name": "Guwahati&#39;s Heartwarming Diwali Gesture: Turning Unsold Banana Plants ...",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Guwahati&#39;s <b>Heartwarming</b> Diwali Gesture: Turning Unsold Banana Plants ...",
         "url": "https://timesofindia.indiatimes.com/city/guwahati/guwahatis-heartwarming-diwali-gesture-turning-unsold-banana-plants-into-elephant-treats/articleshow/114923727.cms",
         "datePublished": "2024-11-03T22:52:00.0000000",
         "datePublishedFreshnessText": "4 hours ago",
@@ -56,7 +56,6 @@
         "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=5239429233969&mkt=en-CA&setlang=en-US&w=KfOYDAdpfkCs10SW-KFt-XV2FpUDqKoy",
         "language": "en",
         "isNavigational": false,
-        "noCache": false,
-        "siteName": "Times of India"
+        "noCache": false
     }
 }
