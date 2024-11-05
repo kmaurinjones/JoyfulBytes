@@ -60,22 +60,14 @@
     },
     "2024-11-04": {
         "date": "November 04, 2024",
-        "image_path": "./data/images/20241104-220002-1.png",
-        "story_summary": "Sydney -- Taronga Zoo Sydney celebrates a **world-first achievement** in its *Fiordland Penguin breeding program*.\n\nTwo Fiordland Penguin chicks have successfully reached fledging age, marking a significant milestone in the only global breeding initiative for this *vulnerable species*.\n\nThe zoo's colony, consisting of five rescued adults, serves as a crucial *insurance population*, providing vital insights into the penguins' elusive breeding behaviors through meticulous observation and CCTV monitoring.\n\nSenior Marine Keeper Jo Walker emphasizes the program's importance in advancing *conservation efforts* both within the zoo and in the wild.\n\nDespite past challenges, including the loss of a chick, the dedicated efforts of Taronga's team ensure the continued growth and survival of this threatened species.\n\nThis success not only embodies hope for the Fiordland Penguins but also reinforces Taronga's commitment as a *not-for-profit organization* to safeguarding wildlife and fostering a shared future for animals and people.\n\nEvery aspect of the breeding program contributes to **forefront conservation research**, making a lasting impact on the preservation of these penguins in their natural habitat.",
+        "image_path": "./data/images/20241104-225142-3.png",
+        "story_summary": "Sault Ste. Marie -- **Jackie Evans-Cole** and her granddaughter *Stella* have faced profound challenges over the past year. After being featured in SooToday's *12 Days of Christmas Random Acts of Kindness*, Jackie endured the tragic loss of her son Brandon in a motor vehicle collision while caring for Stella through her cancer treatments. Additionally, Jackie has dealt with her own health issues and the heartbreaking death of her father in a fire last spring.\n\nIn response, the Goulais and Heyden communities are rallying to support her. Led by Hope Bouliane, friends and family are organizing a **pasta dinner fundraiser** on November 8 at the Heyden Eagles Club. This event aims to alleviate the financial burdens Jackie has shouldered while helping others during their difficult times. Tickets are available at local stores for $25, with support tickets at $15. Donations must be made by November 6 to ensure proper preparations. The community's collective effort highlights Jackie\u2019s strength and the enduring spirit of compassion among her neighbors.",
         "story_url": "https://www.whas11.com/video/life/heartwarming/children-officially-with-forever-families-in-southern-indiana/417-9554123f-c332-465b-8eb5-84f1e4279c20",
-        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
         "name": "Children officially with forever families in southern Indiana",
         "url": "https://www.whas11.com/video/life/heartwarming/children-officially-with-forever-families-in-southern-indiana/417-9554123f-c332-465b-8eb5-84f1e4279c20",
         "datePublished": "2024-11-04T23:04:00.0000000",
-        "datePublishedFreshnessText": "3 hours ago",
-        "video": {
-            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=B81AE23754A950A40351B81AE23754A950A40351",
-            "thumbnailUrl": "https://www.bing.com/th?id=OVF.czMh5LB3k%2fFce%2bY63s4H6Q&w=128&h=72&c=4&rs=1&pid=6.1",
-            "duration": "0:49",
-            "sourceWidth": 128,
-            "sourceHeight": 72,
-            "videoId": "B81AE23754A950A40351B81AE23754A950A40351"
-        },
+        "datePublishedFreshnessText": "4 hours ago",
         "isFamilyFriendly": true,
         "displayUrl": "https://<b>www.whas11.com</b>/video/life/<b>heartwarming</b>/children-officially-with-forever...",
         "snippet": "Monday morning, the Clark County Circuit Court finalized the adoptions of children in Indiana.",
@@ -83,21 +75,6 @@
         "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2903099941606&mkt=en-CA&setlang=en-US&w=P8fq4-qT9a0UTrPNhrxHGlpGgHlzlL_e",
         "language": "en",
         "isNavigational": false,
-        "richFacts": [
-            {
-                "label": {
-                    "text": "Video Duration"
-                },
-                "items": [
-                    {
-                        "text": "49 sec"
-                    }
-                ],
-                "hint": {
-                    "text": "MEDIA:DURATION"
-                }
-            }
-        ],
         "noCache": false,
         "siteName": "whas11.com"
     }
