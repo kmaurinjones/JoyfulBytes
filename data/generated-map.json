@@ -60,30 +60,45 @@
     },
     "2024-11-04": {
         "date": "November 04, 2024",
-        "image_path": "./data/images/20241104-060002-1.png",
-        "story_summary": "Johannesburg -- A **good Samaritan** in Johannesburg touched many hearts by providing a *struggling family* with their **first meal of the day**. Captured in a TikTok video, the man's generous act showcased his compassionate interaction as he served the family, highlighting the spirit of **Ubuntu**.\n\nThe heartwarming gesture quickly went viral, garnering thousands of views and thousands of likes and comments from South Africans. Netizens expressed their admiration and gratitude, praising the man's selfless actions and celebrating the embodiment of community and kindness. This act of kindness resonated deeply, inspiring many to embrace the values of generosity and empathy.",
-        "story_url": "https://briefly.co.za/people/201669-johannesburg-good-samaritan-blesses-struggling-family-1st-meal-day-video-touches-sa/",
-        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
-        "name": "Johannesburg Good Samaritan Blesses Struggling Family With ... - Briefly",
-        "url": "https://briefly.co.za/people/201669-johannesburg-good-samaritan-blesses-struggling-family-1st-meal-day-video-touches-sa/",
-        "datePublished": "2024-11-04T00:00:00.0000000",
-        "datePublishedFreshnessText": "11 hours ago",
+        "image_path": "./data/images/20241104-220002-1.png",
+        "story_summary": "Sydney -- Taronga Zoo Sydney celebrates a **world-first achievement** in its *Fiordland Penguin breeding program*.\n\nTwo Fiordland Penguin chicks have successfully reached fledging age, marking a significant milestone in the only global breeding initiative for this *vulnerable species*.\n\nThe zoo's colony, consisting of five rescued adults, serves as a crucial *insurance population*, providing vital insights into the penguins' elusive breeding behaviors through meticulous observation and CCTV monitoring.\n\nSenior Marine Keeper Jo Walker emphasizes the program's importance in advancing *conservation efforts* both within the zoo and in the wild.\n\nDespite past challenges, including the loss of a chick, the dedicated efforts of Taronga's team ensure the continued growth and survival of this threatened species.\n\nThis success not only embodies hope for the Fiordland Penguins but also reinforces Taronga's commitment as a *not-for-profit organization* to safeguarding wildlife and fostering a shared future for animals and people.\n\nEvery aspect of the breeding program contributes to **forefront conservation research**, making a lasting impact on the preservation of these penguins in their natural habitat.",
+        "story_url": "https://www.whas11.com/video/life/heartwarming/children-officially-with-forever-families-in-southern-indiana/417-9554123f-c332-465b-8eb5-84f1e4279c20",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Children officially with forever families in southern Indiana",
+        "url": "https://www.whas11.com/video/life/heartwarming/children-officially-with-forever-families-in-southern-indiana/417-9554123f-c332-465b-8eb5-84f1e4279c20",
+        "datePublished": "2024-11-04T23:04:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
         "video": {
-            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=2CA52C4382208D410D732CA52C4382208D410D73",
-            "thumbnailUrl": "https://www.bing.com/th?id=OVF.TdHfa3B1iufEdmJdSG6ggA&w=128&h=72&c=4&rs=1&pid=6.1",
-            "duration": "",
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=B81AE23754A950A40351B81AE23754A950A40351",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.czMh5LB3k%2fFce%2bY63s4H6Q&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "0:49",
             "sourceWidth": 128,
             "sourceHeight": 72,
-            "videoId": "2CA52C4382208D410D732CA52C4382208D410D73"
+            "videoId": "B81AE23754A950A40351B81AE23754A950A40351"
         },
         "isFamilyFriendly": true,
-        "displayUrl": "https://briefly.co.za/people/201669-johannesburg-good-samaritan-blesses-struggling...",
-        "snippet": "The gent&#39;s <b>heartwarming</b> gestures touched Mzansi netizens, and they took to the comments section to praise him. Cynthia Iita said: &quot;God bless you, my brother.&quot; Danny Myburgh added: &quot;You are doing awesome work, my brother keep it up god bless you.&quot; Eunick087 wrote:",
-        "dateLastCrawled": "2024-11-04T08:19:00.0000000Z",
-        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=3177909695348&mkt=en-CA&setlang=en-US&w=oLgSyEn0TJvFpbpZtYvm6lsm7VhuyEGA",
+        "displayUrl": "https://<b>www.whas11.com</b>/video/life/<b>heartwarming</b>/children-officially-with-forever...",
+        "snippet": "Monday morning, the Clark County Circuit Court finalized the adoptions of children in Indiana.",
+        "dateLastCrawled": "2024-11-04T23:06:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2903099941606&mkt=en-CA&setlang=en-US&w=P8fq4-qT9a0UTrPNhrxHGlpGgHlzlL_e",
         "language": "en",
         "isNavigational": false,
+        "richFacts": [
+            {
+                "label": {
+                    "text": "Video Duration"
+                },
+                "items": [
+                    {
+                        "text": "49 sec"
+                    }
+                ],
+                "hint": {
+                    "text": "MEDIA:DURATION"
+                }
+            }
+        ],
         "noCache": false,
-        "siteName": "Briefly"
+        "siteName": "whas11.com"
     }
 }
