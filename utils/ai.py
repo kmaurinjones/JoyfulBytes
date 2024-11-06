@@ -267,7 +267,12 @@ def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png")
                 "prompt_upsampling": True
             }
         )
+
+        # download the image
+        return output.read()
+
     elif model == "ideogram":
+        # this returns a URL that requires a GET request to download the image
         output = replicate.run(
             "ideogram-ai/ideogram-v2-turbo",
             input={
@@ -275,23 +280,16 @@ def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png")
                 "resolution": "1344x768",
                 "style_type": "Auto",
                 "aspect_ratio": "16:9",
-                "negative_prompt": None, # optional string of text to NOT include
+                "negative_prompt": "", # optional string of text to NOT include
                 "magic_prompt_option": "Auto"
             }
         )
+
+        # download the image
+        return requests.get(output).content
+    
     else:
         raise ValueError(f"Invalid model: {model}")
-        
-    # Handle both file-like objects and URLs
-    try:
-        # Try to read it as a file-like object (notebook case)
-        return output.read()
-    except AttributeError:
-        # If it's a URL (script case), download it
-        response = requests.get(output)
-        if response.status_code == 200:
-            return response.content
-        return None
 
 def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: str = "gpt-4o-2024-08-06"):
     """
