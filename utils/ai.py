@@ -243,30 +243,45 @@ def create_image_gen_prompt(story_text: str, model: str = "o1-mini-2024-09-12", 
 
     return batch_prompt_oai(prompts, model=model, tqdm_desc=tqdm_desc)
 
-def generate_image(prompt: str, model: str = "black-forest-labs/flux-1.1-pro", file_type: str = "png"):
+def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png"):
     """
     Generate an image from the given prompt and return the image data.
-    API docs: https://replicate.com/black-forest-labs/flux-1.1-pro/api
     
     Args:
         prompt: Text prompt for image generation
-        model: Model identifier for Replicate API
+        model: Model choice ("flux" or "ideogram")
+        file_type: Output file format (for flux model only)
         
     Returns:
         bytes: Raw image data if successful, None if failed
     """
-    output = replicate.run(
-        model,
-        input={
-            "prompt": prompt,
-            "aspect_ratio": "16:9",  # 16:9 is good for most cartoons
-            "output_format": file_type, # can be one of ["png", "webp", "jpg"]
-            "output_quality": 100,
-            "safety_tolerance": 2,  # 5 is most permissive and 0 is most strict
-            "prompt_upsampling": True
-        }
-    )
-    
+    if model == "flux":
+        output = replicate.run(
+            model,
+            input={
+                "prompt": prompt,
+                "aspect_ratio": "16:9",  # 16:9 is good for most cartoons
+                "output_format": file_type, # can be one of ["png", "webp", "jpg"]
+                "output_quality": 100,
+                "safety_tolerance": 2,  # 5 is most permissive and 0 is most strict
+                "prompt_upsampling": True
+            }
+        )
+    elif model == "ideogram":
+        output = replicate.run(
+            "ideogram-ai/ideogram-v2-turbo",
+            input={
+                "prompt": prompt,
+                "resolution": "1344x768",
+                "style_type": "Auto",
+                "aspect_ratio": "16:9",
+                "negative_prompt": None, # optional string of text to NOT include
+                "magic_prompt_option": "Auto"
+            }
+        )
+    else:
+        raise ValueError(f"Invalid model: {model}")
+        
     # Handle both file-like objects and URLs
     try:
         # Try to read it as a file-like object (notebook case)
