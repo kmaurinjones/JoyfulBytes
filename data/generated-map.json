@@ -77,5 +77,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "whas11.com"
+    },
+    "2024-11-05": {
+        "date": "November 05, 2024",
+        "image_path": "./data/images/20241105-220002-1.png",
+        "story_summary": "Calgary -- **Irene Pfeffel** and **Lorna Shaw** celebrate a decade of their heartfelt *peanut butter drive* supporting the Calgary Food Bank.\n\nWhat began in 2014 with a modest collection of **33 kg** has transformed into a community powerhouse, amassing over **800 kilograms** last year alone\u2014enough to fill three cars.\n\nTheir dedication turns simple jars into vital *lifelines* for nearly **750 households** facing food insecurity, embodying the spirit of generosity and friendship.\n\nAs they aim to surpass their record this year, with already **450 kg** collected and two months to go, Irene and Lorna focus not on numbers but on the *meaningful impact* their efforts have on local families in dire need.\n\nCalgary Food Bank CEO Melissa From acknowledges the growing demand, highlighting the drive's crucial role in supporting the community during unprecedented times.",
+        "story_url": "https://globalnews.ca/news/10852847/calgary-friends-peanut-butter-drive-10th-year/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "One jar at a time: Calgary friends\u2019 peanut butter drive marks 10th year",
+        "url": "https://globalnews.ca/news/10852847/calgary-friends-peanut-butter-drive-10th-year/",
+        "datePublished": "2024-11-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>globalnews.ca</b>/<b>news</b>/10852847/calgary-friends-peanut-butter-drive-10th-year",
+        "snippet": "Ten years ago, Calgary friends Irene Pffefel and Lorna Shaw started a peanut butter drive for the Calgary Food Bank. This year they are aiming to break their 807kg record.",
+        "dateLastCrawled": "2024-11-05T23:43:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=4346429145635&mkt=en-CA&setlang=en-US&w=35s8P2Pjr9A8uu0NMyiyqixyMFKFVWqc",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Global News"
     }
 }
