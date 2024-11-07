@@ -210,5 +210,3 @@ for attempt in range(1, image_gen_attempts + 1):
         logger.error(f"Error in attempt {attempt}: {str(e)}")
         feedback = None  # Reset feedback on error
         continue
-
-# ... rest of code ...

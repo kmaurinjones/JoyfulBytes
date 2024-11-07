@@ -3,6 +3,7 @@
 import os
 import json
 from openai import OpenAI
+import anthropic
 import replicate
 from concurrent.futures import ThreadPoolExecutor, TimeoutError, as_completed
 from tqdm import tqdm
@@ -287,7 +288,7 @@ def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png")
     else:
         raise ValueError(f"Invalid model: {model}")
 
-def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: str = "gpt-4o-2024-08-06"):
+def validate_generated_image_old(image_data: bytes, image_gen_prompt: str, model: str = "gpt-4o-2024-08-06"):
     """
     Validate the generated image with the given criteria.
     """
@@ -354,6 +355,82 @@ def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: st
             )
 
             return json.loads(response.choices[0].message.content.strip())
+        except Exception as e:
+            return f"<|Error validating image: {e}|>"        
+    return None
+
+def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: str = "claude-3-sonnet-20240229"):
+    """
+    Validate the generated image with the given criteria using Anthropic's Claude API.
+    """
+    # No need to convert to base64 as Anthropic's API accepts it differently
+    example_response = {"text_accuracy": 8.50,"text_legibility": 7.25,"text_coherence": 9.00,"character_diversity": 6.75,"theme_relevance": 8.50,"emotional_impact": 7.00,"visual_appeal": 8.25,"clarity": 9.50,"cohesiveness": 8.00,"creativity": 7.75,"uplifting_suitability": 8.50}
+
+    base_prompt = """
+    # Instruction
+    You are an expert evaluator of images.
+    You need to evaluate how well the image aligns with the following criteria.
+    Your explanation should be in no more than 1-2 sentences, max 30 words.
+    For each criterion, provide a score between 0.00 and 10.00, using decimal precision to reflect nuance.
+
+    # Grading Criteria
+    - text_accuracy (0-10): The text caption's accuracy and match with the image generation prompt
+    - text_legibility (0-10): How readable and clear the text caption is for humans
+    - text_coherence (0-10): How well the text caption makes sense in the image context
+    - character_diversity (0-10): Diversity of human characters in terms of age, gender, ethnicity, and physical ability
+    - theme_relevance (0-10): How closely the image matches its intended theme or subject
+    - emotional_impact (0-10): How well it evokes positive emotions (joy, hope, inspiration, warmth)
+    - visual_appeal (0-10): Quality of composition, colors, and style, without distracting elements
+    - clarity (0-10): Clarity of content without blur, distortion, or artifacts
+    - cohesiveness (0-10): How harmoniously all elements work together
+    - creativity (0-10): Level of uniqueness and originality, avoiding clichés
+    - uplifting_suitability (0-10): Alignment with light-hearted, joyful narratives
+
+    # Prompt Used to Generate Image
+    {image_gen_prompt}
+
+    Provide a single score between 0.00 (does not meet any criteria) to 10.00 (perfectly meets all criteria), considering all the above aspects.
+    Use decimal precision, rounded to the nearest hundredth to reflect nuance.
+
+    You must return your response in a strict JSON dictionary format on a single line, to be parsed easily by a python function.
+    Your response must not include any backticks, code blocks, or other formatting, as this will break the JSON parsing.
+
+    # Example Response
+    {example_response}
+    """.replace("    ", "").strip()
+
+    anth_client = anthropic.Client(api_key=os.getenv("ANTHROPIC_API_KEY"))
+
+    for _ in range(3):
+        try:
+            response = anth_client.messages.create(
+                model=model,
+                max_tokens=1024,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image",
+                                "source": {
+                                    "type": "base64",
+                                    "media_type": "image/webp",
+                                    "data": base64.b64encode(image_data).decode('utf-8'),
+                                },
+                            },
+                            {
+                                "type": "text",
+                                "text": base_prompt.format(
+                                    example_response=json.dumps(example_response),
+                                    image_gen_prompt=json.dumps(image_gen_prompt),
+                                )
+                            }
+                        ],
+                    }
+                ],
+            )
+
+            return json.loads(response.content[0].text.strip())
         except Exception as e:
             return f"<|Error validating image: {e}|>"        
     return None
