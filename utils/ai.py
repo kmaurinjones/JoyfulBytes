@@ -207,14 +207,13 @@ def create_image_gen_prompt(story_text: str, model: str = "o1-mini-2024-09-12", 
 
     # Style
     Key style elements:
-    - Any human characters in the image must be diverse in terms of age, gender, and ethnicity.
-    - Be sure to include non-human characters, like animals, plants, or objects where appropriate and where relevant.
-    - Simple line work with casual, sketchy quality
-    - Minimal details but clear expressions
-    - Light gray wash shadows
-    - Clean white background
-    - No solid blacks, only grayscale
-    - Composition should be centered with plenty of white space around edges
+    - Any human characters in the image must be diverse in terms of age, gender, and ethnicity
+    - Be creative with the artistic style - consider various approaches like watercolor, digital art, pencil sketches, bold colors, or minimalist designs
+    - Feel free to experiment with different compositions, perspectives, and layouts
+    - The mood and tone should match the story's emotional content
+    - Visual elements should support and enhance the narrative
+    - Maintain clear focus on the key story elements
+    - Consider including symbolic or metaphorical elements that reinforce the story's message
     - Do NOT include any text in the image
 
     # Example Response
