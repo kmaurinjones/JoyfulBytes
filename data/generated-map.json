@@ -99,23 +99,22 @@
         "siteName": "Global News"
     },
     "2024-11-06": {
-        "date": "November 06, 2024",
-        "image_path": "./data/images/20241106-221417-1.png",
-        "story_summary": "Midland-Penetanguishene -- A dedicated group from the area, led by **Fred Hacker**, travels to **Kenya** to support underprivileged boys at the **Life4Kids** home near **Nairobi**.\n\nUpon arrival, they receive a heartwarming welcome with singing and dancing, symbolizing the hope and connection they bring.\n\nThe volunteers work tirelessly to expand the home\u2019s capacity, aiming to house **40 boys**, and establish a new **library** and **computer lab**, enhancing educational opportunities.\n\nThey engage deeply with the community, visiting the local slums and recognizing the resilience and warmth of the residents despite challenging circumstances.\n\nIn a touching tribute, they plant a tree and create the **Rotary Garden of Love**, fostering self-sustainability and a lasting legacy.\n\nTheir efforts culminate in emotional dedication ceremonies, filled with performances and heartfelt farewells, leaving behind a symbol of **hope**, **curiosity**, and **empowerment** for the boys.\n\nLife4Kids CEO **Jane Wasike** expresses profound gratitude, highlighting the ripple effect of the volunteers\u2019 dedication on the community's future.\n\nThe group's journey concludes with cherished memories and a commitment to continue their mission, inspiring ongoing support for the Life4Kids home.",
-        "story_url": "https://www.barrietoday.com/local-news/filled-with-emotion-joy-groups-visit-offers-hope-support-to-kenyan-boys-9768956",
-        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
-        "name": "&#39;Filled with emotion, joy,&#39; group&#39;s visit offers hope, support to ...",
-        "url": "https://www.barrietoday.com/local-news/filled-with-emotion-joy-groups-visit-offers-hope-support-to-kenyan-boys-9768956",
-        "datePublished": "2024-11-06T00:00:00.0000000",
-        "datePublishedFreshnessText": "1 day ago",
+        "date": "November 07, 2024",
+        "image_path": "./data/images/20241106-223059-1.png",
+        "story_summary": "Sault Ste. Marie -- \n\n*On a stormy night*, a **determined stray dog** seeks shelter at the local police station, appearing **soaked and distressed** as heavy rain pours down relentlessly.\n\n**Officer Emily Summers**, known for her unwavering love of animals, takes pity on him, offering food and water, and noticing his lack of identification, leading to the realization that he might be lost or abandoned.\n\nThe dog, affectionately named **Buddy**, becomes a **welcome presence** at the station, his friendly demeanor and wagging tail bringing smiles and lifting the spirits of the officers during their long, challenging shifts.\n\nWhen Buddy uses his keen instincts to alert the police to a suspicious individual during a patrol break, he earns the affectionate title of **\"Officer Buddy\"**, delighting his handlers and showcasing his natural protective instincts.\n\nRecognizing his **loyalty and bravery**, the station decides to adopt him as their **honorary mascot**, providing him with a comfortable space, an array of toys, tasty treats, and a specially designed small uniform to signify his new role.\n\nBuddy's bond with the officers deepens as he eagerly participates in **community outreach programs**, endearing him even more to local residents and children who eagerly await his friendly visits and interactions.\n\nHis transformation from a lost dog to a beloved member of the force inspires the entire community, highlighting the profound power of **kindness and resilience** in changing lives for the better.\n\nToday, Buddy continues to **brighten the lives** of those around him, embodying the spirit of loyalty and protection, and serving as a heartwarming reminder of the impact one act of compassion can have on an entire community.",
+        "story_url": "https://fancy4news.com/a-lost-dogs-journey-from-police-station-visitor-to-adopted-member-of-the-force-anhxuan-xuan/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "A lost dog&#39;s journey: From police station visitor to adopted member of ...",
+        "url": "https://fancy4news.com/a-lost-dogs-journey-from-police-station-visitor-to-adopted-member-of-the-force-anhxuan-xuan/",
+        "datePublished": "2024-11-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
         "isFamilyFriendly": true,
-        "displayUrl": "https://www.barrie<b>today</b>.com/local-news/filled-with-emotion-joy-groups-visit-offers...",
-        "snippet": "To say the past week has been an eye-opening whirlwind for a group of locals now visiting Kenya likely isn\u2019t an overstatement. Fred Hacker and 10 others from the Midland-Penetanguishene area, who are involved with Life4Kids Canada, have been working hard to improve the facility that\u2019s home to underprivileged boys living in the impoverished African country.",
-        "dateLastCrawled": "2024-11-06T22:17:00.0000000Z",
-        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=4827669297977&mkt=en-CA&setlang=en-US&w=3uwuYkzAEZfdaEso3JeLpoiYE6d824SJ",
+        "displayUrl": "https://fancy4news.com/a-lost-dogs-journey-from-police-station-visitor-to-adopted...",
+        "snippet": "It all started with a rainy night when this determined dog found shelter at the police station\u2019s entrance, soaking wet and visibly distressed. What began as an innocent visit quickly transformed into a <b>heartwarming</b> journey that would bring the dog into the hearts of officers and the community alike. The Arrival of an Unexpected Visitor",
+        "dateLastCrawled": "2024-11-07T03:00:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=3178402197937&mkt=en-CA&setlang=en-US&w=yu13rJWGofroas5RLLXD1LxpmeqUP5cO",
         "language": "en",
-        "isNavigational": true,
-        "noCache": false,
-        "siteName": "BarrieToday.com"
+        "isNavigational": false,
+        "noCache": false
     }
 }

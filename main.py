@@ -10,7 +10,7 @@ from utils.validation import extract_search_results
 from utils.ai import (
     validate_news_stories, create_image_gen_prompt, \
     generate_image, validate_generated_image,
-    summarize_webpage
+    summarize_webpage, validate_webpage_content
 )
 from utils.scraping import get_page_text_content
 import requests
@@ -76,7 +76,18 @@ for story in tqdm(rankings_stories, desc="Trying to get text content"):
         if response.strip() and len(response.strip().split()) > 300: # ensure there's enough content
             story['text_content'] = response
             logger.info(f"Successfully retrieved content from URL: {url}")
-            break
+
+            # add check to AI-validate the text content
+            if not validate_webpage_content(story['text_content']):
+                logger.error(f"Failed to validate content for {url}")
+                continue
+
+            # if we made it here, we have a valid story
+            else:
+                # we have a valid story - log it and break
+                logger.info(f"Successfully validated content for {url}")
+
+                break
     except Exception as e:
         logger.error(f"Error getting content for {url}: {str(e)}")
         continue

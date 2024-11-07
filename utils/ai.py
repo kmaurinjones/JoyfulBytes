@@ -14,6 +14,10 @@ client = OpenAI(
     api_key=os.environ['OPENAI_API_KEY']
 )
 
+anthropic_client = anthropic.Anthropic(
+    api_key=os.getenv("ANTHROPIC_API_KEY")
+)
+
 def batch_prompt_oai(prompts: list[str], 
                     model: str = "gpt-4o-mini-2024-07-18", 
                     max_workers: int = 20,
@@ -102,14 +106,18 @@ def validate_news_stories(results: list[dict[str, str]], tqdm_desc: str = None, 
 
     # Ranking Criteria
     Use the following criteria to guide your ranking:
-    1. **Local Focus**: The story should ideally involve individuals, small communities, or local efforts, especially in small towns or neighborhoods.
-    2. **Non-Celebrity**: The story should not feature major celebrities or public figures.
-    3. **Non-Political**: Avoid headlines that involve politics, government policy, or political issues.
-    4. **Uplifting and Positive**: The story should leave readers with a sense of joy, hope, or inspiration - perfect for cartoon adaptation.
-    5. **Acts of Kindness or Community Support**: Bonus points for stories involving selfless acts of kindness, community collaboration, or personal achievements.
-    6. **Uncommon Stories**: Prefer stories that are unique, heartwarming, or pleasantly surprising, rather than common or generic good news.
-    7. **Avoid Negative Contexts**: Headlines should not involve sadness, tragedy, or negative events, even if the outcome is positive.
-    8. **Visual Potential**: Consider whether the story could be effectively conveyed through a cartoon format.
+    1. **Local Focus with Authenticity**: The story should highlight individuals, small communities, or local efforts, especially those from diverse backgrounds, in a way that respects their unique identity and contributions rather than framing them solely as recipients of help.
+    2. **Non-Celebrity**: The story should not feature major celebrities or public figures, focusing instead on everyday people with relatable experiences.
+    3. **Non-Political**: Avoid headlines that involve politics, government policy, or political issues to keep the tone universally positive and inclusive.
+    4. **Uplifting and Positive**: The story should genuinely uplift, leaving a sense of joy, hope, or inspiration without relying on stereotypes, ‘savior’ narratives, or overly simplistic portrayals of resilience.
+    5. **Acts of Kindness or Community Support**: Bonus points for stories involving selfless acts of kindness, collaboration, or personal achievement, especially if the community itself drives the action rather than external groups.
+    6. **Uncommon and Nuanced**: Prefer stories that are unique, insightful, or pleasantly surprising. Avoid overly sentimental or generic stories; instead, favor those that offer a fresh perspective on positive human experiences.
+    7. **Avoid Tragic or Simplistic Narratives**: Headlines should avoid themes of tragedy, pity, or hardship, even if the ultimate outcome is positive. Additionally, avoid content that feels voyeuristic or reduces people’s lives to simplistic narratives.
+    8. **Visual Potential with Respect**: Consider whether the story could be effectively conveyed through a cartoon format that honors the dignity of all characters involved. Stories should have a visual element that celebrates life without trivializing it.
+    9. **Empowerment Over Dependency**: Focus on stories that celebrate agency, where individuals or communities are portrayed as capable and empowered rather than as subjects of intervention. The narrative should respect autonomy and celebrate mutual aid, rather than emphasizing dependency or external rescue.
+    10. **Cultural Sensitivity and Representation**: Be mindful of stories that involve cultural practices, traditions, or lifestyles, ensuring they are represented respectfully and without sensationalism or exoticism. Prefer stories that offer an inclusive, accurate portrayal of diverse experiences, fostering genuine understanding and connection.
+    11. **Avoid Fetishization**: Avoid content that fetishizes or objectifies individuals, especially those from marginalized or vulnerable communities. Ensure that the portrayal of characters is respectful and not exploitative.
+    12. **Avoid Clickbait**: Headlines should not be misleading or sensationalized to drive clicks, but rather should provide genuine value and inform readers about meaningful, uplifting stories.
 
     # Headline Information
     {headline}
@@ -129,6 +137,64 @@ def validate_news_stories(results: list[dict[str, str]], tqdm_desc: str = None, 
     ]
 
     return batch_prompt_oai(prompts, model=model, tqdm_desc=tqdm_desc)
+
+def validate_webpage_content(webpage_text: str) -> bool:
+    """
+    Validate webpage content against our criteria, returning True if it passes and False if it fails.
+    
+    Args:
+        webpage_text: String containing the webpage content
+        model: OpenAI model to use
+        tqdm_desc: Description for the progress bar
+    
+    Returns:
+        bool: True if content passes validation, False otherwise
+    """
+    example_response = True
+
+    base_prompt = """
+    # Instruction
+    You are an expert evaluator for a project dedicated to creating AI-generated cartoons that spread joy and positivity.
+    Your task is to read the following content and determine if it aligns with our mission of delivering uplifting, feel-good content
+    that can be transformed into inspiring cartoons.
+
+    Return ONLY a string response with either "true" or "false".
+
+    # Criteria
+    1. **Local Focus with Authenticity**: The story should highlight individuals, small communities, or local efforts, especially those from diverse backgrounds, in a way that respects their unique identity and contributions rather than framing them solely as recipients of help.
+    2. **Non-Celebrity**: The story should not feature major celebrities or public figures, focusing instead on everyday people with relatable experiences.
+    3. **Non-Political**: Avoid headlines that involve politics, government policy, or political issues to keep the tone universally positive and inclusive.
+    4. **Uplifting and Positive**: The story should genuinely uplift, leaving a sense of joy, hope, or inspiration without relying on stereotypes, ‘savior’ narratives, or overly simplistic portrayals of resilience.
+    5. **Acts of Kindness or Community Support**: Bonus points for stories involving selfless acts of kindness, collaboration, or personal achievement, especially if the community itself drives the action rather than external groups.
+    6. **Uncommon and Nuanced**: Prefer stories that are unique, insightful, or pleasantly surprising. Avoid overly sentimental or generic stories; instead, favor those that offer a fresh perspective on positive human experiences.
+    7. **Avoid Tragic or Simplistic Narratives**: Headlines should avoid themes of tragedy, pity, or hardship, even if the ultimate outcome is positive. Additionally, avoid content that feels voyeuristic or reduces people’s lives to simplistic narratives.
+    8. **Visual Potential with Respect**: Consider whether the story could be effectively conveyed through a cartoon format that honors the dignity of all characters involved. Stories should have a visual element that celebrates life without trivializing it.
+    9. **Empowerment Over Dependency**: Focus on stories that celebrate agency, where individuals or communities are portrayed as capable and empowered rather than as subjects of intervention. The narrative should respect autonomy and celebrate mutual aid, rather than emphasizing dependency or external rescue.
+    10. **Cultural Sensitivity and Representation**: Be mindful of stories that involve cultural practices, traditions, or lifestyles, ensuring they are represented respectfully and without sensationalism or exoticism. Prefer stories that offer an inclusive, accurate portrayal of diverse experiences, fostering genuine understanding and connection.
+    11. **Avoid Fetishization**: Avoid content that fetishizes or objectifies individuals, especially those from marginalized or vulnerable communities. Ensure that the portrayal of characters is respectful and not exploitative.
+    12. **Avoid Clickbait**: Headlines should not be misleading or sensationalized to drive clicks, but rather should provide genuine value and inform readers about meaningful, uplifting stories.
+
+    # Content to Evaluate
+    {content}
+
+    # Example Response
+    {example_response}
+
+    # Your Response (only valid options are "true" or "false")
+    """
+
+    message = anthropic_client.messages.create(
+        model="claude-3-5-sonnet-20241022",
+        max_tokens=10, # don't need a high token limit here
+        messages=[
+            {"role": "user", "content": base_prompt.format(
+                content=json.dumps(webpage_text),
+                example_response=json.dumps(example_response)
+            )}
+        ]
+    )
+
+    return message.content[0].text.strip().lower().startswith("true") # case insensitive, stripped
 
 def re_validate_news_stories(results: list[dict[str, str]], tqdm_desc: str = None, model: str = "o1-mini-2024-09-12"):
     """
@@ -261,7 +327,6 @@ def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png")
                 "aspect_ratio": "16:9",  # 16:9 is good for most cartoons
                 "output_format": file_type, # can be one of ["png", "webp", "jpg"]
                 "output_quality": 100,
-                "style_type": "Realistic",
                 "safety_tolerance": 2,  # 5 is most permissive and 0 is most strict
                 "prompt_upsampling": True
             }
@@ -277,7 +342,7 @@ def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png")
             input={
                 "prompt": prompt,
                 "resolution": "1344x768",
-                "style_type": "Auto",
+                "style_type": "Realistic",
                 "aspect_ratio": "16:9",
                 "negative_prompt": "", # optional string of text to NOT include
                 "magic_prompt_option": "Auto"
@@ -403,11 +468,9 @@ def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: st
     {example_response}
     """.replace("    ", "").strip()
 
-    anth_client = anthropic.Client(api_key=os.getenv("ANTHROPIC_API_KEY"))
-
     for _ in range(3):
         try:
-            response = anth_client.messages.create(
+            response = anthropic_client.messages.create(
                 model=model,
                 max_tokens=1024,
                 messages=[
