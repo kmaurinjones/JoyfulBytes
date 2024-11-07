@@ -243,6 +243,8 @@ def create_image_gen_prompt(story_text: str, model: str = "o1-mini-2024-09-12", 
 def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png"):
     """
     Generate an image from the given prompt and return the image data.
+
+    Ideogram API docs: https://replicate.com/ideogram-ai/ideogram-v2-turbo
     
     Args:
         prompt: Text prompt for image generation
@@ -260,6 +262,7 @@ def generate_image(prompt: str, model: str = "ideogram", file_type: str = "png")
                 "aspect_ratio": "16:9",  # 16:9 is good for most cartoons
                 "output_format": file_type, # can be one of ["png", "webp", "jpg"]
                 "output_quality": 100,
+                "style_type": "Realistic",
                 "safety_tolerance": 2,  # 5 is most permissive and 0 is most strict
                 "prompt_upsampling": True
             }
@@ -363,7 +366,9 @@ def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: st
     """
     Validate the generated image with the given criteria using Anthropic's Claude API.
     """
-    # No need to convert to base64 as Anthropic's API accepts it differently
+    # Convert bytes to base64
+    base64_image = base64.b64encode(image_data).decode('utf-8')
+    
     example_response = {"text_accuracy": 8.50,"text_legibility": 7.25,"text_coherence": 9.00,"character_diversity": 6.75,"theme_relevance": 8.50,"emotional_impact": 7.00,"visual_appeal": 8.25,"clarity": 9.50,"cohesiveness": 8.00,"creativity": 7.75,"uplifting_suitability": 8.50}
 
     base_prompt = """
@@ -414,8 +419,8 @@ def validate_generated_image(image_data: bytes, image_gen_prompt: str, model: st
                                 "type": "image",
                                 "source": {
                                     "type": "base64",
-                                    "media_type": "image/webp",
-                                    "data": base64.b64encode(image_data).decode('utf-8'),
+                                    "media_type": "image/png",
+                                    "data": base64_image,
                                 },
                             },
                             {
