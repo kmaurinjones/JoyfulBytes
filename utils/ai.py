@@ -9,6 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, TimeoutError, as_completed
 from tqdm import tqdm
 import requests
 import base64
+from datetime import datetime
 
 client = OpenAI(
     api_key=os.environ['OPENAI_API_KEY']
@@ -231,7 +232,7 @@ def summarize_webpage(webpage_text: str, model: str = "o1-mini-2024-09-12", tqdm
     as well as story context for the image generation model.
     - Be sure to use markdown formatting, including bolding and italicizing, to make the summary more engaging.
     - Write it grammatically in a tense that reads naturally for a user reading about this story the day it was written. Therefore, mirror the tense of the original story.
-    - Begin the summary with the location of the story, such as "Sault Ste. Marie -- ", as in many news articles.
+    - Begin the summary with the location of the story, if mentioned in the story ("location_x --"), else put "Location unknown --" at the start, with the date of the story {today_date}
 
     Your response must be in a strict JSON dictionary format on a single line, to be parsed easily by a python function.
     Include both the summary and its word count in your response.
@@ -248,7 +249,8 @@ def summarize_webpage(webpage_text: str, model: str = "o1-mini-2024-09-12", tqdm
     prompts = [
         base_prompt.format(
             example_response=json.dumps(example_response),
-            webpage_text=json.dumps(webpage_text)
+            webpage_text=json.dumps(webpage_text),
+            today_date=datetime.now().strftime("%B %d, %Y")
         )
     ]
 
