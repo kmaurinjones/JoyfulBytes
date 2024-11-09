@@ -40,7 +40,7 @@
         "siteName": "Times of India"
     },
     "2024-11-03": {
-        "date": "November 04, 2024",
+        "date": "November 03, 2024",
         "image_path": "./data/images/20241103-221510-3.png",
         "story_summary": "**In a frigid winter morning**, a compassionate woman discovers six dogs huddled in deep snow, abandoned and fighting for survival.\n\nUnable to ignore their suffering, she brings them into her home, *dedicating herself* to their recovery with unwavering commitment.\n\nHer home transforms into a sanctuary, providing the dogs with nourishing food, veterinary care, and boundless love, allowing them to heal and thrive.\n\nAs the dogs regain their health and spirits, they transition from frightened strays to joyful companions, filling her home with happiness.\n\nHer **selfless actions** inspire the community, garnering support and raising awareness about animal welfare and the impacts of abandonment.\n\nToday, the six dogs enjoy a forever home filled with comfort and joy, embodying a heartwarming story of hope, resilience, and the profound difference one person can make.",
         "story_url": "https://fancy4news.com/six-dogs-that-were-abandoned-in-the-cold-snow-found-a-loving-home-with-her-thaolv/",
@@ -99,7 +99,7 @@
         "siteName": "Global News"
     },
     "2024-11-06": {
-        "date": "November 07, 2024",
+        "date": "November 06, 2024",
         "image_path": "./data/images/20241106-223059-1.png",
         "story_summary": "Sault Ste. Marie -- \n\n*On a stormy night*, a **determined stray dog** seeks shelter at the local police station, appearing **soaked and distressed** as heavy rain pours down relentlessly.\n\n**Officer Emily Summers**, known for her unwavering love of animals, takes pity on him, offering food and water, and noticing his lack of identification, leading to the realization that he might be lost or abandoned.\n\nThe dog, affectionately named **Buddy**, becomes a **welcome presence** at the station, his friendly demeanor and wagging tail bringing smiles and lifting the spirits of the officers during their long, challenging shifts.\n\nWhen Buddy uses his keen instincts to alert the police to a suspicious individual during a patrol break, he earns the affectionate title of **\"Officer Buddy\"**, delighting his handlers and showcasing his natural protective instincts.\n\nRecognizing his **loyalty and bravery**, the station decides to adopt him as their **honorary mascot**, providing him with a comfortable space, an array of toys, tasty treats, and a specially designed small uniform to signify his new role.\n\nBuddy's bond with the officers deepens as he eagerly participates in **community outreach programs**, endearing him even more to local residents and children who eagerly await his friendly visits and interactions.\n\nHis transformation from a lost dog to a beloved member of the force inspires the entire community, highlighting the profound power of **kindness and resilience** in changing lives for the better.\n\nToday, Buddy continues to **brighten the lives** of those around him, embodying the spirit of loyalty and protection, and serving as a heartwarming reminder of the impact one act of compassion can have on an entire community.",
         "story_url": "https://fancy4news.com/a-lost-dogs-journey-from-police-station-visitor-to-adopted-member-of-the-force-anhxuan-xuan/",
@@ -116,5 +116,25 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-11-08": {
+        "date": "November 08, 2024",
+        "image_path": "./data/images/20241108-220002-3.png",
+        "story_summary": "Location unknown -- November 08, 2024\n\n**Heartwarming Reunions** coincide with World Kindness Week and Veterans Day, showcasing emotional moments as military members surprise their families.\n\n*First Lieutenant Kyle Albert* returns from Iraq to his daughter Karlie\u2019s cheer game, sneaking into a halftime photo and bringing her to tears of joy after nearly a year apart.\n\n*Navy Airman Tommy Stout* makes a secret appearance at his brother Timmy\u2019s wedding, delivering a heartfelt hug that leaves both his brother and the guests moved to tears.\n\n*Marine Taylor Rice* surprises his mother by returning home in uniform during a family gathering, celebrating his graduation from boot camp and creating a deeply emotional reunion.\n\nThese stories highlight the profound bonds and sacrifices shared between servicemembers and their loved ones, celebrating unexpected moments of love and connection.",
+        "story_url": "https://www.fox6now.com/news/waukesha-celebrates-adoption-day-families-welcome-new-members",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Waukesha celebrates Adoption Day; families welcome new members",
+        "url": "https://www.fox6now.com/news/waukesha-celebrates-adoption-day-families-welcome-new-members",
+        "datePublished": "2024-11-08T23:21:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.fox6now.com/news/waukesha-celebrates-adoption-day-families-welcome-new-members",
+        "snippet": "The Brief. Waukesha County celebrated National Adoption Day by holding several ceremonies for families on Friday, Nov. 8. One such family was the Postons; they officially welcomed 4-year-old ...",
+        "dateLastCrawled": "2024-11-08T23:24:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=5377804927764&mkt=en-CA&setlang=en-US&w=cddscV8FjzERxXw1BqMOv69OnNg9rKsY",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Fox6 Milwaukee"
     }
 }
