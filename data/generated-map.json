@@ -136,5 +136,37 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Fox6 Milwaukee"
+    },
+    "2024-11-09": {
+        "date": "November 10, 2024",
+        "image_path": "./data/images/20241109-220003-1.png",
+        "story_summary": "*Banstead, Surrey -- November 09, 2024*\n\nA tragic afternoon unfolds as a **child** is struck by a *fallen tree branch* in Banstead, Surrey.\n\nEmergency services rush to Grove Place near Carshalton Road shortly after 4pm, with the **Metropolitan Police**, **London Fire Brigade**, and **London Ambulance Service** responding promptly. Despite their swift actions, the child succumbs to their injuries.\n\nThe community mourns the loss while authorities investigate the incident, deemed non-suspicious. The family is being informed, and a report will be prepared for the coroner. Details about the child's age and gender remain undisclosed at this time.",
+        "story_url": "https://7news.com.au/news/coldplay-frontman-chris-martin-saves-young-boy-from-being-crushed-by-crowd-at-sydney-concert-at-accor-stadium-c-16701223",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Coldplay frontman\u2019s heartwarming act at Sydney concert",
+        "url": "https://7news.com.au/news/coldplay-frontman-chris-martin-saves-young-boy-from-being-crushed-by-crowd-at-sydney-concert-at-accor-stadium-c-16701223",
+        "datePublished": "2024-11-10T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://7news.com.au/news/coldplay-frontman-chris-martin-saves-young-boy-from-being...",
+        "snippet": "Coldplay frontman Chris Martin has once again shown how much he cares for his fans by helping a little boy who was being crushed while attending the band\u2019s second Sydney show.. The 47-year-old spotted the young boy struggling in the standing section of the crowd on Thursday night. WATCH THE VIDEO ABOVE: Chris Martin\u2019s <b>heartwarming</b> <b>act</b> for young boy at Sydney concert",
+        "deepLinks": [
+            {
+                "name": "Chris Martin&#39;s heartwarming act for young boy at Sydney concert",
+                "url": "https://7news.com.au/video/entertainment/music/chris-martins-heartwarming-act-for-young-boy-at-sydney-concert-bc-6364489277112",
+                "snippet": "The 15-year-old was stabbed during a fight, police allege. 1 min read. 4 min read. 5 min read. 1 min read. Chris tried to help the boy find a spot that wasn&#39;t crowded and offered him the best view possible."
+            },
+            {
+                "name": "Loyal fans outraged at Brisbane Lion&#39;s &#39;premiership tax&#39; - 7NEWS",
+                "url": "https://7news.com.au/video/news/top-video/loyal-fans-outraged-at-brisbane-lions-premiership-tax-bc-6364491292112",
+                "snippet": "Chris Martin&#39;s heartwarming act for young boy at Sydney concert. Tones and I invites Raygun on stage during concert. Entertainment Videos. Sport Videos. Lifestyle Videos. News. Pop superstar invites Raygun on stage to do \u2018iconic\u2019 Olympic dance"
+            }
+        ],
+        "dateLastCrawled": "2024-11-10T02:18:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=567615192624&mkt=en-CA&setlang=en-US&w=3GGq8qeCRQaZ3iRnPy2q3AQiruAEJcME",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "7NEWS"
     }
 }
