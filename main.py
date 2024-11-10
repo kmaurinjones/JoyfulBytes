@@ -198,7 +198,7 @@ for attempt in range(1, image_gen_attempts + 1):
                     generated_map[current_date] = {
                         "date": formatted_date,
                         "image_path": output_filename,
-                        "story_summary": chosen_story_summary,
+                        "story_summary": chosen_story_summary['summary'],
                         "story_url": chosen_story['result']['url'],
                         **chosen_story['result']
                     }

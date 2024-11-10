@@ -171,25 +171,21 @@
     },
     "2024-11-10": {
         "date": "November 10, 2024",
-        "image_path": "./data/images/20241110-131724-1.png",
-        "story_summary": {
-            "summary": "Jamesport -- November 10, 2024\n\nCelia Marszal-Iannelli celebrates her birthday on Thanksgiving Day, reflecting on her **_full and winding life journey_**.\n\nFrom an early marriage at 19, she and her husband built a life filled with love, work, and raising sons together.\n\nAfter becoming widowed, Celia faced deep grief but found strength in pursuing education and supporting her family.\n\nHer **_writing talents_** led her to author short stories and a monthly column, reigniting her passions.\n\nA second chance at love brought Sweet Frank into her life, but his untimely death introduced new sorrow.\n\nDespite challenges, Celia rebuilt her life, embracing projects, friendships, and becoming a grandmother, finding joy in her grandkids, Nova and Luca.\n\nHer story embodies resilience, self-discovery, and the enduring **_spirit of life_**, choosing to look forward with gratitude and humor.",
-            "word_count": 181
-        },
-        "story_url": "https://riverheadlocal.com/2024/11/10/the-fullness-of-life-is-a-perfect-time-for-healthy-introspection/",
-        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
-        "name": "Column | The \u2018fullness of life\u2019 is a perfect time for healthy ...",
-        "url": "https://riverheadlocal.com/2024/11/10/the-fullness-of-life-is-a-perfect-time-for-healthy-introspection/",
+        "image_path": "./data/images/20241110-131941-1.png",
+        "story_summary": "Location unknown -- November 10, 2024\n\n**Dive into a curated list of 14 *feel-good novels* designed to brighten the cold winter days.**\n\n**Each book, ranging from heartfelt romances to magical adventures, offers a sanctuary of warmth and comfort amidst the chill.**\n\n**Discover stories that celebrate friendship, love, and the magic of finding oneself, perfect for curling up with a blanket and a warm drink.**\n\n**This collection promises to transport readers to enchanting worlds, inspiring laughter, tears, and everything in between.**\n\n**Whether you're seeking a nostalgic escape or a modern tale of self-discovery, these selections are sure to provide the perfect winter retreat.**\n\n**Embrace the season with these heartwarming stories that remind us of the simple joys and the power of a good book.**",
+        "story_url": "https://www.wokewaves.com/posts/winter-cozy-book-escapes",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "14 Feel-Good Books Perfect for Cold Winter Days | Lifestyle",
+        "url": "https://www.wokewaves.com/posts/winter-cozy-book-escapes",
         "datePublished": "2024-11-10T00:00:00.0000000",
         "datePublishedFreshnessText": "18 hours ago",
         "isFamilyFriendly": true,
-        "displayUrl": "https://riverheadlocal.com/2024/11/10/the-fullness-of-life-is-a-perfect-time-for...",
-        "snippet": "They were looking for slice-of-life short <b>stories</b>. Without expectation, I authored a story about my sons leaving for college. It was accepted. And bonus! I was hired to write a column once a month called \u201cThe Woman\u2019s Forum.\u201d While I was slipping and sliding along on my path of stones, a surprise gift. This one looked unexpectedly <b>good</b> to me.",
-        "dateLastCrawled": "2024-11-10T17:18:00.0000000Z",
-        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=430306659079&mkt=en-CA&setlang=en-US&w=S8p6AwkDD3VL-C-KAy3osSr7t6ynJed6",
+        "displayUrl": "https://www.wokewaves.com/posts/winter-cozy-book-escapes",
+        "snippet": "This unique, <b>feel-good</b> novel is perfect for readers who love <b>stories</b> that dive into the human experience, bringing both laughter and reflection on those long winter nights. 11. &quot;The Little Paris Bookshop&quot; by Nina George",
+        "dateLastCrawled": "2024-11-10T15:29:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=3728815260893&mkt=en-CA&setlang=en-US&w=hsEfl09jbOBc6YlhWqRiekHwLT6rify8",
         "language": "en",
         "isNavigational": false,
-        "noCache": false,
-        "siteName": "RiverheadLOCAL"
+        "noCache": false
     }
 }
