@@ -237,6 +237,7 @@ def summarize_webpage(webpage_text: str, model: str = "o1-mini-2024-09-12", tqdm
     Your response must be in a strict JSON dictionary format on a single line, to be parsed easily by a python function.
     Include both the summary and its word count in your response.
     Your response must not include any backticks, code blocks, or other formatting, as this will break the JSON parsing.
+    You must use exactly the same JSON structure and key(s) as in the example response, otherwise parsing will fail.
 
     # Example Response
     {example_response}

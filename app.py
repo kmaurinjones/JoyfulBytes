@@ -73,18 +73,6 @@ if selected_date_str in data_dict:
         # Date with icon
         st.markdown(f"## 📆 {story_date}")
         
-        # Add a subtle animation effect for the image
-        st.markdown("""
-            <style>
-            .hover-zoom img {
-                transition: transform .3s ease;
-            }
-            .hover-zoom img:hover {
-                transform: scale(1.02);
-            }
-            </style>
-        """, unsafe_allow_html=True)
-        
         with st.container():
             st.markdown('<div class="hover-zoom">', unsafe_allow_html=True)
             st.image(image_path)
@@ -93,22 +81,10 @@ if selected_date_str in data_dict:
         # Make the story title more prominent
         st.markdown(f"### 📰 *[{story_name}]({story_url})*")
         
-        # Add a decorative box around the summary
-        st.markdown("""
-            <div style="
-                padding: 20px;
-                border-radius: 10px;
-                background-color: rgba(255, 255, 255, 0.7);
-                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-                margin: 20px 0;
-            ">
-        """, unsafe_allow_html=True)
         st.markdown(story_summary)
-        st.markdown("</div>", unsafe_allow_html=True)
 
 else:
-    st.error("🔍 No joyful bytes found for this date - try another day!")
+    st.error("🔍 No bytes found for this date - try another day!")
 
 # Add a footer
-st.markdown("---")
-st.markdown("*Made with 💖 by AI to spread joy through art*")
+st.divider()
