@@ -69,7 +69,8 @@ rankings_stories = sorted(stories_rankings, key=lambda x: x['ranking'], reverse=
 logger.info(f"Found {len(rankings_stories)} stories with maximum ranking of {max([r['ranking'] for r in rankings_stories])}")
 
 # Get text content for top stories
-for story in tqdm(rankings_stories, desc="Trying to get text content"):
+valid_story_index = None
+for idx, story in enumerate(tqdm(rankings_stories, desc="Trying to get text content")):
     url = story['result']['url']  # Changed from story['result']['url']
     try:
         response = get_page_text_content(url=url, timeout=10)
@@ -84,22 +85,20 @@ for story in tqdm(rankings_stories, desc="Trying to get text content"):
 
             # if we made it here, we have a valid story
             else:
-                # we have a valid story - log it and break
+                valid_story_index = idx  # Store the index of the valid story
                 logger.info(f"Successfully validated content for {url}")
-
                 break
     except Exception as e:
         logger.error(f"Error getting content for {url}: {str(e)}")
         continue
 
-if not any(story.get('text_content') for story in rankings_stories):
+if valid_story_index is None:
     logger.error("Failed to find any valid story content")
     sys.exit(1)
 
-logger.info("Generating story summary")
-chosen_story_summary = summarize_webpage(story['text_content'], tqdm_desc="Generating story summary")
-chosen_story_summary = chosen_story_summary['summary']
-logger.info(f"Generated summary of length: {len(chosen_story_summary)}")
+# Use the valid story for both summary and URL
+chosen_story = rankings_stories[valid_story_index]
+chosen_story_summary = summarize_webpage(chosen_story['text_content'], tqdm_desc="Generating story summary")
 
 logger.info("Starting image generation and validation process")
 image_dir = "./data/images"
@@ -200,8 +199,8 @@ for attempt in range(1, image_gen_attempts + 1):
                         "date": formatted_date,
                         "image_path": output_filename,
                         "story_summary": chosen_story_summary,
-                        "story_url": rankings_stories[0]['result']['url'],
-                        **rankings_stories[0]['result'] # add all other fields from the result
+                        "story_url": chosen_story['result']['url'],
+                        **chosen_story['result']
                     }
                     
                     # Write updated map back to file

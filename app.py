@@ -1,6 +1,7 @@
 import streamlit as st
 from datetime import date
 import json
+import random
 
 # app layout
 st.set_page_config(
@@ -9,8 +10,34 @@ st.set_page_config(
     page_icon=":smile:"
 )
 
-# App title
-st.markdown("# Joyful Bytes")
+# Custom CSS to inject
+st.markdown("""
+    <style>
+    /* Add some playful styling */
+    .stApp {
+        background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%);
+    }
+    .main-title {
+        background: linear-gradient(120deg, #FF6B6B, #4ECDC4);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 3em !important;
+        margin-bottom: 1em;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+# App title with more flair
+st.markdown("<h1 class='main-title'>✨ Joyful Bytes ✨</h1>", unsafe_allow_html=True)
+
+# Add an inspiring quote
+quotes = [
+    "Every pixel of positivity counts! 🎨",
+    "Your daily dose of digital delight! 🌟",
+    "Where AI meets optimism! 💫",
+    "Making the world brighter, one byte at a time! 🌈"
+]
+st.markdown(f"*{random.choice(quotes)}*")
 
 # load in data
 with open("./data/generated-map.json", "r") as f:
@@ -20,7 +47,7 @@ with open("./data/generated-map.json", "r") as f:
 
 # Create a date input widget with default value as today
 selected_date = st.date_input(
-    label="Select a date",
+    label="📅 Pick a day to explore!",
     value=max_date,
     min_value=min_date,
     max_value=max_date
@@ -41,15 +68,47 @@ if selected_date_str in data_dict:
     story_date = entry["date"]
     story_name = entry["name"]
 
-    # date
-    st.markdown(f"## {story_date}")
-    
-    # Display the image
-    st.image(image_path)
-    st.markdown(f"### *[{story_name}]({story_url})*")
-    
-    # Display the story summary
-    st.markdown(story_summary)
+    # Add a container for better organization
+    with st.container():
+        # Date with icon
+        st.markdown(f"## 📆 {story_date}")
+        
+        # Add a subtle animation effect for the image
+        st.markdown("""
+            <style>
+            .hover-zoom img {
+                transition: transform .3s ease;
+            }
+            .hover-zoom img:hover {
+                transform: scale(1.02);
+            }
+            </style>
+        """, unsafe_allow_html=True)
+        
+        with st.container():
+            st.markdown('<div class="hover-zoom">', unsafe_allow_html=True)
+            st.image(image_path)
+            st.markdown('</div>', unsafe_allow_html=True)
+        
+        # Make the story title more prominent
+        st.markdown(f"### 📰 *[{story_name}]({story_url})*")
+        
+        # Add a decorative box around the summary
+        st.markdown("""
+            <div style="
+                padding: 20px;
+                border-radius: 10px;
+                background-color: rgba(255, 255, 255, 0.7);
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                margin: 20px 0;
+            ">
+        """, unsafe_allow_html=True)
+        st.markdown(story_summary)
+        st.markdown("</div>", unsafe_allow_html=True)
 
 else:
-    st.write("No data available for the selected date.")
+    st.error("🔍 No joyful bytes found for this date - try another day!")
+
+# Add a footer
+st.markdown("---")
+st.markdown("*Made with 💖 by AI to spread joy through art*")
