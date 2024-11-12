@@ -161,7 +161,8 @@ for attempt in range(1, image_gen_attempts + 1):
 
                 # Update the generated-map.json file
                 map_file_path = "./data/generated-map.json"
-                current_date = datetime.now().strftime("%Y-%m-%d")
+                # Get current date in local timezone
+                current_date = datetime.now().astimezone().strftime("%Y-%m-%d")
                 
                 try:
                     # Read existing map if it exists
