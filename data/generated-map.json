@@ -207,5 +207,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "CollingwoodToday.ca"
+    },
+    "2024-11-14": {
+        "date": "November 15, 2024",
+        "image_path": "./data/images/20241114-233003-1.png",
+        "story_summary": "Keller, Texas -- November 14, 2024\n\n**Dusty Steele**, a *North Texas man*, discovers a **stolen high school state championship ring** for sale on Facebook. Moved by the story, he purchases the ring for $50, determined to find its original owner after **two decades**.\n\nThe ring belonged to **Blake Pool**, a Southlake Carroll graduate, who cherished it as a symbol of his undefeated 2002 football season. Twenty years ago, the ring was stolen from Pool's family home during a burglary, leaving behind painful memories.\n\nSteele's dedication leads him to post about the ring in local Facebook groups, catching the attention of Pool's wife. They arrange to meet at a restaurant, where Steele returns the ring, reuniting it with its rightful owner. This heartfelt reunion brings tears of joy to Pool's family, especially his mother, who cherished the ring as a family heirloom.\n\n**Steele's** altruistic act illustrates the profound impact of kindness and the enduring significance of treasured memories.",
+        "story_url": "https://www.fox4news.com/news/north-texas-man-reunited-stolen-high-school-state-championship-ring-two-decades-later",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "North Texas man reunited with stolen high school state championship ...",
+        "url": "https://www.fox4news.com/news/north-texas-man-reunited-stolen-high-school-state-championship-ring-two-decades-later",
+        "datePublished": "2024-11-15T03:41:00.0000000",
+        "datePublishedFreshnessText": "49 minutes ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.fox4news.com/news/north-texas-man-reunited-stolen-high-school-state...",
+        "snippet": "This random <b>act</b> of kindness brought tears to Stacy Wommack\u2019s eyes, Pool\u2019s mother. &quot;Very grateful,&quot; she said. &quot;Just can\u2019t put it into words.&quot; ...",
+        "dateLastCrawled": "2024-11-15T03:46:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=1389184175487&mkt=en-CA&setlang=en-US&w=jUNcuN9laO88oAt3UwU5sDHev_coe-gZ",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "FOX 4 News Dallas-Fort Worth"
     }
 }
