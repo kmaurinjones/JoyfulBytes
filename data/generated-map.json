@@ -227,5 +227,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "FOX 4 News Dallas-Fort Worth"
+    },
+    "2024-11-15": {
+        "date": "November 15, 2024",
+        "image_path": "./data/images/20241115-233002-1.png",
+        "story_summary": "**Strom Auditorium -- November 15, 2024**\n\nThe Strom Auditorium celebrates its **25th anniversary** with Stephen Sondheim\u2019s *Into the Woods*. This beloved musical blends classic fairy tales with catchy music and heartwarming moments.\n\nAs the Baker and his wife embark on a quest to lift a curse, they encounter familiar characters like Cinderella, Jack, Little Red Riding Hood, and Rapunzel. Through their adventures, they learn that \u201chappily ever after\u201d isn\u2019t always what it seems.\n\nThe dedicated cast and crew, including hardworking students and a talented technical team, bring the magic to life with energetic performances and stunning production elements.\n\nJoin the community in celebrating 25 years of theatre, music, and dance with show dates from November 15 to November 24, 2024. Tickets are available now and can be found at stromtix.com.",
+        "story_url": "https://www.penbaypilot.com/article/celebrating-25-years-theatre-music-and-dance-strom-auditorium-sondheims-woods/252537",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Celebrating 25 years of theatre, music and dance at Strom Auditorium ...",
+        "url": "https://www.penbaypilot.com/article/celebrating-25-years-theatre-music-and-dance-strom-auditorium-sondheims-woods/252537",
+        "datePublished": "2024-11-15T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.penbaypilot.com/article/celebrating-25-years-theatre-music-and-dance-strom...",
+        "snippet": "The stage is set, and tickets are now on sale for Stephen Sondheim\u2019s Into the Woods! The Strom Auditorium kicks off its 25th-anniversary season with this beloved musical\u2014an exciting blend of classic fairy tales, catchy music, and <b>heartwarming</b> moments. Don\u2019t miss your chance to be part of this special celebration. A Fresh Take on Classic Tales Into the Woods assembles familiar characters ...",
+        "dateLastCrawled": "2024-11-15T02:22:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=3729741601625&mkt=en-CA&setlang=en-US&w=RDvXebv5PKMgqhRbHGA8iH-TKBQMcBqY",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PenBay Pilot"
     }
 }
