@@ -247,5 +247,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "PenBay Pilot"
+    },
+    "2024-11-16": {
+        "date": "November 16, 2024",
+        "image_path": "./data/images/20241116-233002-1.png",
+        "story_summary": "Location unknown -- November 16, 2024\n\n**_Ms. Chloe Lim_**, a dedicated partner at DSTNCT, transforms her **_birthday_** into a **_celebration of giving_** every year.\n\nFor the past twelve years, instead of focusing on herself, Chloe uses her special day to uplift **_strangers and various charities_**, embracing an initiative she calls \"_Happy birthday to me to you_\".\n\nHer birthday on **_October 10_** aligns with **_World Mental Health Day_**, reinforcing her commitment to mental well-being through acts of service.\n\nFrom volunteering at special needs schools in India to collaborating with artists to raise funds, Chloe has impacted over **_5,000 people_** and raised more than **_S$15,000_**.\n\nHer efforts not only support those in need but also foster a culture of **_giving_** and **_community_** around her.\n\nChloe's initiative inspires others to rethink self-celebration, demonstrating that **_serving others_** can be deeply fulfilling and beneficial to one's own mental health.\n\nThrough genuine connections with beneficiaries, she ensures her giving is meaningful, illustrating the timeless value of a life dedicated to helping others.",
+        "story_url": "https://www.channelnewsasia.com/today/up-close/woman-every-birthday-project-uplift-help-others-need-4747911",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "The woman who makes every birthday a project to uplift and help ... - CNA",
+        "url": "https://www.channelnewsasia.com/today/up-close/woman-every-birthday-project-uplift-help-others-need-4747911",
+        "datePublished": "2024-11-16T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.channel<b>news</b>asia.com/<b>today</b>/up-close/woman-every-birthday-project-uplift...",
+        "snippet": "Ms Chloe Lim challenged the assumption of &quot;self-celebration&quot; of birthdays as part of her university course and has gone on to realise that helping others on one&#39;s birthday can be a mental health boon.",
+        "dateLastCrawled": "2024-11-17T01:04:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=4005276747274&mkt=en-CA&setlang=en-US&w=p3zRiY02q1JDnK4wufnu64pX5t_PQzOe",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "CNA"
     }
 }
