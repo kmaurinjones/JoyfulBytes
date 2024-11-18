@@ -267,5 +267,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "CNA"
+    },
+    "2024-11-17": {
+        "date": "November 17, 2024",
+        "image_path": "./data/images/20241117-233003-1.png",
+        "story_summary": "Bhopal -- November 17, 2024\n\n**Salman Khan**, a 32-year-old vegetable vendor near Bijli Colony on Raisen Road, becomes a local celebrity after a video of his reunion with **SDOP Santosh Patel** goes viral on social media.\n\n*The heartfelt reunion, set after 14 years, captures their bond rekindled when Patel, who once relied on Salman's generosity during tough times, visits his stall and shares their story online.*\n\n\"I don't know how this happened. It feels good when customers come to the shop and request me for a selfie,\" Salman expresses his surprise and joy at the sudden influx of visitors seeking photographs alongside purchasing his fresh produce.\n\nDespite the viral fame leading to a modest increase in sales, **Salman's humble approach remains unchanged**. He continues to prioritize his loyal customers and maintain his honest business practices, focusing on serving his community with dedication and authenticity.",
+        "story_url": "https://timesofindia.indiatimes.com/city/bhopal/vegetable-vendors-heartwarming-reunion-with-police-officer-goes-viral-on-social-media/articleshow/115393026.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Vegetable Vendor&#39;s Heartwarming Reunion with Police Officer Goes Viral ...",
+        "url": "https://timesofindia.indiatimes.com/city/bhopal/vegetable-vendors-heartwarming-reunion-with-police-officer-goes-viral-on-social-media/articleshow/115393026.cms",
+        "datePublished": "2024-11-17T19:18:00.0000000",
+        "datePublishedFreshnessText": "9 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/bhopal/vegetable-vendors-<b>heartwarming</b>-reunion...",
+        "snippet": "Salman Khan, a vegetable vendor in Bhopal, becomes a viral sensation after a touching reunion with SDOP Santosh Patel, capturing the hearts of social media users as he shares his journey and ...",
+        "dateLastCrawled": "2024-11-17T19:30:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2356205351444&mkt=en-CA&setlang=en-US&w=LOEC0Z7iHQjpjCrBdH-KcsovHwXoelvj",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
