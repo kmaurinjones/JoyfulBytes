@@ -287,5 +287,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2024-11-18": {
+        "date": "November 18, 2024",
+        "image_path": "./data/images/20241118-233002-1.png",
+        "story_summary": "Location unknown -- November 18, 2024\n\n**Micro-mance** is transforming modern relationships by emphasizing **_small, meaningful gestures_** over grand romantic acts.\n\nCouples today prioritize **authentic connections** through everyday actions like sharing memes, crafting playlists, or enjoying simple coffee walks together.\n\nRelationship experts highlight that these **_consistent, thoughtful actions_** build stronger bonds and trust, making love more sustainable and genuine.\n\nWhile grand gestures can be memorable, **micro-mance** ensures love is woven into the **_daily routine_**, fostering an ongoing story of affection without the need for elaborate planning.\n\nEmbracing these **_intimate moments_** allows couples to strengthen their relationships through attention, effort, and understanding, reflecting a shift towards **authenticity** and **meaningful connections**.",
+        "story_url": "https://www.indiatoday.in/lifestyle/relationship/story/move-over-grand-gestures-micro-mance-your-way-to-love-2635221-2024-11-19",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Move over grand gestures, micro-mance your way to love - India Today",
+        "url": "https://www.indiatoday.in/lifestyle/relationship/story/move-over-grand-gestures-micro-mance-your-way-to-love-2635221-2024-11-19",
+        "datePublished": "2024-11-19T03:00:00.0000000",
+        "datePublishedFreshnessText": "1 hour ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.india<b>today</b>.in/lifestyle/relationship/story/move-over-grand-gestures-micro...",
+        "snippet": "Couples <b>today</b> are moving away from grand gestures, instead choosing to express their love through thoughtful, small <b>acts</b> that hold deep emotional significance. Welcome to the era of micro-mance. Listen to Story From Emraan Hashmi stopping his car midway to propose to Sonal Chauhan in &#39;Jannat&#39; to ...",
+        "dateLastCrawled": "2024-11-19T03:01:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2906325533077&mkt=en-CA&setlang=en-US&w=Ip-9oQIu_1Qi2MxM5zCIz2eE5WRLggNR",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "India Today"
     }
 }
