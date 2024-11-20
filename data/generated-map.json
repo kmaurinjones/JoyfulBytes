@@ -307,5 +307,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "India Today"
+    },
+    "2024-11-19": {
+        "date": "November 20, 2024",
+        "image_path": "./data/images/20241119-233003-1.png",
+        "story_summary": "Location unknown -- November 19, 2024\n\n**_As the holiday season approaches,_** families come together to celebrate through a variety of heartwarming traditions.\n\n**_Classic movie nights_** evoke nostalgia and laughter, creating cozy moments with loved ones.\n\n**_Baking and decorating cookies_** transforms the kitchen into a hub of joy and creativity, where stories and secret recipes are shared.\n\n**_Gift exchanges like Secret Santa_** encourage thoughtfulness and kindness, deepening family connections.\n\n**_Candlelit dinners_** on holiday eves turn meals into magical experiences, fostering gratitude and appreciation among family members.\n\n**_Reading Christmas stories_** transports everyone to a world of wonder, rekindling the joy of childhood.\n\n**_Decorating the Christmas tree together_** becomes a cherished ritual, with each ornament holding a story of its own.\n\n**_Creating new traditions,_** such as celebrating birthdays on Christmas or building family campfires, add unique layers to the festivities.\n\n**_Engaging in charity drives_** and **_compiling annual family albums_** ensure the true spirit of the holidays\u2014giving and togetherness\u2014is preserved.\n\nThrough these traditions, families weave a tapestry of love and unity that lasts a lifetime.",
+        "story_url": "https://advantages.avery.com/blog/82563/heart-of-the-holidays.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "10 Heartwarming Holiday Traditions That Bring Families Closer",
+        "url": "https://advantages.avery.com/blog/82563/heart-of-the-holidays.html",
+        "datePublished": "2024-11-20T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://advantages.avery.com/blog/82563/heart-of-the-holidays.html",
+        "snippet": "In this exploration of holiday traditions, we delve into 10 <b>heartwarming</b> practices that go beyond the ordinary, fostering a sense of unity, love, and warmth that transcends the festivities themselves. ... This simple <b>act</b> can deepen connections, teaching the value of giving over receiving. \ud83d\udd6f Candlelit Dinner. A candlelit dinner on a holiday ...",
+        "dateLastCrawled": "2024-11-20T01:29:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2150598853115&mkt=en-CA&setlang=en-US&w=GFbyDiZbHiTnO0xjA_C_98hrPpixF_MJ",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
