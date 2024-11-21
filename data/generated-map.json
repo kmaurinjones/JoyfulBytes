@@ -326,5 +326,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-11-20": {
+        "date": "November 21, 2024",
+        "image_path": "./data/images/20241120-233002-1.png",
+        "story_summary": "Dorset -- November 20, 2024\n\n**Discover Dorset's Heartwarming Ape Rescue Centre**, a sanctuary committed to the *rehabilitation and conservation* of primates. Founded by passionate wildlife enthusiasts over a decade ago, the centre embodies hope and renewal for apes rescued from poaching and abusive conditions.\n\n**Their mission is threefold**: **Rescue** apes from perilous environments, **Rehabilitate** them with comprehensive care, and **Release** them back into the wild or suitable sanctuaries. They envision a world where all great apes are protected and trafficking is eradicated.\n\n**Meet the diverse residents**, including intelligent chimpanzees, arboreal orangutans, peaceful bonobos, and strong Western Lowland gorillas. Each species thrives through daily enrichment programs and expert health care, ensuring their physical and psychological well-being.\n\nVisitors can **plan a meaningful visit** by booking online, choosing guided tours, and participating in educational experiences. The centre also offers **volunteer programs** and tailored school workshops, fostering a deeper understanding of wildlife conservation.\n\nSupport the mission through **donations, sponsorships**, or providing **in-kind contributions** like food and supplies. Every contribution aids in creating a safer, healthier, and more compassionate world for these remarkable creatures.\n\nExperience the heart and dedication of Dorset's Ape Rescue Centre today, and join the journey towards protecting nature's ambassadors.",
+        "story_url": "https://cloudbackup1-apds.autopros.com/ape-rescue-centre-dorset_75574.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.21",
+        "name": "Discover Dorsets Heartwarming Ape Rescue Centre Today",
+        "url": "https://cloudbackup1-apds.autopros.com/ape-rescue-centre-dorset_75574.html",
+        "datePublished": "2024-11-21T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cloudbackup1-apds.autopros.com/ape-rescue-centre-dorset_75574.html",
+        "snippet": "Discover the <b>heartwarming</b> journey of Dorsets Ape Rescue Centre, a sanctuary dedicated to the rehabilitation and conservation of primates. Learn about their inspiring efforts in wildlife protection, animal welfare, and sustainable practices that make this centre a beacon for ape rescue initiatives. Experience firsthand the <b>heartwarming</b> stories of conservation success and see how your visit can ...",
+        "dateLastCrawled": "2024-11-21T00:18:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2837982219120&mkt=en-CA&setlang=en-US&w=WoRjnY8zpQZAvQg92IJhOPpCIRK2BJvc",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
