@@ -345,5 +345,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-11-21": {
+        "date": "November 21, 2024",
+        "image_path": "./data/images/20241121-233003-1.png",
+        "story_summary": "Location: The Centre of Elgin -- November 21, 2024\n\n**Betty McKeown**, a resident nearing her **100th birthday**, is a beloved figure at The Centre of Elgin. Every weekday morning, she walks **three to four miles** on the facility\u2019s indoor track, a routine that has become her daily passion.\n\nTo celebrate her remarkable dedication and upcoming centennial, the staff organized a heartfelt party attended by **dozens of family members and friends**. Dressed in a tiara and playful \u201c100\u201d glasses, Betty shared **hugs, stories, and cupcakes** with about 50 guests, including her granddaughter and a pre-K student who presented her a rose.\n\nBetty credits her **longevity** to staying active and being part of the community at The Centre. Her neighbor, Kelly Tracey, admires her, saying, \u201c**She\u2019s my inspiration**.\u201d The Centre\u2019s offering of a free indoor walking track has not only supported Betty\u2019s health but also made her a **source of inspiration** for many.",
+        "story_url": "https://www.dailyherald.com/20241121/news/shes-my-inspiration-soon-to-be-100-year-old-still-woman-walks-over-three-miles-a-day-at-the-cent/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "\u2018She\u2019s my inspiration\u2019: Soon-to-be 100-year-old still woman walks over ...",
+        "url": "https://www.dailyherald.com/20241121/news/shes-my-inspiration-soon-to-be-100-year-old-still-woman-walks-over-three-miles-a-day-at-the-cent/",
+        "datePublished": "2024-11-21T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.dailyherald.com</b>/20241121/<b>news</b>/shes-my-inspiration-soon-to-be-100-year-old...",
+        "snippet": "Family members draped a \u201c100 &amp; Fabulous\u201d sash on the pending centenarian, and she donned a tiara and novelty \u201c100\u201d glasses while sharing hugs, <b>stories</b> and cupcakes with about 50 people in ...",
+        "dateLastCrawled": "2024-11-22T01:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Daily Herald"
     }
 }
