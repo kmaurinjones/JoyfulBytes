@@ -364,5 +364,25 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "Daily Herald"
+    },
+    "2024-11-22": {
+        "date": "November 23, 2024",
+        "image_path": "./data/images/20241122-233003-1.png",
+        "story_summary": "Nanaimo -- November 22, 2024\n\n**Eden Gardens**, a dementia care facility in Nanaimo, has launched its **Brighten Our Spirits** campaign on November 20. The initiative aims to **raise funds and uplift the spirits** of residents through a series of engaging programs.\n\n*Executive Director Ashleigh Wasner* emphasized the importance of art, horticulture, and music therapy in combating loneliness, helplessness, and boredom among the elderly. *Resident Edgar Cummings* expressed his joy in the music program, highlighting the community atmosphere fostered by musician Kyle Shepard.\n\nThe campaign, which runs until December 31, seeks to match last year's total of **$43,000**. Donations can be made in-person at Eden Gardens or online, with the Rogers Foundation offering to match contributions up to **$15,000**.",
+        "story_url": "https://www.nanaimobulletin.com/community/nanaimo-dementia-care-facility-lights-up-brighten-our-spirits-campaign-7662994",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Nanaimo dementia care facility lights up &#39;Brighten Our Spirits ...",
+        "url": "https://www.nanaimobulletin.com/community/nanaimo-dementia-care-facility-lights-up-brighten-our-spirits-campaign-7662994",
+        "datePublished": "2024-11-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.nanaimobulletin.com/community/nanaimo-dementia-care-facility-lights-up...",
+        "snippet": "A dementia care facility in Nanaimo has flipped the switch on a holiday fundraiser intended to raise dollars and spirits of residents. Eden Gardens began its Brighten Our Spirits campaign Wednesday, Nov. 20, with a light-up event at the care facility. Ashleigh Wasner, executive director, said money ...",
+        "dateLastCrawled": "2024-11-23T01:18:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=4969104622492&mkt=en-CA&setlang=en-US&w=BGReFuOeG8suoSdJ_9j11XaJdZmfRUNM",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Nanaimo News Bulletin"
     }
 }
