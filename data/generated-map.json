@@ -384,5 +384,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Nanaimo News Bulletin"
+    },
+    "2024-11-23": {
+        "date": "November 24, 2024",
+        "image_path": "./data/images/20241123-233003-1.png",
+        "story_summary": "Pune -- November 23, 2024\n\n**A 20-year-old daughter** makes a courageous decision by donating more than half of her liver to her **53-year-old father**, who has been suffering from chronic liver disease and liver cirrhosis.\n\n*The successful transplant* was performed at Medicover Hospital in Pune by Dr. Sharan Narute. Six weeks after the surgery, both father and daughter have made a complete recovery, demonstrating the remarkable regenerative ability of the liver.\n\n**This act of selflessness** not only saves her father's life but also highlights the critical importance of organ donation. The daughter shares, \"*My father has always been my strength. It was my turn to be his.*\"\n\nMedical experts emphasize that with timely intervention, advanced medical facilities, and strong family support, such life-saving procedures can lead to successful recoveries. This story serves as an inspiring testament to the power of love and sacrifice within a family.",
+        "story_url": "https://timesofindia.indiatimes.com/city/pune/daughters-heroic-liver-donation-saves-fathers-life-both-complete-recovery-after-two-months/articleshow/115609013.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Daughter&#39;s Heroic Liver Donation Saves Father&#39;s Life; Both Complete ...",
+        "url": "https://timesofindia.indiatimes.com/city/pune/daughters-heroic-liver-donation-saves-fathers-life-both-complete-recovery-after-two-months/articleshow/115609013.cms",
+        "datePublished": "2024-11-23T19:27:00.0000000",
+        "datePublishedFreshnessText": "9 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/pune/daughters-heroic-liver-donation-saves...",
+        "snippet": "The daughter&#39;s selfless <b>act</b> not only restored her father&#39;s health, but also highlighted the critical role of organ donation. &quot;My father has always been my strength. It was my turn to be his,&quot; said ...",
+        "dateLastCrawled": "2024-11-23T19:28:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=3526250044816&mkt=en-CA&setlang=en-US&w=UJX7KSnKO0q70qHfITIUX6-XozHAtS7d",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
