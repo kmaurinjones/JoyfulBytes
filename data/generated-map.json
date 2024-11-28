@@ -423,5 +423,25 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-11-27": {
+        "date": "November 28, 2024",
+        "image_path": "./data/images/20241127-233003-1.png",
+        "story_summary": "Albuquerque\u2019s International District -- November 28, 2024\n\n**Local communities** are rallying together for the holiday season, organizing toy drives to bring *hope and joy* to children in need. **Poulin Marketplace** and the **Family Life Toy Drive** are leading initiatives, collecting new toys, clothing, and essentials to support children aged 0-18 in the area. Donations are being accepted at local marketplaces until December 7, ensuring that every child experiences the magic of the holidays despite their circumstances.\n\n**Volunteer efforts** are vital, with contributions also available online through the Family Life website and Amazon Wishlist. Community members are actively sharing their donations on social media, using hashtags like #HolidayToyDrive to inspire others. Organizers emphasize that these efforts are about more than just gifts\u2014they provide *joy and hope* during a challenging time. The collective spirit of giving fosters strong community ties, making this holiday season memorable for countless families.",
+        "story_url": "https://evrimagaci.org/tpg/local-communities-unite-for-holiday-toy-drives-69433",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Local Communities Unite For Holiday Toy Drives",
+        "url": "https://evrimagaci.org/tpg/local-communities-unite-for-holiday-toy-drives-69433",
+        "datePublished": "2024-11-28T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://evrimagaci.org/tpg/local-communities-unite-for-holiday-toy-drives-69433",
+        "snippet": "<b>Today</b> : Nov 28, 2024. ... This sharing of <b>acts</b> of kindness creates a ripple effect, where one generous action inspires another. Fundraising events are also being organized to support these drives. Charities are hosting activities from bake sales to fun runs, all aimed at raising not just money but also awareness about the needs of local ...",
+        "dateLastCrawled": "2024-11-28T02:14:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=4832723599979&mkt=en-CA&setlang=en-US&w=Be3R57aZqX_SuS9tVvAUeOb-5RUzRiU-",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Evrim A\u011fac\u0131"
     }
 }
