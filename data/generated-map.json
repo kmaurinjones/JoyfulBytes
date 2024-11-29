@@ -443,5 +443,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Evrim A\u011fac\u0131"
+    },
+    "2024-11-28": {
+        "date": "November 28, 2024",
+        "image_path": "./data/images/20241128-233002-1.png",
+        "story_summary": "Location unknown -- November 28, 2024\n\n**Hope in Small Acts**\n\n*Amid global turmoil\u2014political chasms, wars, and oppression\u2014small acts of kindness and connection emerge as beacons of hope. Psychologist Liza M. Hinchey highlights how these individual gestures can collectively drive significant change.*\n\n**The Power of Connection**\n\n*Drawing inspiration from musician Hozier, the article emphasizes that acts of love and solidarity can transform societal attitudes. Research supports that when people strengthen relationships through kindness, it fosters empathy and understanding, bridging divides.*\n\n**Scientific Backing**\n\n*Studies reveal that positive interactions reduce prejudice and improve intergroup relations. For instance, strong friendships between historically tense ethnic groups lead to more harmonious societal attitudes. Even simple acts like appreciating someone else's qualities can lower prejudices towards out-groups.*\n\n**Creating an Upward Spiral**\n\n*These small, intentional community-building efforts initiate a positive feedback loop, enhancing individual well-being and societal harmony. Hinchey advocates that nurturing relationships is pivotal for both personal healing and addressing broader societal issues.*\n\n**Conclusion**\n\n*In essence, the science affirms that moving towards each other through small acts can be truly transformational, offering a path out of hopelessness toward collective positive change.*",
+        "story_url": "https://www.straitstimes.com/opinion/an-upward-spiral-how-small-acts-of-kindness-and-connection-really-can-change-the-world",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "An upward spiral \u2013 how small acts of kindness and connection really can ...",
+        "url": "https://www.straitstimes.com/opinion/an-upward-spiral-how-small-acts-of-kindness-and-connection-really-can-change-the-world",
+        "datePublished": "2024-11-28T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.straitstimes.com/opinion/an-upward-spiral-how-small-<b>acts</b>-of-kindness-and...",
+        "snippet": "Research shows that such <b>acts</b> can have an impact at multiple levels: between individuals, between people and institutions, and between cultures",
+        "dateLastCrawled": "2024-11-28T09:03:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=3183509521229&mkt=en-CA&setlang=en-US&w=JPWf_EP2-w9U1jnYvHJmBy5cyijlg9J9",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Straits Times"
     }
 }
