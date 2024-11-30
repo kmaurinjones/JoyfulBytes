@@ -463,5 +463,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "The Straits Times"
+    },
+    "2024-11-29": {
+        "date": "November 30, 2024",
+        "image_path": "./data/images/20241129-233003-1.png",
+        "story_summary": "Singapore -- November 29, 2024\n\n**Families** in Singapore are in for an exciting December filled with *festive events* and *family-friendly activities*.\n\nFrom the enchanting **Christmas Wonderland** at West Mall, featuring Kiztopia\u2019s Sugar Rush Adventure and meeting Bell the Bear, to the **Sonic Festive Frenzy** at i12 Katong, where kids can conquer obstacle courses and meet Sonic.\n\nThe **Clementi Mall** offers hands-on festive workshops and exclusive rewards, while **Club Med Bintan** invites families to protect marine life through the Ranger Buddies mission.\n\nAt **Gardens by the Bay**, immerse in Disney topiaries and magical light displays, and the **STEAM Festival** at Science Centre Singapore offers interactive science fun for young minds.\n\nOther highlights include **PAW Patrol Live!**, **LEGO Holiday Adventure**, and various festive markets and countdown parties across Singapore. Families can also enjoy spectacular fireworks at Marina Bay and community celebrations in heartlands.\n\nBookmark this list to make the most of the holiday season and create unforgettable memories with your loved ones!",
+        "story_url": "https://www.bykido.com/blogs/events-and-activities/new-things-for-families-to-do-in-december-2024-in-singapore",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "34 New Things For Families To Do In December 2024 In Singapore",
+        "url": "https://www.bykido.com/blogs/events-and-activities/new-things-for-families-to-do-in-december-2024-in-singapore",
+        "datePublished": "2024-11-29T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bykido.com/blogs/events-and-<b>act</b>ivities/new-things-for-families-to-do-in...",
+        "snippet": "Join Mediacorp\u2019s Let\u2019s Celebrate 2025, featuring live performances, roving <b>acts</b>, and the longest single fireworks display for the countdown celebrations in Singapore\u2014a 15-minute spectacle! The festivities kick off at 5PM with crowd-pulling <b>acts</b> like The Annoying Circus Comedy Show by Mr. Bee, the rhythmic beats of Bloco Singapura, a mesmerising Bubble Show by CJ the Bubble Girl, and ...",
+        "dateLastCrawled": "2024-11-29T03:06:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=5382859660761&mkt=en-CA&setlang=en-US&w=PEvQkz_gEYQF0mZ2YZ1Uj89Cxdewuh8a",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "BYKidO"
     }
 }
