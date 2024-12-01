@@ -483,5 +483,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "BYKidO"
+    },
+    "2024-11-30": {
+        "date": "November 30, 2024",
+        "image_path": "./data/images/20241130-233003-1.png",
+        "story_summary": "BAKERSFIELD, Calif. -- November 30, 2024\n\nOn Black Friday, the Bakersfield Animal Care Center (*BACC*) **showed immense community spirit** by distributing over 100 dog sweaters to protect shelter pets from the cold.\n\nThe shelter also hosted a special Thanksgiving feast, featuring vet-approved meals to ensure the animals felt **part of the family** during the holiday season.\n\nBACC staff emphasized that these acts of kindness not only provide physical comfort but also help build trust and increase adoption prospects for the animals.\n\nAdditionally, BACC is sending 37 dogs to Calgary, Canada for a safe and warm holiday, highlighting their commitment to animal welfare.\n\nDespite saving thousands of dogs in 2023, the shelters continue to face challenges, euthanizing 16 animals each workday, and are seeking **dedicated volunteers** to support their mission.",
+        "story_url": "https://www.yahoo.com/lifestyle/bacc-provides-blankets-community-pets-204842324.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "BACC provides blankets for community pets, Thanksgiving feast for ...",
+        "url": "https://www.yahoo.com/lifestyle/bacc-provides-blankets-community-pets-204842324.html",
+        "datePublished": "2024-11-30T20:48:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/bacc-provides-blankets-community-pets-204842324.html",
+        "snippet": "Rescue Team Transforms Loss Into <b>Heartwarming</b> Joy for 100 Street Dogs ... Walmart Is Selling a &#39;Gorgeous&#39; $3,000 Sofa for Only $660 During Black Friday \u2014 but <b>Act</b> Fast, Shoppers Are Racing to Buy ...",
+        "dateLastCrawled": "2024-11-30T23:07:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=366574390687&mkt=en-CA&setlang=en-US&w=4Bg231zz1f_GC9HaoS36XhI-Tg_D3NEJ",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
