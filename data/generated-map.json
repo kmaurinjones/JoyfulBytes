@@ -503,5 +503,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2024-12-01": {
+        "date": "December 02, 2024",
+        "image_path": "./data/images/20241201-233003-1.png",
+        "story_summary": "**Location unknown -- December 01, 2024**\n\n**_This year, 11 Malaysians captured hearts through acts of kindness and extraordinary achievements._**\n\n**_A barber in Bandar Baru Bangi patiently helped an autistic boy receive his first haircut in eight years, while teachers in Kedah and Sarawak created innovative spaces to engage students. Joel Pang became the only Malaysian accepted into Caltech, and Wong Su Chung made history as the first Sarawakian to summit Mount Everest at 60. From rescuing rabbits in Kajang to a couple selling affordable tea to repay donors for their daughter's leukemia treatment, these stories showcase resilience and generosity._**\n\n**_These inspiring acts not only uplifted communities but also restored faith in humanity, highlighting the compassionate and determined spirit of Malaysians in 2024._**",
+        "story_url": "https://says.com/my/lifestyle/2024-feel-good-wrap-up",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "11 Amazing Malaysians Who Made Headlines For The Most Heartwarming ...",
+        "url": "https://says.com/my/lifestyle/2024-feel-good-wrap-up",
+        "datePublished": "2024-12-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://says.com/my/lifestyle/2024-<b>feel-good</b>-wrap-up",
+        "snippet": "Follow us on Instagram, TikTok, and WhatsApp for the latest <b>stories</b> and breaking <b>news</b>. 1. The friendly barber who helped an autistic boy overcome his fear of haircuts, making it possible for him to get his first haircut in eight years ... SAYS is Malaysia&#39;s social <b>news</b> company. Get highlights of hottest <b>news</b> and must-share <b>stories</b> every day.",
+        "dateLastCrawled": "2024-12-02T03:37:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=4764810117846&mkt=en-CA&setlang=en-US&w=5VEtzCdnd--Y-6LEItAnn0XOywiQHRbf",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "SAYS"
     }
 }
