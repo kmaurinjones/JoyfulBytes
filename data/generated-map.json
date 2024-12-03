@@ -523,5 +523,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "SAYS"
+    },
+    "2024-12-02": {
+        "date": "December 03, 2024",
+        "image_path": "./data/images/20241202-233003-1.png",
+        "story_summary": "Hanoi -- December 02, 2024\n\n**_In a serene corner of Hanoi, 61-year-old Nguyen Ngoc Quang_** and his pet duck, _Pac Pac_, have captured the hearts of locals with their daily walks.\n\n**_Every morning_**, Quang strolls through the streets of Pham Dinh Ho Ward, accompanied by Pac Pac's joyful waddling and familiar quacks.\n\n**_Their bond_** was formed when Quang rescued Pac Pac as a duckling over seven months ago, nurturing it with simple meals and unwavering care.\n\n**_Despite his health challenges_**, including spinal degeneration and a hip fracture, Quang finds joy and companionship in Pac Pac's presence.\n\n**_The community_** adores the pair, often pausing to smile as they pass by, with Pac Pac following loyally, sometimes quacking to keep pace.\n\n**_Quang's dedication to raising ducks_** spans over a decade, turning Pac Pac into a beloved neighborhood figure and symbol of enduring friendship.",
+        "story_url": "https://vietnamnet.vn/en/hanoi-man-s-daily-stroll-with-pet-duck-melts-hearts-2347679.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Hanoi man\u2019s daily stroll with pet duck melts hearts - B\u00e1o VietNamNet",
+        "url": "https://vietnamnet.vn/en/hanoi-man-s-daily-stroll-with-pet-duck-melts-hearts-2347679.html",
+        "datePublished": "2024-12-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>vietnamnet.vn</b>/en/hanoi-man-s-daily-stroll-with-pet-duck-melts-hearts-2347679.html",
+        "snippet": "One neighbor joked, \u201cEver since Pac Pac became famous, it <b>acts</b> like a star!\u201d Another added, \u201cThe duck is incredibly smart and loyal. Wherever Quang goes, Pac Pac follows.\u201d Walking leisurely with Pac Pac by his side, Quang has created a <b>heartwarming</b> and one-of-a-kind image in the bustling streets of Hanoi.",
+        "dateLastCrawled": "2024-12-03T03:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "B\u00e1o VietNamNet"
     }
 }
