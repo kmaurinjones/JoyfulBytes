@@ -562,5 +562,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Glenvale Villas"
+    },
+    "2024-12-04": {
+        "date": "December 05, 2024",
+        "image_path": "./data/images/20241204-233003-1.png",
+        "story_summary": "Saipan -- December 04, 2024\n\n**A group of third and fourth graders from Saipan International School, named the *Kindness Crew*, visit the Manamko Center to spread joy among elderly residents.**\n\n**They begin with vibrant performances of \"Hafa Adai\" and energetic dances, which inspire the seniors to clap and join in, fostering a lively and heartwarming environment.**\n\n*Under the guidance of Gecko MC Mona Celia Mercado, the students engage the residents in meaningful conversations, uncovering stories about Saipan's culture and the island's transformation over the years.*\n\n**The Kindness Crew also presents handmade Christmas cards, each bearing personal messages of friendship and festive cheer, enhancing the connection between generations.**\n\n*This visit is part of the school's ongoing initiative to teach empathy and community service, with teachers emphasizing the mutual learning and lasting bonds formed through these interactions.*\n\n**The experience leaves a lasting impact on both students and seniors, showcasing how simple acts of kindness can bridge generations and strengthen community ties.**\n\n*Plans are in place for the Kindness Crew to continue their outreach with future Christmas projects.*",
+        "story_url": "https://www.mvariety.com/news/community_bulletins/kindness-crew-spreads-joy-to-elderly-center-with-music-dance-and-shared-stories/article_7accef50-b20c-11ef-9595-37963dd67612.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Kindness crew spreads joy to elderly center with music, dance, and ...",
+        "url": "https://www.mvariety.com/news/community_bulletins/kindness-crew-spreads-joy-to-elderly-center-with-music-dance-and-shared-stories/article_7accef50-b20c-11ef-9595-37963dd67612.html",
+        "datePublished": "2024-12-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mvariety.com/news/community_bulletins/kindness-crew-spreads-joy-to-elderly...",
+        "snippet": "\u201cWe\u2019ve learned so much <b>today</b>,\u201d said Sophia Kim, a fourth grader in the Kindness Crew. ... Ms. Amie McRoberts, the visit was a <b>heartwarming</b> reminder of the joy that can come from intergenerational connections. ... The Kindness Crew\u2019s visit was a beautiful reminder of how simple <b>acts</b> of kindness can make a lasting impact\u2014spanning ...",
+        "dateLastCrawled": "2024-12-04T16:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": true,
+        "siteName": "Marianas Variety News &amp; Views"
     }
 }
