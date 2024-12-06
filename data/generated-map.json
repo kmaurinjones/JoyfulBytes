@@ -581,5 +581,24 @@
         "isNavigational": true,
         "noCache": true,
         "siteName": "Marianas Variety News &amp; Views"
+    },
+    "2024-12-05": {
+        "date": "December 05, 2024",
+        "image_path": "./data/images/20241205-233002-1.png",
+        "story_summary": "Perth -- December 05, 2024\n\nAs the festive season approaches, **Saint Andrew\u2019s Grammar community** demonstrates incredible *compassion* and *generosity* through their 2024 Christmas Appeal.\n\nFamilies donate toys for children at **Perth Children\u2019s Hospital** and non-perishable items for the homeless, embodying the true spirit of giving.\n\nDedicated **Kindness Ambassadors**, **HOPE club members**, and **Student Councillors** motivate their peers by visiting classrooms daily, sharing inspiring messages, and raising awareness about homelessness in Perth.\n\nThe overwhelming response from families highlights the strong community spirit at St Andrew\u2019s Grammar.\n\nEvery contribution brings joy and comfort to those in need this Christmas, including homeless individuals and children facing health challenges.\n\n**His Grace Bishop Elpidios** and **Principal Mr Monaghan** praise the selfless act, commending the students\u2019 empathy and the community\u2019s support.\n\nWe extend heartfelt thanks to all contributors whose generosity spreads hope and happiness this festive season.",
+        "story_url": "https://vema.com.au/perth-st-andrews-grammar-community-shows-heartwarming-generosity/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Perth: St Andrew\u2019s Grammar community shows heartwarming generosity",
+        "url": "https://vema.com.au/perth-st-andrews-grammar-community-shows-heartwarming-generosity/",
+        "datePublished": "2024-12-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://vema.com.au/perth-st-andrews-grammar-community-shows-<b>heartwarming</b>-generosity",
+        "snippet": "As we approach the festive season, the Saint Andrew\u2019s Grammar community has once again demonstrated incredible compassion and generosity through their contributions to the 2024 Christmas Appeal.",
+        "dateLastCrawled": "2024-12-05T12:50:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=2978782646244&mkt=en-CA&setlang=en-US&w=JUGRV7Lg0R1a7cmz3AuXuayxSk68IOg5",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
