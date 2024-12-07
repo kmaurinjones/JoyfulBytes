@@ -600,5 +600,25 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-12-06": {
+        "date": "December 06, 2024",
+        "image_path": "./data/images/20241206-233002-1.png",
+        "story_summary": "Location unknown -- December 06, 2024\n\n*In a world overwhelmed by negative news, the Instagram account **Random Kindness** emerges as a beacon of hope.*\n\n**Random Kindness** shares **uplifting stories**, **heartwarming moments**, and **acts of compassion** from around the globe, reminding us that goodness still thrives. Each post **celebrates humanity\u2019s better side**, demonstrating how even the smallest gestures can create significant impacts. From **strangers helping strangers** to **Good Samaritans supporting their communities**, these stories illustrate that *a little love can go a long way*.\n\n*Through its inspiring content, **Random Kindness** offers a refreshing escape from negativity, encouraging others to embrace and spread kindness in their everyday lives.*",
+        "story_url": "https://www.boredpanda.com/wholesome-kindness-posts/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "80 Wholesome Posts Show There\u2019s Still Good Left In The World",
+        "url": "https://www.boredpanda.com/wholesome-kindness-posts/",
+        "datePublished": "2024-12-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.boredpanda.com</b>/wholesome-kindness-posts",
+        "snippet": "Get the latest <b>inspiring</b> stories via our awesome iOS app! Download Bored Panda app! What do you think ? POST. POST. Related on Bored Panda. Related on Bored Panda ... Ukrainian Illustrator Chronicles Her Wartime Experiences And Everyday <b>Moments</b> In 20 Comics . 4 comments 23 points. A Glimpse Into Different Cultures: 20 Captivating Photographs By ...",
+        "dateLastCrawled": "2024-12-07T00:07:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Inspiring+moments+today&d=986200522530&mkt=en-CA&setlang=en-US&w=TOvR6LES8IK1HhNw8fzfrf5nDBW9eqZT",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bored Panda"
     }
 }
