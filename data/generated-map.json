@@ -620,5 +620,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Bored Panda"
+    },
+    "2024-12-07": {
+        "date": "December 08, 2024",
+        "image_path": "./data/images/20241207-233002-1.png",
+        "story_summary": "Location unknown -- December 07, 2024\n\n**In a world craving kindness, the 'Wholesome Meets The Internet' account stands as a beacon of positivity.**\n\n*Today's feature showcases 74 new heartwarming pictures, each curated to brighten your day and remind us of the simple joys in life.*\n\n**Amidst the challenges of online interactions, these images foster a sense of community and genuine connection.**\n\n*From adorable pets to inspiring human moments, the collection captures the essence of wholesomeness, encouraging us to embrace empathy and sincere kindness.*\n\n**As viewers scroll through these delightful snapshots, they're reminded of the power of positive content to uplift spirits and nurture a supportive online environment.**\n\n*The emotional resonance of these images underscores the importance of maintaining authenticity and compassion in our digital interactions.*",
+        "story_url": "https://www.boredpanda.com/wholesome-stories-meets-internet/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "This IG Page Makes The World A Kinder Place One Wholesome Post At A ...",
+        "url": "https://www.boredpanda.com/wholesome-stories-meets-internet/",
+        "datePublished": "2024-12-08T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.boredpanda.com</b>/wholesome-<b>stories</b>-meets-internet",
+        "snippet": "We&#39;ve got another edition of <b>feel</b>-<b>good</b> <b>stories</b> from this trusted page, so, stop waiting around and treat yourself to some high-quality wholesomeness, Pandas! The world is tough at the moment for some Pandas.",
+        "dateLastCrawled": "2024-12-08T00:18:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Feel-good+stories+today&d=230446429837&mkt=en-CA&setlang=en-US&w=64oX0ReBmUJOwPpIN_p4qq4gJ_RwZcuH",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Bored Panda"
     }
 }
