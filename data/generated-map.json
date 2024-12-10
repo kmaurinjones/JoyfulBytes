@@ -660,5 +660,25 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "The Optimist Daily"
+    },
+    "2024-12-09": {
+        "date": "December 10, 2024",
+        "image_path": "./data/images/20241209-233002-1.png",
+        "story_summary": "Kerala -- December 09, 2024\n\n**_In a heartwarming display of solidarity, school children in Punnapra, Kerala,_** came together to build a new home for their classmate and his family who were residing in a leaky hut.\n\n**Under the inspiring leadership of Principal D. Unnikrishnan,_** the students rallied support and engaged the community in a collective effort to ensure the family\u2019s well-being.\n\n**The project, spearheaded by the Higher Secondary School's fundraising initiatives,_** resulted in the construction of a leak-proof house, symbolizing the power of unity and compassion.\n\n**This community-driven endeavor not only provided a safe shelter for the family but also strengthened bonds among classmates and neighbors,_** showcasing the profound impact of collaborative spirit in times of need.",
+        "story_url": "https://www.manoramaonline.com/district-news/alappuzha/2024/12/10/students-build-home-classmate-kerala.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "\u0d38\u0d41\u0d2e\u0d28\u0d38\u0d4d\u0d38\u0d41\u0d15\u0d7e \u0d15\u0d48\u0d15\u0d4b\u0d7c\u0d24\u0d4d\u0d24\u0d41; \u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d3e\u0d7c\u0d25\u0d3f\u0d15\u0d4d\u0d15\u0d41 \u0d35\u0d40\u0d1f\u0d4a\u0d30\u0d41\u0d19\u0d4d\u0d19\u0d3f",
+        "url": "https://www.manoramaonline.com/district-news/alappuzha/2024/12/10/students-build-home-classmate-kerala.html",
+        "datePublished": "2024-12-10T02:08:00.0000000",
+        "datePublishedFreshnessText": "2 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.manoramaonline.com</b>/district-news/alappuzha/2024/12/10/students-build-home...",
+        "snippet": "School children in Kerala, India, came together to build a new home for a classmate and his family who were living in a leaky hut. The inspiring initiative was spearheaded by the principal of their parallel school, who rallied support and raised funds to ensure the family&#39;s well-being.",
+        "dateLastCrawled": "2024-12-10T02:17:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Heartwarming+acts+today&d=849568769793&mkt=en-CA&setlang=en-US&w=ePCjDsstM-YvSHzSnyQsInT22SEuWMiu",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
     }
 }
