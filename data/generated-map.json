@@ -680,5 +680,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
+    },
+    "2024-12-10": {
+        "date": "December 10, 2024",
+        "image_path": "./data/images/20241210-233002-1.png",
+        "story_summary": "**Nagpur** -- *December 10, 2024*\n\n*At Indira Gandhi Medical College and Hospital, a heartwarming reunion unfolded as Dharam Singh was reunited with his children after 15 long years.*\n\n*Following the tragic loss of his wife, Dharam left his village in Madhya Pradesh and lived a solitary life in Nagpur, distancing himself from his son and daughters.*\n\n*Injured and without identity documents, Dharam faced challenges accessing healthcare until the Seva Foundation stepped in, providing essential medical supplies for his surgery.*\n\n*Determined to reunite him with his family, the organization utilized social media, piecing together clues from Dharam's vague memories of his village and his children's names.*\n\n*Within a day, Dharam's relatives arrived at Mayo Hospital, leading to an emotional embrace that brought closure to years of separation.*\n\n*This reunion not only healed Dharam's physical wounds but also restored the bonds with his loved ones, showcasing the profound impact of community and perseverance.*",
+        "story_url": "https://timesofindia.indiatimes.com/city/nagpur/heartwarming-reunion-at-mayo-hospital-father-reunites-with-children-after-15-years/articleshow/116186279.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Heartwarming Reunion at Mayo Hospital: Father Reunites with Children ...",
+        "url": "https://timesofindia.indiatimes.com/city/nagpur/heartwarming-reunion-at-mayo-hospital-father-reunites-with-children-after-15-years/articleshow/116186279.cms",
+        "datePublished": "2024-12-10T19:21:00.0000000",
+        "datePublishedFreshnessText": "9 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/nagpur/<b>heartwarming</b>-reunion-at-mayo-hospital...",
+        "snippet": "A touching story unfolds at Mayo Hospital as Dharam Singh reunites with his family after 15 years apart, thanks to Seva Foundation&#39;s efforts. Discover the inspiring details of their emotional journey.",
+        "dateLastCrawled": "2024-12-10T19:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
