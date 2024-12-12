@@ -699,5 +699,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2024-12-11": {
+        "date": "December 11, 2024",
+        "image_path": "./data/images/20241211-233003-1.png",
+        "story_summary": "Cork -- December 11, 2024\n\n**Cork Migrant Centre** and **Nano Nagle Place** are *spreading the festive cheer* to children in direct provision this Christmas Day. As part of the ongoing **'Your Child is My Child' campaign**, they have partnered with **UCC staff and students** and **Saoirse EHD (Ethnic Hands on Deck)** to provide joyous celebrations and raise essential funds for the children.\n\nThe event includes **festive parties** with a special visit from **Santa Claus**, bringing smiles and happiness to the children. *Naomi Masheti* of Cork Migrant Centre shared, \u201c**Seeing the joy on children\u2019s faces when they meet Santa is truly heartwarming. It doesn\u2019t take much \u2013 even a handmade gift and a smile can make a huge difference. Our mission is to spread joy and foster connection, and Christmas is the perfect time to do just that.**\u201d\n\nEnhancing the impact, the **We Act** campaign is raising public awareness about the value of Ireland\u2019s charity and community sector. *Claire McGowran*, We Act campaign manager, stated, \u201c**Irish charities and community groups are going above and beyond to create a magical Christmas for everyone. We\u2019re incredibly proud of these hidden heroes who are making Christmas 2024 brighter for communities across the country.**\u201d The **We Act** coalition includes organizations like **Boardmatch**, **Disability Federation of Ireland**, **D\u00f3chas**, **The Wheel**, and **Volunteer Ireland**.",
+        "story_url": "https://www.echolive.ie/corknews/arid-41534960.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Cork Migrant Centre and Nano Nagle Place bringing the festive spirit to ...",
+        "url": "https://www.echolive.ie/corknews/arid-41534960.html",
+        "datePublished": "2024-12-11T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.echolive.ie/corknews/arid-41534960.html",
+        "snippet": "Cork Migrant Centre and Nano Nagle Place are among organisations\u2019 nationwide bringing the Christmas spirit to children in direct provision. This festive season, the Cork Migrant Centre and Nano Nagle Place are teaming up with UCC staff and students, and Saoirse EHD, (Ethnic Hands on Deck) to bring the <b>heartwarming</b> project to fruition in Cork.",
+        "dateLastCrawled": "2024-12-11T22:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Echolive"
     }
 }
