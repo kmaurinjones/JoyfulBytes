@@ -718,5 +718,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Echolive"
+    },
+    "2024-12-12": {
+        "date": "December 13, 2024",
+        "image_path": "./data/images/20241212-233002-1.png",
+        "story_summary": "Sault Ste. Marie -- December 12, 2024\n\n**Chris Carr** has become a *household name* in our community, dedicating his free time to **volunteering** with numerous sports teams and local charities.\n\nKnown as a *kind and caring soul*, Chris selflessly helps others without seeking recognition. His involvement spans from the **Soo Thunderbirds** and **Soo Greyhounds** to the **St. Mary\u2019s College football teams**.\n\nRecently, Chris faced the loss of his mother and wished to spend the holidays with his family in Calgary. To honor his unwavering support, **Algoma Steel** provided him with gifts to fulfill his dream.\n\nWatch as we **surprise** Chris during an assembly at St. Mary\u2019s College, celebrating his dedication and ensuring he enjoys an unforgettable Christmas with his loved ones.",
+        "story_url": "https://www.sootoday.com/randomactsofkindness/on-the-first-day-of-christmas-we-surprise-a-very-familiar-face-9941014",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "On the first day of Christmas, we surprise a very familiar face",
+        "url": "https://www.sootoday.com/randomactsofkindness/on-the-first-day-of-christmas-we-surprise-a-very-familiar-face-9941014",
+        "datePublished": "2024-12-12T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.soo<b>today</b>.com/random<b>acts</b>ofkindness/on-the-first-day-of-christmas-we...",
+        "snippet": "Random <b>Acts</b> of Kindness On the first day of Christmas, we surprise a very familiar face Watch as we surprise this \u2018kind and caring soul\u2019 by checking off every item on his holiday wish list",
+        "dateLastCrawled": "2024-12-13T01:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SooToday.com"
     }
 }
