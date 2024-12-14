@@ -737,5 +737,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "SooToday.com"
+    },
+    "2024-12-13": {
+        "date": "December 14, 2024",
+        "image_path": "./data/images/20241213-233004-1.png",
+        "story_summary": "**TOWSON -- December 13, 2024**\n\n**Meet Mr. Rob**, a kind-hearted local man often likened to *Mister Rogers* of Towson.\n\nIn 2014, as a severe polar vortex descended, Mr. Rob sprang into action to help those struggling without warm clothing. He organized a neighborhood collection of hats, gloves, sleeping bags, and other winter necessities, personally distributing them to those in need.\n\n**\"It was a heartwarming experience,\"** he reflects, emphasizing the profound impact his efforts had on his community. Through these acts of kindness, Mr. Rob has forged meaningful connections beyond his usual circles, enhancing both his life and those he helps.",
+        "story_url": "https://www.yahoo.com/news/local-man-prepares-those-winter-041457069.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Local man prepares those in need with winter gear in Towson - Yahoo",
+        "url": "https://www.yahoo.com/news/local-man-prepares-those-winter-041457069.html",
+        "datePublished": "2024-12-14T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/news/local-man-prepares-those-winter-041457069.html",
+        "snippet": "Meet Mr. Rob. He&#39;s kind of the Mister Rogers of Rodgers Forge. &quot;My nature is to help people. My neighbors will tell you how much I help people.&quot; He chuckles as his sweet dog Seven plays close by.",
+        "dateLastCrawled": "2024-12-14T04:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
