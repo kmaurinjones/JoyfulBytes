@@ -756,5 +756,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2024-12-14": {
+        "date": "December 15, 2024",
+        "image_path": "./data/images/20241214-233003-1.png",
+        "story_summary": "Orange Park, Florida -- December 14, 2024\n\n**Janet Goulet** has dedicated 16 years to a cherished holiday tradition, crocheting handmade clothing for newborns in the NICU at HCA Florida Orange Park. *Each year,* her husband delivers her lovingly crafted baby booties, hats, and afghans, bringing warmth and comfort to countless local babies and their families during the festive season.\n\nThis year marks Janet\u2019s final donation due to ongoing health issues affecting her skeletal system. Reflecting on her nearly two decades of generosity, she feels honored to have created nearly **1,500 items**, each one infused with love and care. Janet\u2019s unwavering commitment and meticulous craftsmanship have become a beloved part of the community\u2019s holiday spirit, leaving an enduring legacy of kindness and support for the smallest and most vulnerable members of the community.\n\n(Word count: 149)",
+        "story_url": "https://www.yahoo.com/lifestyle/local-woman-donates-handmade-clothing-011135124.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Local woman donates handmade clothing to NICU babies for 16th Year - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/local-woman-donates-handmade-clothing-011135124.html",
+        "datePublished": "2024-12-15T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/local-woman-donates-handmade-clothing-011135124.html",
+        "snippet": "USA <b>TODAY</b> Sports What really happens at 32 Portland Place\u2019s sex parties There was certainly cause to celebrate at 32 Portland Place last week, the \u00a315 million west London mansion owned by ...",
+        "dateLastCrawled": "2024-12-15T02:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
