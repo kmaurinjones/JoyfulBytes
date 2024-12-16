@@ -775,5 +775,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2024-12-15": {
+        "date": "December 15, 2024",
+        "image_path": "./data/images/20241215-233004-1.png",
+        "story_summary": "Location unknown -- December 15, 2024\n\n*Hazleton is abuzz with holiday cheer as the community comes together for the Buon Natale Christmas Market at CAN DO Community Park.*\n\n**Hosted by Hazelton\u2019s Unico\u2014the largest Italian American service organization in the U.S.\u2014the event celebrates Italian heritage, community spirit, and the true meaning of Christmas.**\n\n*Highlights include Lizzy and Izzy, adorable 10-month-old baby goats from the Chicks and Goats Trading Post, who delight children with their gentle nature and friendly interactions.*\n\n**Food enthusiasts enjoy offerings from local favorites like Johnny Mozzarella\u2019s family-run pizza business, where even young Benjamin Alu is learning the art of pizza making.**\n\n*Unico\u2019s commitment to giving back through scholarships and support for those in need adds a heartwarming purpose to the festivities, making the market a meaningful celebration for all.*",
+        "story_url": "https://fox56.com/news/local/christmas-cheer-fills-hazleton-with-italian-heritage-and-heartwarming-community-spirit",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Christmas cheer fills Hazleton with Italian heritage and heartwarming ...",
+        "url": "https://fox56.com/news/local/christmas-cheer-fills-hazleton-with-italian-heritage-and-heartwarming-community-spirit",
+        "datePublished": "2024-12-15T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://fox56.com/news/local/christmas-cheer-fills-hazleton-with-italian-heritage-and...",
+        "snippet": "LUZERNE CO. (WOLF) - \u2014 Hazleton is filled with holiday cheer as the community came together for the Buon Natale Christmas Market at CAN DO Community Park. The event celebrated Italian heritage, community, and the meaning of Christmas. Hazelton\u2019s Unico, the largest Italian American service organization in the U.S., hosted a Christmas village.",
+        "dateLastCrawled": "2024-12-16T03:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "WOLF"
     }
 }
