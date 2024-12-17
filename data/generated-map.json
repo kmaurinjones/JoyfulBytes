@@ -794,5 +794,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "WOLF"
+    },
+    "2024-12-16": {
+        "date": "December 16, 2024",
+        "image_path": "./data/images/20241216-233003-1.png",
+        "story_summary": "Maple Ridge -- December 16, 2024\n\n**Jim and Donna Milburn** have been bringing holiday magic to the community as professional Santa and Mrs. Claus since 2010. Inspired by **Donna's father**, a dedicated Santa in Montreal during the 1970s, the couple has a rich legacy of spreading joy.\n\nTheir journey began when **Jim met Donna** while serving in the military in 1971. Following Donna's father's example, Jim assisted as Santa's assistant, laying the foundation for their future roles.\n\nAfter moving to the west coast in 1986, they performed volunteer shows, gradually honing their craft. A pivotal moment came in 2010 when agent **Gillian Campbell** recognized their dedication, propelling them into full-time seasonal roles.\n\nNow, as respected members of the Lower Mainland Professional Santas, Jim and Donna enchant children at corporate events, schools, and daycares. They cherish seeing children's smiles and navigate the challenges of comforting those who feel uneasy around Santa.\n\nBeyond performances, their favorite events include **Sensory Sunday in Surrey**, supporting children with Autism Spectrum Disorder. At 71 and 74, the couple shows no signs of slowing down, driven by their love for the season and the joy they bring to others.",
+        "story_url": "https://www.mapleridgenews.com/community/santa-and-mrs-claus-a-family-affair-for-maple-ridge-couple-7711310",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Santa and Mrs. Claus a family affair for Maple Ridge couple",
+        "url": "https://www.mapleridgenews.com/community/santa-and-mrs-claus-a-family-affair-for-maple-ridge-couple-7711310",
+        "datePublished": "2024-12-17T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapleridgenews.com/community/santa-and-mrs-claus-a-family-affair-for-maple...",
+        "snippet": "Even though, equally as <b>heartwarming</b> are the children who are afraid to death of Santa. &quot;You get the cryers,&quot; noted Jim, with the parents going crazy trying to settle them down. When that happens Donna and Jim have their parents sit with the child while they stand behind for the photo.",
+        "dateLastCrawled": "2024-12-17T02:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Maple Ridge-Pitt Meadows News"
     }
 }
