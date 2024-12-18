@@ -813,5 +813,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Maple Ridge-Pitt Meadows News"
+    },
+    "2024-12-17": {
+        "date": "December 17, 2024",
+        "image_path": "./data/images/20241217-233003-1.png",
+        "story_summary": "Dubai, UAE -- December 17, 2024\n\n**Katriona Marcas, a Scottish expat and marketing professional, faces a harsh reality after losing her job in Dubai.**\n\n*With limited savings and no family support, she feels overwhelmed and considers returning to London. At her lowest point, an unexpected gesture changes everything.*\n\n**A former colleague opens her home to Marcas for four months, assisting her with interviews and providing unwavering support without expecting anything in return.**\n\n*This act of kindness embodies the spirit shared by many UAE residents, who recount similar stories of selfless assistance during times of need, from helping pay medical bills to offering emotional support.*\n\n**These acts of generosity rekindle faith in humanity and inspire a ripple effect of altruism within the community.**\n\n*Psychologists explain that empathy and personal experiences drive these selfless actions, fostering stronger connections and a more compassionate society.*\n\n**Individuals like Tanushree Gupta and Rhiannon Elizabeth share how strangers' kindness saved them in moments of crisis, highlighting the profound impact of simple gestures.**\n\n*Moreover, entrepreneurs like Rachel Moinak-Bastak and Naheed Maalik emphasize the importance of paying kindness forward, ensuring that generosity continues to thrive.*\n\n**These unforgettable stories illustrate that even small acts can transform lives, build trust, and create a supportive environment where everyone feels valued and connected.**",
+        "story_url": "https://gulfnews.com/friday/wellbeing/i-cant-ever-forget-what-she-did-uae-residents-share-unforgettable-stories-of-kindness-1.1734442382923",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "&#39;I can&#39;t ever forget what she did...&#39; UAE residents share ... - Gulf News",
+        "url": "https://gulfnews.com/friday/wellbeing/i-cant-ever-forget-what-she-did-uae-residents-share-unforgettable-stories-of-kindness-1.1734442382923",
+        "datePublished": "2024-12-17T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>gulfnews.com</b>/friday/wellbeing/i-cant-ever-forget-what-she-did-uae-residents...",
+        "snippet": "When we help others, our brain releases <b>feel-good</b> chemicals like dopamine, oxytocin, and endorphins. And so, acts of altruism improves the giver&#39;s mood, reduce stress, and even enhance overall ...",
+        "dateLastCrawled": "2024-12-17T14:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Gulf News"
     }
 }
