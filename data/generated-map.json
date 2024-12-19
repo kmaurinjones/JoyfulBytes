@@ -832,5 +832,23 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Gulf News"
+    },
+    "2024-12-18": {
+        "date": "December 18, 2024",
+        "image_path": "./data/images/20241218-233003-1.png",
+        "story_summary": "Location unknown -- December 18, 2024\n\n**Creating an inclusive classroom** is essential for fostering empathy, respect, and understanding among students. Using **_five exceptional books_**, educators can introduce themes of diversity, equity, and inclusion effectively.\n\nFrom *All Are Welcome*, celebrating community and diversity, to *Wonder*, a heartfelt story about kindness and acceptance, each book offers unique narratives that resonate with young minds.\n\nThese stories not only reflect the varied backgrounds and experiences of children but also encourage meaningful conversations about being different and embracing uniqueness. The consistent message across these books emphasizes that **_everyone belongs_**, fostering a **_strong sense of belonging_** and empowerment in students.\n\nPerfect for classroom settings, these books provide valuable tools for teachers to build an inclusive environment where every child feels seen, valued, and respected.",
+        "story_url": "https://www.schoolplanner.com/5-books-for-children-that-promote-inclusion/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "5 Books for Children that Promote Inclusion &amp; Acceptance",
+        "url": "https://www.schoolplanner.com/5-books-for-children-that-promote-inclusion/",
+        "datePublished": "2024-12-19T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.schoolplanner.com/5-books-for-children-that-promote-inclusion",
+        "snippet": "4. I Am Enough by Grace Byers. I Am Enough by Grace Byers, illustrated by Keturah A. Bobo, is a beautifully written and illustrated picture book that celebrates self-worth, acceptance, and the power of embracing individuality. With its uplifting tone and empowering message, the book encourages children to recognize their inherent value while also cultivating kindness and respect toward others.",
+        "dateLastCrawled": "2024-12-19T01:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
