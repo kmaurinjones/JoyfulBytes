@@ -850,5 +850,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2024-12-19": {
+        "date": "December 19, 2024",
+        "image_path": "./data/images/20241219-233003-1.png",
+        "story_summary": "Location: Tampa, FL -- December 19, 2024\n\n**Christmas with Class** teams up with *Santa* to deliver gifts to **450 Tampa students**.\n\nThis initiative brings joy to children who might not otherwise have a holiday celebration, ensuring they feel the festive spirit.\n\nVolunteers and community members collaborate to make the event a heartwarming success, emphasizing the importance of giving and togetherness during the holiday season.",
+        "story_url": "https://www.wtsp.com/video/life/heartwarming/non-profit-christmas-with-class-teams-up-with-santa-to-deliver-gifts-to-450-tampa-students/67-128d24d0-d044-4371-b830-ec9e19a2fcc8",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Non-profit &#39;Christmas with Class&#39; teams up with Santa to ... - WTSP.com",
+        "url": "https://www.wtsp.com/video/life/heartwarming/non-profit-christmas-with-class-teams-up-with-santa-to-deliver-gifts-to-450-tampa-students/67-128d24d0-d044-4371-b830-ec9e19a2fcc8",
+        "datePublished": "2024-12-20T03:32:00.0000000",
+        "datePublishedFreshnessText": "58 minutes ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.wtsp.com</b>/video/life/<b>heartwarming</b>/non-profit-christmas-with-class-teams-up...",
+        "snippet": "Non-profit &quot;Christmas with Class&quot; brings joy to children who might not otherwise have a holiday celebration.",
+        "dateLastCrawled": "2024-12-20T03:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "WTSP.com"
     }
 }
