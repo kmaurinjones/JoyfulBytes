@@ -869,5 +869,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "WTSP.com"
+    },
+    "2024-12-20": {
+        "date": "December 21, 2024",
+        "image_path": "./data/images/20241220-233002-1.png",
+        "story_summary": "Location unknown -- December 20, 2024\n\n**_Little Acts of Kindness_** celebrates the incredible deeds of young heroes across Ireland who remind us of the importance of caring for one another.\n\nFrom **_Cillian_**, an 8-year-old in Dublin, who consistently shows empathy towards friends and teachers, to **_Anna Carla_**, a 7-year-old eco-warrior from Cork, engaging in community swaps, these stories highlight the profound impact of kindness in everyday life.\n\nChildren like **_Ava McAleavey_** and **_Cali Kenny_** demonstrate bravery and support within their families, while **_Noah Thompson_**, just 19 months old from Limerick, extends generosity even at play.\n\nTheir actions, whether helping with household tasks, supporting siblings with special needs, or assisting the homeless, illustrate a collective commitment to fostering a compassionate community.\n\nThanks to nominations from parents, teachers, and guardians, each young nominee receives recognition and rewards, further encouraging these inspiring behaviors.\n\nThis collection not only showcases individual acts of kindness but also underscores the ripple effect such gestures have, strengthening the bonds within their communities.",
+        "story_url": "https://www.irishexaminer.com/lifestyle/parenting/arid-41539235.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Little Acts of Kindness: Everyday junior heroes remind us why it&#39;s ...",
+        "url": "https://www.irishexaminer.com/lifestyle/parenting/arid-41539235.html",
+        "datePublished": "2024-12-21T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.irishexaminer.com/lifestyle/parenting/arid-41539235.html",
+        "snippet": "This year, we asked you \u2014 our readers \u2014 to help us shine a spotlight on the small but powerful <b>acts</b> of kindness carried out by children and young people. From lending a helping hand to showing ...",
+        "dateLastCrawled": "2024-12-21T02:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Irish Examiner"
     }
 }
