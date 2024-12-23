@@ -888,5 +888,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Irish Examiner"
+    },
+    "2024-12-22": {
+        "date": "December 23, 2024",
+        "image_path": "./data/images/20241222-233003-1.png",
+        "story_summary": "WASHINGTON, Iowa -- December 22, 2024\n\n**Cornerstone Church** distributes *Christmas gifts* and **food** to families in need through its food bank program. Since June, the food bank has supported nearly a thousand people, including single parents like Erin Mills, who appreciates the church's nonjudgmental assistance.\n\nIn addition to meals and gifts, the program provides essentials such as **diapers** for young children, alleviating the stigma associated with assistance.\n\nPastor Melvin Rosa aims to aid two thousand individuals next year, demonstrating the *love and grace* of God through practical help.\n\nCommunity members are invited to contribute to the ongoing efforts of the food bank.",
+        "story_url": "https://www.kcrg.com/2024/12/23/church-donates-food-christmas-gifts-those-need/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Church donates food and Christmas gifts for those in need - KCRG",
+        "url": "https://www.kcrg.com/2024/12/23/church-donates-food-christmas-gifts-those-need/",
+        "datePublished": "2024-12-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.kcrg.com</b>/2024/12/23/church-donates-food-christmas-gifts-those-need",
+        "snippet": "I <b>feel</b>, take what you need if you need it,\u201d Mills said. ... Top <b>Stories</b>: December 22nd, 2024. John\u2019s Big Ol Fish: Sunday, December 22nd, 2024. ... edit and produce the <b>news</b> content that ...",
+        "dateLastCrawled": "2024-12-23T00:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "KCRG"
     }
 }
