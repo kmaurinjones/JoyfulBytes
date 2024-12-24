@@ -907,5 +907,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "KCRG"
+    },
+    "2024-12-23": {
+        "date": "December 23, 2024",
+        "image_path": "./data/images/20241223-233003-1.png",
+        "story_summary": "Location unknown -- December 23, 2024\n\n**'Good For The Soul'**'s final show before Christmas transforms into an *80s disco extravaganza*, featuring the **biggest dance tracks** played for two hours to energize listeners ahead of the holiday.\n\nRecognizing that Christmas can be a difficult time for many, the night aims to uplift spirits by encouraging everyone to *dance their troubles away*. Classics like **Boney M\u2019s 'Rasputin'** and **Freeez's 'I.O.U.'** bring back beloved club hits.\n\nAdditionally, the show shares *positive and uplifting news stories*, including the Women\u2019s Institute in Cumbria crafting flower bouquets for those feeling lonely and two friends from the 1950s reuniting in the same care home after decades apart.\n\n*Merry Christmas* is wished to all, with hopes for a happy and healthy New Year. If you missed the show, you can listen again below!",
+        "story_url": "https://www.phoenixfm.com/2024/12/23/good-for-the-soul-22nd-december-positive-news-stories-and-no-soul-just-party-tunes-in-time-for-christmas/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Good For The Soul - 22nd December - Positive News Stories and No Soul ...",
+        "url": "https://www.phoenixfm.com/2024/12/23/good-for-the-soul-22nd-december-positive-news-stories-and-no-soul-just-party-tunes-in-time-for-christmas/",
+        "datePublished": "2024-12-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.phoenixfm.com/2024/12/23/<b>good</b>-for-the-soul-22nd-december-positive-<b>news</b>...",
+        "snippet": "Positive and uplifting <b>news</b> <b>stories</b> were shared to give you a little boost at Christmas, one from Cumbria where the Women\u2019s Institute have been making flower bouquets and leaving them on benches for those feeling lonely at this time of year, and another from two friends in the 1950s who grew apart and reunited decades later after moving into the same care home!",
+        "dateLastCrawled": "2024-12-23T19:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Phoenix FM"
     }
 }
