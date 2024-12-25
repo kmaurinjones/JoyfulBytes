@@ -926,5 +926,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Phoenix FM"
+    },
+    "2024-12-24": {
+        "date": "December 25, 2024",
+        "image_path": "./data/images/20241224-233003-1.png",
+        "story_summary": "Location unknown -- December 24, 2024\n\n**Catherine D\u2019Souza**, a ***warm-hearted 80-year-old***, transforms her grief into joy each Christmas. After the passing of her husband, she began baking a variety of ***homemade treats*** to honor his memory and share love with others. Inspired by the solace her husband found in her baking, Catherine ***distributes cookies and goodies*** to neighbors, nursing homes, shelters, and community centers, earning the affectionate title of ***'Cookie Grandma'***. Her ***dedication*** not only keeps her husband's spirit alive but also ***brightens the lives*** of many during the holiday season.\n\nThrough her ***acts of kindness***, Catherine creates a ***beloved tradition*** that brings the community together, demonstrating that even in loss, the spirit of giving and love can flourish.",
+        "story_url": "https://www.boredpanda.com/wholesome-christmas-posts/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "80 Wholesome Posts That Radiate So Much Christmas Energy, It\u2019s ...",
+        "url": "https://www.boredpanda.com/wholesome-christmas-posts/",
+        "datePublished": "2024-12-25T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.boredpanda.com</b>/wholesome-christmas-posts",
+        "snippet": "These <b>heartwarming</b> Christmas posts capture the magic of the season and are guaranteed to brighten your day! ... these simple <b>acts</b> are more than just a way to pass the time\u2014they\u2019re a way to spread love. \u201cThe holidays can be hard for a lot of people,\u201d she said. ... <b>Today</b> a lovely Redditor posted that they had a spare ticket to the ballet ...",
+        "dateLastCrawled": "2024-12-25T02:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Bored Panda"
     }
 }
