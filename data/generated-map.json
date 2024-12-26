@@ -945,5 +945,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Bored Panda"
+    },
+    "2024-12-25": {
+        "date": "December 25, 2024",
+        "image_path": "./data/images/20241225-233002-3.png",
+        "story_summary": "Port Moresby -- December 25, 2024\n\n**In a remarkable display of community spirit**, the Ohana Foundation organized a successful charity drive at Port Moresby General Hospital on December 22. **Students from Divine Word University, Polytech, and alumni** came together to spread joy and support to patients during the festive season.\n\n*Led by Theresha Orere*, a Year 2 Environmental Health student with a personal connection to the hospital, she was inspired by her childhood experiences to give back. *\"This charity drive is the fulfillment of a promise I made to myself as a child,\"* Theresha shared.\n\nThe event saw contributions of cash, essential items, and time, with volunteers focusing on Wards 3D and 3B. **Gifts, including supplies, clothing, and care packages**, were distributed, bringing smiles to patients' faces. Theresha emphasized the collective effort and plans to expand the foundation's reach across Papua New Guinea.\n\n*The Ohana Foundation raised K900*, exemplifying the strength of community bonds and the impact of empathy, collaboration, and kindness during the holiday season.",
+        "story_url": "https://www.postcourier.com.pg/community-comes-together-for-heartwarming-charity-drive-in-port-moresby/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Community comes together for heartwarming charity drive in Port Moresby",
+        "url": "https://www.postcourier.com.pg/community-comes-together-for-heartwarming-charity-drive-in-port-moresby/",
+        "datePublished": "2024-12-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postcourier.com.pg/community-comes-together-for-<b>heartwarming</b>-charity-drive...",
+        "snippet": "<b>Today</b> \u00b0 Menu. Homepage; Top Stories ... As the holiday season approaches, the Ohana Foundation\u2019s charity drive serves as a <b>heartwarming</b> reminder of the difference that empathy, collaboration, and kindness can make in the lives of those who are often overlooked. With Theresha at the helm, the foundation is poised to continue its mission of ...",
+        "dateLastCrawled": "2024-12-26T02:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Courier"
     }
 }
