@@ -983,5 +983,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0bc1\u0bb0\u0b9a\u0bc1"
+    },
+    "2024-12-27": {
+        "date": "December 28, 2024",
+        "image_path": "./data/images/20241227-233003-1.png",
+        "story_summary": "Location unknown -- December 27, 2024\n\n**Nqobile and Bunano**, two cousins from Philippi\u2019s Vlei informal settlement in **Western Cape, South Africa**, showcase the true meaning of compassion. Despite living in humble circumstances, they received **R5 Christmas gifts** each.\n\n*Instead of spending the money on themselves, they chose to care for their rescue puppies*, Jasper and Leo. They meticulously packed provisions for their walks, ensuring they could return home if the heat became too intense for their pets.\n\nTheir **selfless act** highlights the power of small gestures in spreading kindness and love. The **Animal Welfare Society** praised their dedication, inspiring others to prioritize compassion over material gains.\n\n*Nqobile and Bunano\u2019s story* serves as a heartwarming reminder that the simplest acts can have the most profound impact.",
+        "story_url": "https://www.goodthingsguy.com/people/two-r5-coins-two-big-hearts-how-nqobile-and-bunanos-love-for-their-puppies-inspired-us-all/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Two R5 Coins, Two Big Hearts, and a Lesson in Pure Kindness",
+        "url": "https://www.goodthingsguy.com/people/two-r5-coins-two-big-hearts-how-nqobile-and-bunanos-love-for-their-puppies-inspired-us-all/",
+        "datePublished": "2024-12-28T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.goodthingsguy.com/people/two-r5-coins-two-big-hearts-how-nqobile-and...",
+        "snippet": "Two cousins, a shared R5 Christmas gift, and an unshakable love for their rescue puppies \u2013 Nqobile and Bunano\u2019s <b>heartwarming</b> story proves that even the smallest <b>acts</b> of kindness can create the biggest waves of compassion.",
+        "dateLastCrawled": "2024-12-28T04:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Good Things Guy"
     }
 }
