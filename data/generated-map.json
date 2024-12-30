@@ -1020,5 +1020,24 @@
         "language": "en",
         "isNavigational": true,
         "noCache": false
+    },
+    "2024-12-29": {
+        "date": "December 30, 2024",
+        "image_path": "./data/images/20241229-233002-1.png",
+        "story_summary": "North Shore -- December 29, 2024\n\n**Wildlife Guardians**: At the North Shore Recycling and Waste Centre, *Poquito*, an eight-year-old Harris\u2019s hawk, diligently deters gulls, ensuring the facility remains clean and safe.\n\n**Thrilling Encounters**: Kayaker Scott Suffron experiences a breathtaking 10-minute close encounter with killer whales in Indian Arm, while sea lions make their presence known in West Vancouver\u2019s Garrow Bay.\n\n**Heroic Rescues and Unique Residents**: *Freeway*, a fearless dog, survives a 100-foot cliff fall and reunites with her owners after a tense search. Additionally, North Vancouver welcomes Morty, a relaxed yellow-bellied marmot, who becomes a local favorite.\n\n**Community and Conservation**: Innovative solutions like the 'bear door' help coexist with wildlife, as seen with bears navigating local neighborhoods. A riveting rescue operation saves Steve the cat from a 90-foot tree, and a family of cougars is spotted in Deep Cove, showcasing the diverse wildlife of the area.\n\n**Events and Initiatives**: North Point Brewing hosts *Big Dog Energy*, a dog-friendly comedy show, bringing joy to both pets and owners alike. Marine rescue volunteers not only save a young eagle but also encounter orcas, underscoring the community\u2019s commitment to animal welfare.",
+        "story_url": "https://www.nsnews.com/local-news/here-are-our-favourite-animal-stories-of-2024-9990385",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Amusing animal stories from Canada - North Shore News",
+        "url": "https://www.nsnews.com/local-news/here-are-our-favourite-animal-stories-of-2024-9990385",
+        "datePublished": "2024-12-30T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ns<b>news</b>.com/local-<b>news</b>/here-are-our-favourite-animal-<b>stories</b>-of-2024-9990385",
+        "snippet": "The North Shore <b>News</b> staff have chosen their favourite <b>stories</b> about bears, birds, cats, whales and eagles from 2024. ... \u201cYou just <b>feel</b> so <b>good</b> about where we are in British Columbia and being ...",
+        "dateLastCrawled": "2024-12-30T02:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "North Shore News"
     }
 }
