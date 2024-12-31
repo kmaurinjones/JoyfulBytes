@@ -1039,5 +1039,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "North Shore News"
+    },
+    "2024-12-30": {
+        "date": "December 30, 2024",
+        "image_path": "./data/images/20241230-233002-1.png",
+        "story_summary": "Green Country -- December 30, 2024\n\n**News On 6** showcases the most uplifting 'Something Good' moments from 2024. Following the tornadoes in May, the **Pryor Library** diligently collects and returns lost photos, restoring cherished memories for many.\n\nIn April, third graders from **Council Oak Elementary** witness a partial solar eclipse from the Brut Hotel roof, igniting curiosity and wonder in young minds.\n\nA beacon of hope shines through a Tulsa woman\u2019s journey in a recovery program, empowering her to rebuild her life and avoid incarceration.\n\nThe beloved store cat **Simon** from Owasso Hardware makes a heartwarming recovery after a workplace injury in July, bringing smiles to customers and staff alike.\n\nCelebrating a unique milestone, **Mary Lea Forsythe**, a 100-year-old Oklahoma woman, marks her 25th birthday on Leap Day, delighting her grandkids and community.\n\nThese stories embody the spirit of kindness and resilience that defines Green Country.",
+        "story_url": "https://www.newson6.com/story/67732ec1e10f87ca91cbe53e/spreading-joy-across-green-country:-our-favorite-something-good-moments-of-2024",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Spreading Joy Across Green Country: News On 6&#39;s Favorite \u2018Something ...",
+        "url": "https://www.newson6.com/story/67732ec1e10f87ca91cbe53e/spreading-joy-across-green-country:-our-favorite-something-good-moments-of-2024",
+        "datePublished": "2024-12-30T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.newson6.com</b>/story/67732ec1e10f87ca91cbe53e/spreading-joy-across-green...",
+        "snippet": "We love sharing <b>stories</b> of people doing something <b>good</b> every day at 5 p.m. If you have Something <b>Good</b> you would like to share, email us at Somethinggoodnewson6@griffin.<b>news</b> Ryan Gillin",
+        "dateLastCrawled": "2024-12-31T04:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "News On 6"
     }
 }
