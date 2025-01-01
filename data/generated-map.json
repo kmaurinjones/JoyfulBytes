@@ -1058,5 +1058,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "News On 6"
+    },
+    "2024-12-31": {
+        "date": "December 31, 2024",
+        "image_path": "./data/images/20241231-233002-1.png",
+        "story_summary": "Jamestown -- December 31, 2024\n\n**This holiday season**, the *Jamestown* community **gathers** for a day filled with joy and surprises through a special *Random Act of Kindness*. Families **come** expecting photos with Santa Claus, but are greeted by the 12 Days of Christmas elves with delightful gifts.\n\n**Children** **receive** dolls, sleds, monster trucks, and games, fulfilling their holiday wish lists. Thanks to the generosity of Donnelly Group Private Wealth Management, the event **embodies** the true spirit of the holidays as children **unwrap** their presents amidst laughter and happiness.\n\n**SooToday** proudly **highlights** this act of kindness as part of its *SooToday Cares* program, aiming to create meaningful change in Sault Ste. Marie. The event **demonstrates** that Jamestown is more than a neighborhood; it's a family united by love and generosity.",
+        "story_url": "https://www.sootoday.com/local-news/replay-on-the-12th-day-of-christmas-a-heartwarming-holiday-surprise-brings-joy-to-jamestown-9998014",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "REPLAY: On the 12th day of Christmas, a heartwarming holiday surprise ...",
+        "url": "https://www.sootoday.com/local-news/replay-on-the-12th-day-of-christmas-a-heartwarming-holiday-surprise-brings-joy-to-jamestown-9998014",
+        "datePublished": "2024-12-31T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.soo<b>today</b>.com/local-news/replay-on-the-12th-day-of-christmas-a-<b>heartwarming</b>...",
+        "snippet": "This holiday season, the Jamestown community gathered for a day filled with joy and surprises, thanks to a special Random <b>Act</b> of Kindness. Families thought they were coming for photos with Santa ...",
+        "dateLastCrawled": "2024-12-31T21:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "SooToday.com"
     }
 }
