@@ -1077,5 +1077,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "SooToday.com"
+    },
+    "2025-01-02": {
+        "date": "January 02, 2025",
+        "image_path": "./data/images/20250102-233003-3.png",
+        "story_summary": "Lake Ashi, Hakone to Tokyo's Otemachi District -- January 02, 2025\n\nAoyama Gakuin University showcases remarkable sportsmanship at the 2025 Hakone Ekiden.\n\n**Tanaka Yuto**, the team's captain, not only leads with athletic prowess but also demonstrates *camaraderie* with his teammate, Katayama Shunya.\n\nDuring the ninth leg of the relay, Tanaka and Katayama run side by side, sharing the emotional weight of the race.\n\nAt a pivotal moment, they share the team's designated drink, toasting their shared hardships and victories.\n\nThis heartfelt gesture captures the true spirit of teamwork, resonating deeply with spectators and earning widespread praise on social media.\n\nWith their exemplary performance, Aoyama Gakuin is poised to secure their eighth overall win, embodying both *competitive excellence* and *mutual respect*.\n\nTanaka and Katayama\u2019s actions remind everyone that sports are about connection and support beyond individual glory.",
+        "story_url": "https://evrimagaci.org/tpg/aoyama-gakuin-shines-with-acts-of-sportsmanship-at-2025-hakone-ekiden-135278",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Aoyama Gakuin Shines With Acts Of Sportsmanship At 2025 Hakone Ekiden",
+        "url": "https://evrimagaci.org/tpg/aoyama-gakuin-shines-with-acts-of-sportsmanship-at-2025-hakone-ekiden-135278",
+        "datePublished": "2025-01-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://evrimagaci.org/tpg/aoyama-gakuin-shines-with-<b>acts</b>-of-sportsmanship-at-2025...",
+        "snippet": "On January 3, 2025, the famed Hakone Ekiden relay race showcased not just fierce competition but also remarkable <b>acts</b> of sportsmanship, capturing the hearts of many spectators and fans. Among the participants, Aoyama Gakuin University&#39;s captain, Tanaka Yuto, stole the spotlight not only through his athletic prowess but also by exemplifying the true spirit of camaraderie.",
+        "dateLastCrawled": "2025-01-03T04:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Evrim A\u011fac\u0131"
     }
 }
