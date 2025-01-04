@@ -1096,5 +1096,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Evrim A\u011fac\u0131"
+    },
+    "2025-01-03": {
+        "date": "January 03, 2025",
+        "image_path": "./data/images/20250103-233003-1.png",
+        "story_summary": "Ludhiana: January 03, 2025 --\n\nIn a heartwarming gesture, **Iqbal Singh**, a 58-year-old NRI from California, donates **250 pairs of shoes** to the students of his native village, *Aitiana*. Responding to the **chilly weather**, his generosity aims to protect young feet and support the educational journey of children from **economically challenged families**.\n\nGuided by former village head **Lakhvir Singh**, Iqbal ensures that the shoes reach the **government primary and high schools**, where official uniforms are provided but not footwear. His donation follows a previous *langar* event, reflecting his deep love and commitment to his roots.\n\nAccompanied by his son, **Taranjot Singh**, Iqbal is honored by school authorities, symbolizing the strong bond between the diaspora and their homeland. **Dr. Taranpreet Kaur**, his daughter, celebrates his success, highlighting the family's dedication and legacy of service.\n\nThe students express immense gratitude, feeling valued and supported, while the village acknowledges the crucial role of NRIs in uplifting the community.",
+        "story_url": "https://timesofindia.indiatimes.com/city/ludhiana/nri-warms-hearts-and-feet-donates-250-shoes-to-students-in-native-village/articleshow/116922813.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "NRI warms hearts and feet, donates 250 shoes to students in native ...",
+        "url": "https://timesofindia.indiatimes.com/city/ludhiana/nri-warms-hearts-and-feet-donates-250-shoes-to-students-in-native-village/articleshow/116922813.cms",
+        "datePublished": "2025-01-03T16:50:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/ludhiana/nri-warms-hearts-and-feet-donates...",
+        "snippet": "Ludhiana: In a <b>heartwarming</b> gesture, a US-based NRI distributed 250 pairs of shoes to the students of his native village, Aitiana, to protect their feet from the ongoing cold weather.",
+        "dateLastCrawled": "2025-01-03T17:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
