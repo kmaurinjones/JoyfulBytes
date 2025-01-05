@@ -1115,5 +1115,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2025-01-04": {
+        "date": "January 05, 2025",
+        "image_path": "./data/images/20250104-233003-1.png",
+        "story_summary": "Location unknown -- January 04, 2025\n\n**Mothers are the heart of the family**, keepers of stories and wisdom. Engaging in meaningful conversations with them not only builds stronger bonds but also uncovers rich family histories.\n\n*This article offers a thoughtful selection of questions designed to delve into various aspects of a mother's life*, from childhood dreams and significant life events to relationships, career achievements, values, and personal advice.\n\nBy encouraging reflection and storytelling, these questions help create lasting memories and provide a deeper understanding of a mother's journey. Regularly engaging in these conversations can preserve invaluable family narratives for generations to come.\n\nListening attentively and showing genuine interest is the most significant gift one can give, leading to a surprising depth of connection and appreciation.",
+        "story_url": "https://r44.cooltext.com/post/questions-to-ask-your-mom-about-her-life",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Questions To Ask Your Mom About Her Life - r44.cooltext.com",
+        "url": "https://r44.cooltext.com/post/questions-to-ask-your-mom-about-her-life",
+        "datePublished": "2025-01-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://r44.cooltext.com/post/questions-to-ask-your-mom-about-her-life",
+        "snippet": "These recordings become priceless artifacts, preserving your mother\u2019s voice and stories for years to come. The <b>act</b> of listening attentively and showing genuine interest is the most significant gift you can give. Start asking these questions <b>today</b>, and begin building a richer understanding of your mom and your family history.",
+        "dateLastCrawled": "2025-01-05T03:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
