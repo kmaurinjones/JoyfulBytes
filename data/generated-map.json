@@ -1133,5 +1133,32 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-01-05": {
+        "date": "January 06, 2025",
+        "image_path": "./data/images/20250105-233003-5.png",
+        "story_summary": "Hoedspruit, South Africa -- January 05, 2025\n\n*At the Hoedspruit Endangered Species Centre, a heartwarming scene unfolds as rhino siblings Thaba and Peter display remarkable thoughtfulness.*\n\n**Angie**, the youngest rhino, eagerly approaches her brothers during their mud bath. Noticing her excitement, **Thaba** graciously steps aside, creating space for her to join in the fun.\n\n*Peter playfully nudges Angie, encouraging her to participate, demonstrating the strong bond and cooperation among the siblings.*\n\nThis touching interaction highlights the importance of **kindness and inclusion** in the animal kingdom, mirroring the conservation center's mission to protect and rehabilitate endangered rhinos.\n\n*Witnessing such endearing behavior serves as a reminder of the vital efforts needed to ensure these majestic creatures thrive despite threats like poaching and habitat loss.*",
+        "story_url": "https://www.goodthingsguy.com/environment/watch-as-rhino-siblings-captured-displaying-the-cutest-interaction-of-thoughtfulness/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Watch as Rhino Siblings Captured Displaying the Cutest",
+        "url": "https://www.goodthingsguy.com/environment/watch-as-rhino-siblings-captured-displaying-the-cutest-interaction-of-thoughtfulness/",
+        "datePublished": "2025-01-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "video": {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Feel-good%20stories%20today&view=detail&mid=7227AAD8BBEF30925FA57227AAD8BBEF30925FA5",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.nq4fbyJ2oNHTl5onRAoDfw&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "",
+            "sourceWidth": 128,
+            "sourceHeight": 72,
+            "videoId": "7227AAD8BBEF30925FA57227AAD8BBEF30925FA5"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.<b>good</b>thingsguy.com/environment/watch-as-rhino-siblings-captured-displaying...",
+        "snippet": "Subscribe To <b>Feel Good</b> Friday. Would you like to receive truly phenomenal, inspirational and <b>good</b> thing <b>stories</b> right to your inbox. Then subscribe to our weekly GoodThingsGuy newsletter <b>today</b>. ... GoodThingsGuy was officially launched on the 1 August 2015 in order to only promote <b>good</b> <b>news</b>, inspirational <b>stories</b> and promote only positive ...",
+        "dateLastCrawled": "2025-01-06T03:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Good Things Guy"
     }
 }
