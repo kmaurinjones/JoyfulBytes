@@ -1160,5 +1160,23 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Good Things Guy"
+    },
+    "2025-01-07": {
+        "date": "January 08, 2025",
+        "image_path": "./data/images/20250107-233002-1.png",
+        "story_summary": "Cement Bus Stop along the Lagos-Abeokuta highway -- January 07, 2025.\n\nEarly in the morning at around 4:00 a.m., a **lady's car broke down** due to a lack of fuel at Cement Bus Stop.\n\nSpotting her plight, the **Lagos State Police patrol** swiftly came to her aid by providing **5 liters of fuel**, enabling her to reach the nearest filling station.\n\nThe officers extended their support with **kind wishes** before resuming their patrol duties.\n\nThis heartfelt gesture has **gone viral online**, with many users praising the police for their timely and compassionate intervention.\n\nComments highlight the positive impact of such actions on **public trust** and the perception of the police as community allies.",
+        "story_url": "https://www.browngh.com/police-help-lady-stranded-at-bus-stop-with-5-liters-of-fuel/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Police help lady stranded at bus stop with 5 liters of fuel",
+        "url": "https://www.browngh.com/police-help-lady-stranded-at-bus-stop-with-5-liters-of-fuel/",
+        "datePublished": "2025-01-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.browngh.com/police-help-lady-stranded-at-bus-stop-with-5-liters-of-fuel",
+        "snippet": "A <b>heartwarming</b> gesture by the Lagos State Police is making waves on X (formerly Twitter). The incident, shared via the handle @rrslagos767, details how officers came to the aid of a car lady who ran out of fuel. According to the post, at about 4:00 a.m., a lady\u2019s car broke down at Cement Bus Stop",
+        "dateLastCrawled": "2025-01-07T20:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
