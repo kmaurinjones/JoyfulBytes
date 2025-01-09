@@ -1178,5 +1178,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-01-08": {
+        "date": "January 09, 2025",
+        "image_path": "./data/images/20250108-233002-1.png",
+        "story_summary": "**Canberra -- January 08, 2025**\n\n*The monthly BBQ organized by Programmed and Housing ACT is thriving as a vital community event in Canberra.*\n\n*Each gathering brings together Housing ACT tenants and their neighbors for a delightful afternoon of grilling and shared meals under the sunny sky. These BBQs offer residents the chance to build connections, celebrate birthdays and milestones, and engage in meaningful conversations with the Programmed team about property maintenance concerns.*\n\n**\"It's heartwarming to see the positive impact regular BBQs can have on a community,\"** shares Gregory Lackey, Social Inclusion Manager at Programmed. *He emphasizes the importance of fostering a sense of belonging and the formation of lasting friendships among residents.*\n\n*Local businesses, including Woolworths and the Cheesecake Factory, generously support the event with donations, ensuring its continued success. The Programmed team takes pride in their role, not only by providing essential services but also by actively engaging with the community to understand and assist their needs.*\n\n*These BBQs are more than just social gatherings; they are a testament to the power of community effort and the commitment of Programmed to enriching the lives of those they serve.*",
+        "story_url": "https://programmed.com.au/the-positive-impact-of-community-bbqs/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "The positive impact of community BBQs: the monthly BBQ strengthening ...",
+        "url": "https://programmed.com.au/the-positive-impact-of-community-bbqs/",
+        "datePublished": "2025-01-09T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://programmed.com.au/the-positive-imp<b>act</b>-of-community-bbqs",
+        "snippet": "\u201cIt\u2019s <b>heartwarming</b> to see the positive impact regular BBQs can have on a community\u201d, shares Gregory Lackey, Social Inclusion Manager at Programmed; \u201c<b>Today</b> has been a brilliant day. Seeing so many tenants come outside and enjoy a meal with their neighbours, witnessing those social connections firsthand and seeing friendships forming, building community, that\u2019s what it\u2019s all about.\u201d",
+        "dateLastCrawled": "2025-01-09T04:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Programmed AU"
     }
 }
