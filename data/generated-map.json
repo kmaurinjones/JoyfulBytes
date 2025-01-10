@@ -1197,5 +1197,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Programmed AU"
+    },
+    "2025-01-09": {
+        "date": "January 10, 2025",
+        "image_path": "./data/images/20250109-233003-1.png",
+        "story_summary": "**Location unknown -- January 09, 2025**\n\nA quiet act of kindness has touched the hearts of many online. **Ted**, a concerned neighbor, notices the absence of his friend's German Shepherd, ***Aria***, during his daily walks.\n\nHe decides to ensure her well-being by reaching out to the owner. Through a heartfelt conversation captured by a doorbell camera, Ted expresses his worries about Aria\u2019s safety.\n\nThe owner reassures Ted that Aria is safe, sharing fond memories of the dog\u2019s playful antics. This exchange highlights the deep bond between humans and their pets.\n\nThe touching interaction showcases how animals can foster meaningful connections within a community. Ted's compassion has resonated widely, reminding us of the simple ways to care for one another.",
+        "story_url": "https://trending.upworthy.com/wellness-check-on-a-good-dog",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Man&#39;s heartwarming wellness check on neighbor&#39;s dog captured by ...",
+        "url": "https://trending.upworthy.com/wellness-check-on-a-good-dog",
+        "datePublished": "2025-01-10T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://trending.upworthy.com/wellness-check-on-a-good-dog",
+        "snippet": "A quiet <b>act</b> of kindness has captured hearts online, thanks to a doorbell camera recording of a man checking on a neighbor&#39;s dog after noticing her absence during his walks. The video, shared on Instagram and TikTok, reveals a touching interaction between the man, Ted, and the dog&#39;s owner, showcasing the unexpected yet meaningful connections that animals can inspire in a community.",
+        "dateLastCrawled": "2025-01-10T03:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
