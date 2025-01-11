@@ -1215,5 +1215,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-01-10": {
+        "date": "January 11, 2025",
+        "image_path": "./data/images/20250110-233003-1.png",
+        "story_summary": "Location unknown -- January 10, 2025\n\n**A son's heartfelt gesture** comes to life as he presents his father with a *Royal Enfield Meteor 650*. This generous gift serves as a token of gratitude for his father's sacrifice in selling his scooter to cover his mother's medical expenses.\n\nThe *Royal Enfield Meteor 650* not only symbolizes financial repayment but also embodies the enduring **bond and respect** between father and son. It's a testament to the son's appreciation for his father's unwavering support during a challenging time.\n\nThis inspiring narrative underscores the *power of family love* and **filial piety**, highlighting the profound ways in which children honor their parents' sacrifices. It serves as a poignant reminder of the lengths to which love and gratitude can drive individuals to express their appreciation.",
+        "story_url": "https://www.manoramaonline.com/fasttrack/auto-news/2025/01/10/son-gifts-father-royal-enfield-meteor-650.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "\u0d05\u0d28\u0d4d\u0d28\u0d4d \u0d05\u0d2e\u0d4d\u0d2e\u0d2f\u0d41\u0d1f\u0d46 \u0d1a\u0d3f\u0d15\u0d3f\u0d24\u0d4d\u0d38\u0d15\u0d4d\u0d15\u0d3e\u0d2f\u0d3f \u0d38\u0d4d\u0d15\u0d42\u0d1f\u0d4d\u0d1f\u0d7c \u0d35\u0d3f\u0d31\u0d4d\u0d31\u0d41, \u0d07\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d3f\u0d24\u0d3e\u0d35\u0d3f\u0d28\u0d4d \u0d2c\u0d41\u0d33\u0d4d\u0d33\u0d31\u0d4d\u0d31\u0d4d ...",
+        "url": "https://www.manoramaonline.com/fasttrack/auto-news/2025/01/10/son-gifts-father-royal-enfield-meteor-650.html",
+        "datePublished": "2025-01-10T11:12:00.0000000",
+        "datePublishedFreshnessText": "17 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.manoramaonline.com</b>/fasttrack/auto-news/2025/01/10/son-gifts-father-royal...",
+        "snippet": "A son&#39;s <b>heartwarming</b> gesture: He gifted his father a Royal Enfield Meteor 650 to repay him for selling his scooter to cover his mother&#39;s medical expenses. This touching story highlights the power of family love and filial piety.",
+        "dateLastCrawled": "2025-01-10T16:56:00.0000000Z",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
     }
 }
