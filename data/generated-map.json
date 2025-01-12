@@ -1234,5 +1234,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
+    },
+    "2025-01-11": {
+        "date": "January 12, 2025",
+        "image_path": "./data/images/20250111-233003-3.png",
+        "story_summary": "Location unknown -- January 11, 2025\n\n**Doodle** the dog and his feline sibling, **JumJum**, demonstrate an *unbreakable bond* that melts hearts. Despite being different species, they grow up together, embodying the pure and wholesome nature of beloved pets.\n\nRecently, a heartwarming video captured their sweet snuggle session, where they peacefully sleep and take turns giving each other *adorable kisses*. This tender moment, shared on January 1, highlights their harmonious relationship and has been celebrated by many as a perfect example of love and acceptance.\n\nTheir affectionate embrace not only showcases their deep friendship but also serves as a reminder of the importance of connection and companionship in our lives. Comments from viewers praise their relationship as one of the most beautiful sights, emphasizing how their bond reflects *relationship goals* and the true treasures of family.\n\nDoodle and JumJum's story continues to inspire others, illustrating that when love is present, differences fade away, and true friendship prevails.",
+        "story_url": "https://www.yahoo.com/lifestyle/doodle-cat-siblings-share-heartwarming-010500333.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Doodle and Cat Siblings Share Heartwarming Snuggle Session ... - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/doodle-cat-siblings-share-heartwarming-010500333.html",
+        "datePublished": "2025-01-12T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/doodle-cat-siblings-share-<b>heartwarming</b>-010500333.html",
+        "snippet": "usa <b>today</b> Animal control officers issue warning about scam involving pets Animal control officers have a message for the community after a woman falsely claimed a dog found in Wallingford was hers.",
+        "dateLastCrawled": "2025-01-12T03:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
