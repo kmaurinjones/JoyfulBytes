@@ -1253,5 +1253,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2025-01-12": {
+        "date": "January 13, 2025",
+        "image_path": "./data/images/20250112-233003-3.png",
+        "story_summary": "**Location unknown -- January 12, 2025**\n\n*In a touching display of bravery and kindness, 7-year-old Charlie discovers an abandoned dog on the town's outskirts.*\n\n*He immediately alerts his mother and carefully approaches the scared animal, soothing it with gentle words and actions.*\n\n*Despite suggestions to take the dog to a shelter, Charlie's unwavering compassion drives him to keep the dog, ensuring its safety and care.*\n\n*News of his heroic act spreads throughout the community, earning him praise from neighbors, friends, and even his school.*\n\n*Charlie's actions highlight the profound impact of empathy, inspiring those around him to act with similar kindness.*",
+        "story_url": "https://fancy4news.com/a-7-year-old-boy-becom-hoangdanang2/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "A 7-year-old boy becomes a hero with an incredible act of compassion ...",
+        "url": "https://fancy4news.com/a-7-year-old-boy-becom-hoangdanang2/",
+        "datePublished": "2025-01-13T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://fancy4news.com/a-7-year-old-boy-becom-hoangdanang2",
+        "snippet": "n a touching story of bravery, kindness, and empathy, a 7-year-old boy named Charlie has won the hearts of his community and beyond. Charlie\u2019s compassion led him to save an abandoned dog he found alone and scared on the outskirts of his town, demonstrating the power of empathy even in the youngest members of society. This <b>heartwarming</b> story reminds us of the profound impact a simple <b>act</b> of ...",
+        "dateLastCrawled": "2025-01-13T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
