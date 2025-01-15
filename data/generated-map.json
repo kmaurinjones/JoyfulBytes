@@ -1271,5 +1271,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-01-14": {
+        "date": "January 15, 2025",
+        "image_path": "./data/images/20250114-233003-1.png",
+        "story_summary": "Penang, January 14, 2025 --\n\nThrough the *Beary Merry Christmas* campaign, the Penang Marriott Hotel proudly raised and donated **RM40,000** to the Children\u2019s Protection Society (CPS) Penang.\n\nAt the heart of the campaign was the enchanting *Teddy Bear Christmas Tree*, where 638 adorable bears were sold at RM99 each, symbolizing hope and joy for underprivileged children.\n\nGeneral Manager Subash Basrur expressed heartfelt gratitude, highlighting the community's overwhelming support and the positive impact of their generosity.\n\nThe donation ceremony was a touching event, with CPS Penang children receiving their own teddy bears, filling the room with smiles and laughter.\n\nThis initiative not only celebrated the spirit of giving during the festive season but also reinforced the Penang Marriott Hotel\u2019s commitment to fostering a compassionate and caring community.",
+        "story_url": "https://smartdory.com/2025/01/penang-marriott-rm40k-donation-cps-christmas/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Penang Marriott\u2019s RM40K Donation to CPS Penang in Beary Merry Christmas ...",
+        "url": "https://smartdory.com/2025/01/penang-marriott-rm40k-donation-cps-christmas/",
+        "datePublished": "2025-01-15T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://smartdory.com/2025/01/penang-marriott-rm40k-donation-cps-christmas",
+        "snippet": "Penang Marriott Hotel lit up the festive season with a <b>heartwarming</b> campaign that embodied the true spirit of Christmas\u2014the joy of giving. ... The success of this campaign reminds us that small <b>acts</b> of kindness, when multiplied, create something truly extraordinary. ... Get involved <b>today</b> and make a lasting impact! The Children\u2019s Protection ...",
+        "dateLastCrawled": "2025-01-15T02:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SmartDory"
     }
 }
