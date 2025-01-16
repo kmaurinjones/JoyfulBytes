@@ -1290,5 +1290,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "SmartDory"
+    },
+    "2025-01-15": {
+        "date": "January 16, 2025",
+        "image_path": "./data/images/20250115-233002-1.png",
+        "story_summary": "Mackay & Whitsunday -- January 15, 2025\n\n**A Flat Tyre And A Full Heart**\n\nIn a *heartwarming act of kindness*, a young woman helps a local family's anxious teenage daughter change a flat tyre on Eversleigh Road.\n\nThe daughter, a P-plater struggling with high anxiety, is stranded with her parents out of state and considers calling RACQ.\n\nA stranger in a red Mazda CX-5, believed to be of Islander descent, pulls over and offers assistance without hesitation.\n\nDespite the daughter's distress, the woman calmly changes the tyre and provides emotional support, sharing her own experiences with similar situations.\n\nGrateful parents want to thank her with a gift, but she humbly declines, saying *\"Paying it forward is enough for me.\"*\n\nThey are moved by her kindness and commit to teaching their daughter to change a tyre in the future, appreciating that there are still kind-hearted people around.",
+        "story_url": "https://www.mackayandwhitsundaylife.com/article/a-flat-tyre-and-a-full-heart",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "A Flat Tyre And A Full Heart - Mackay Whitsunday LIfe",
+        "url": "https://www.mackayandwhitsundaylife.com/article/a-flat-tyre-and-a-full-heart",
+        "datePublished": "2025-01-16T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mackayandwhitsundaylife.com/article/a-flat-tyre-and-a-full-heart",
+        "snippet": "In a <b>heart-warming</b> <b>act</b> of kindness, a young woman has left a lasting impression on a local family after helping their anxious teenage daughter change a flat tyre on Eversleigh Road. The daughter, a P-plater with high anxiety, found herself stranded by the side of the road, upset and unsure of what to do. With her parents out of state, she was about to call RACQ when a stranger in a red Mazda ...",
+        "dateLastCrawled": "2025-01-16T04:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
     }
 }
