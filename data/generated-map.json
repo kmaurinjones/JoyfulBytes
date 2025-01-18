@@ -1326,5 +1326,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": true
+    },
+    "2025-01-17": {
+        "date": "January 17, 2025",
+        "image_path": "./data/images/20250117-233003-1.png",
+        "story_summary": "Istanbul \u2013 January 17, 2025 --\n\nA **stray mother dog** creates an ***extraordinary moment*** when she brings her ***sick puppy*** to Beylikduzu Alfa Veterinary Clinic on January 13.\n\nInitially believed to be deceased, the puppy's **faint heartbeat** gives hope as veterinarian Baturalp Dogan begins the effort to save its life.\n\nDogan praises the mother's **selfless act**, noting she might have been inspired by community members who previously brought her other puppies to the clinic, showing it's a safe haven.\n\nThanks to these efforts, **both puppies are now safe** and under the clinic's care, highlighting the bond and trust between animals and humans.",
+        "story_url": "https://www.independent.co.uk/tv/lifestyle/stray-dog-puppy-istanbul-vet-b2681897.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Extraordinary moment stray mother dog brings sick puppy to vet",
+        "url": "https://www.independent.co.uk/tv/lifestyle/stray-dog-puppy-istanbul-vet-b2681897.html",
+        "datePublished": "2025-01-17T23:05:00.0000000",
+        "datePublishedFreshnessText": "5 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.independent.co.uk</b>/tv/lifestyle/stray-dog-puppy-istanbul-vet-b2681897.html",
+        "snippet": "A <b>heartwarming</b> incident took place in Istanbul\u2019s Beylikduzu Alfa Veterinary Clinic on 13 January when a stray dog brought her puppy clutched in her mouth to a vet clinic\u2019s doorstep. It was ...",
+        "dateLastCrawled": "2025-01-17T23:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "The Independent"
     }
 }
