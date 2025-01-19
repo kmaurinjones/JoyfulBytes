@@ -1345,5 +1345,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "The Independent"
+    },
+    "2025-01-18": {
+        "date": "January 19, 2025",
+        "image_path": "./data/images/20250118-233003-1.png",
+        "story_summary": "**Dubai to Kerala -- January 18, 2025**\n\n*Zainab Roshna*, an Emirates flight attendant, embarks on a heartfelt journey from Dubai to her hometown in Kerala to surprise her grandmother on her birthday.\n\nAfter two long years apart, Zainab bursts into her grandmother's room, still clad in her flight uniform. The elderly woman is overwhelmed with joy and emotion, embracing Zainab in a warm hug and sharing a loving kiss on her cheek.\n\nWitnesses capture the magical reunion on video, showcasing the deep bond between them. Zainab's surprise has touched the hearts of millions online, amassing over 100,000 likes and 2.3 million views.\n\nHer gesture not only celebrates her grandmother's special day but also highlights the enduring connection between family members despite time and distance.\n\nSocial media reactions laud the emotional depth and sincerity of the surprise, making it a viral sensation that inspires others to cherish their loved ones.",
+        "story_url": "https://www.livemint.com/news/heartwarming-emirates-flight-attendant-travels-from-dubai-to-kerala-surprises-grandmother-watch-viral-video-11737202197845.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Heartwarming! Emirates flight attendant travels from Dubai to Kerala ...",
+        "url": "https://www.livemint.com/news/heartwarming-emirates-flight-attendant-travels-from-dubai-to-kerala-surprises-grandmother-watch-viral-video-11737202197845.html",
+        "datePublished": "2025-01-18T13:39:00.0000000",
+        "datePublishedFreshnessText": "14 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.livemint.com/news/<b>heartwarming</b>-emirates-flight-attendant-travels-from...",
+        "snippet": "An Emirates flight attendant shared an emotional video, showing her surprise visit to her grandmother on her birthday, which has gone viral. The video has gained significant attention online ...",
+        "dateLastCrawled": "2025-01-18T13:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mint"
     }
 }
