@@ -1383,5 +1383,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Observer Voice"
+    },
+    "2025-01-21": {
+        "date": "January 21, 2025",
+        "image_path": "./data/images/20250121-233003-1.png",
+        "story_summary": "Radlett Watford -- January 21, 2025\n\n**Callum Thompson**, an engineer from *Avenue Heating*, is celebrated for his outstanding compassion and dedication.\n\nWhile installing a new boiler for **Jane**, she suffered a head injury from a fall. Callum acted swiftly, calling an ambulance and staying by **Jane**'s side until help arrived.\n\nNot stopping there, he later drove to **Watford General Hospital** to pick her up and personally escorted her home to ensure her well-being.\n\n**Jane** praised Callum as \"lovely\" and playfully remarked, \"he's got a lucky wife.\"\n\nHis employer, **Winston Davis**, highlighted Callum's actions as exceeding expectations and exemplifying true client care.\n\nStories like this showcase how small businesses can profoundly impact people's lives.",
+        "story_url": "https://www.watfordobserver.co.uk/news/24872499.hes-got-lucky-wife-watford-engineers-kind-act-praised/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "&#39;He&#39;s got a lucky wife&#39;: Watford engineer&#39;s kind act praised",
+        "url": "https://www.watfordobserver.co.uk/news/24872499.hes-got-lucky-wife-watford-engineers-kind-act-praised/",
+        "datePublished": "2025-01-21T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.watfordobserver.co.uk/news/24872499.hes-got-lucky-wife-watford-engineers...",
+        "snippet": "While in the car, Callum shared a selfie of the pair on the way to Jane&#39;s home. Callum personally drove Jane to hospital. (Image: Avenue Heating) Avenue Heating&#39;s owner, Winston Davis, said: &quot;At Avenue Heating, we strive to provide exceptional service, but what Callum did goes far beyond expectations. &quot;His compassion and dedication make him a credit to our team and an example of what true ...",
+        "dateLastCrawled": "2025-01-21T17:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Watford Observer"
     }
 }
