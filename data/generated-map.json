@@ -1402,5 +1402,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Watford Observer"
+    },
+    "2025-01-22": {
+        "date": "January 22, 2025",
+        "image_path": "./data/images/20250122-233003-1.png",
+        "story_summary": "Stonewall -- January 22, 2025\n\n**Something Beautiful** is a vibrant cafe and gift shop in Stonewall, managed by *Community Living Interlake (CLI)* to support adults with disabilities.\n\nClients like Gary Lawson, Kyle Soroka, and Darrell Dempster contribute by making coffee, washing dishes, and setting tables, fostering teamwork and community spirit.\n\nOperating since 2016 in a renovated Home Hardware building, the social enterprise serves as a training incubator, empowering clients to gain skills and confidence.\n\nExecutive Director Tracy Fidler emphasizes creating meaningful jobs that allow clients to live fulfilling lives within the community.\n\nCLI reinvests all profits back into their services, expanding their impact through initiatives like running the canteen at the Veterans Memorial Sports Complex and participating in the 2025 Kraft Hockeyville contest.",
+        "story_url": "https://globalnews.ca/news/10972982/something-beautiful-adults-disabilities/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Something Beautiful: Supporting adults with disabilities in Stonewall ...",
+        "url": "https://globalnews.ca/news/10972982/something-beautiful-adults-disabilities/",
+        "datePublished": "2025-01-22T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>globalnews.ca</b>/<b>news</b>/10972982/something-beautiful-adults-disabilities",
+        "snippet": "\u201cIt makes me <b>feel good</b> to know that I can do it.\u201d \u201cOur other goal is for people to gain skills working at Something Beautiful, to be able to go out in the community and be able to get a job ...",
+        "dateLastCrawled": "2025-01-23T01:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Global News"
     }
 }
