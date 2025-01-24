@@ -1421,5 +1421,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Global News"
+    },
+    "2025-01-23": {
+        "date": "January 23, 2025",
+        "image_path": "./data/images/20250123-233003-1.png",
+        "story_summary": "KNOXVILLE, Tenn. -- *January 23, 2025*\n\n**Celebrating a Century**\n\nThree inspiring women, **Johanna Foveaux**, **Elosie Sparks**, and **Margie Kirkpatrick**, mark their 100th birthdays at a Knoxville assisted living facility.\n\n**Festive Celebrations**\n\nThe facility decorated its dining room with balloons and festive decorations, hosting a joint birthday party. Foveaux described her milestone as a normal age, while Kirkpatrick expressed gratitude for God's guidance and her good health.\n\n**Reflections and Advice**\n\nFoveaux encouraged her grandchildren to stay active, highlighting the importance of exercise. The centenarians shared their appreciation for their fulfilling lives and the support they received over the years.",
+        "story_url": "https://www.wbir.com/article/life/heartwarming/knoxville-assisted-living-facility-3-100-year-birthdays/51-7528a903-074e-4e74-9eff-61aeb0eb0117",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.21",
+        "name": "3 women at Knoxville assisted living facility turning 100 years old",
+        "url": "https://www.wbir.com/article/life/heartwarming/knoxville-assisted-living-facility-3-100-year-birthdays/51-7528a903-074e-4e74-9eff-61aeb0eb0117",
+        "datePublished": "2025-01-23T23:22:00.0000000",
+        "datePublishedFreshnessText": "5 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.wbir.com</b>/article/life/<b>heartwarming</b>/knoxville-assisted-living-facility-3...",
+        "snippet": "KNOXVILLE, Tenn. \u2014 Three women at a Knoxville assisted living facility celebrated their centennial birthday Thursday. Johanna Foveaux, Elosie Sparks and Margie Kirkpatrick all turn 100 years old ...",
+        "dateLastCrawled": "2025-01-23T23:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "WBIR.com"
     }
 }
