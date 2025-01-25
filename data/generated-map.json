@@ -1440,5 +1440,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "WBIR.com"
+    },
+    "2025-01-24": {
+        "date": "January 24, 2025",
+        "image_path": "./data/images/20250124-233003-1.png",
+        "story_summary": "Delhi -- January 24, 2025\n\n**Aryan Mishra**, a passionate amateur astronomer, shares a heartfelt gesture that has touched thousands.\n\n*Twenty-five years ago*, Aryan's father served as a watchman at the prestigious ITC Hotel in Delhi. Today, Aryan brings his father back as a guest, celebrating their journey and his father's enduring support.\n\nThe emotional dinner captured on social media quickly **went viral**, inspiring millions. Prominent figures like Anand Mahindra praised Aryan's act, highlighting the *power of love and gratitude*.\n\nAryan's story emphasizes the **importance of honoring our parents' sacrifices** and serves as a beacon of hope and positivity.",
+        "story_url": "https://news.abplive.com/trending/from-watchman-to-guest-son-brings-father-back-to-itc-hotel-for-emotional-dinner-25-years-later-1746483",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "From Watchman to Guest: Son Brings Father Back to ITC Hotel for ...",
+        "url": "https://news.abplive.com/trending/from-watchman-to-guest-son-brings-father-back-to-itc-hotel-for-emotional-dinner-25-years-later-1746483",
+        "datePublished": "2025-01-24T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://news.abplive.com/trending/from-watchman-to-guest-son-brings-father-back-to-itc...",
+        "snippet": "He captioned the post: \u201cMy father was a watchman at ITC in New Delhi from 1995-2000; <b>today</b> I had the opportunity to take him to the same place for dinner.\u201d The post quickly went viral, garnering over a million impressions on X (formerly Twitter). It received more than 53,000 likes, 4,000 reposts, and 2,100 heartfelt comments.",
+        "dateLastCrawled": "2025-01-24T14:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ABP LIVE"
     }
 }
