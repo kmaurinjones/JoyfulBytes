@@ -1459,5 +1459,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "ABP LIVE"
+    },
+    "2025-01-25": {
+        "date": "January 26, 2025",
+        "image_path": "./data/images/20250125-233003-1.png",
+        "story_summary": "Amritsar -- January 25, 2025\n\n**Amritsar** bursts into life with its vibrant festivals, showcasing the *rich cultural heritage* of Punjab. Streets adorned with twinkling lights and filled with laughter set the stage for grand celebrations like **Baisakhi**, **Diwali**, **Lohri**, and **Holi**.\n\nThroughout the year, the city captivates visitors with its *colorful processions*, traditional dances, and *mouthwatering cuisine*. The **Golden Temple** stands as a symbol of peace, becoming the heart of many festivities.\n\nFood enthusiasts rejoice as Amritsar's culinary scene thrives during festivals, offering delights like **Amritsari Kulcha** and **Chole Bhature**. The Amritsar Heritage Festival adds depth with live music, dance performances, and artisan workshops, fostering a sense of community and tradition.\n\nTravelers are encouraged to immerse themselves in the local customs, dance to lively music, and savor the flavors that make Amritsar a must-visit destination for cultural exploration and unforgettable experiences!",
+        "story_url": "https://www.agoda.com/travel-guides/india/amritsar/experience-the-vibrant-carnival-in-amritsar-a-festive-guide/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Experience the Vibrant Carnival in Amritsar: A Festive Guide - Agoda",
+        "url": "https://www.agoda.com/travel-guides/india/amritsar/experience-the-vibrant-carnival-in-amritsar-a-festive-guide/",
+        "datePublished": "2025-01-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.agoda.com</b>/travel-guides/india/amritsar/experience-the-vibrant-carnival-in...",
+        "snippet": "As winter bids adieu, Lohri comes alive in January. This festival celebrates the end of the cold season with bonfires, traditional songs, and dances. Families gather around the fire, tossing in offerings of sesame seeds and jaggery while singing folk songs. The warmth of the fire and the joy of togetherness make Lohri a <b>heartwarming</b> occasion. Holi",
+        "dateLastCrawled": "2025-01-26T03:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Agoda"
     }
 }
