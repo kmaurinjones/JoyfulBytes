@@ -1516,5 +1516,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Nairaland"
+    },
+    "2025-01-28": {
+        "date": "January 29, 2025",
+        "image_path": "./data/images/20250128-233008-1.png",
+        "story_summary": "Singapore, January 28, 2025 -- TikTok user @wandererwills captures **heartwarming everyday moments** in Singapore, encouraging viewers to *slow down* and appreciate life's simple joys.\n\nIn her latest video, she showcases a **father and son playing in a playground**, two sisters sharing binoculars on a double-decker bus, a **father and toddler enjoying a playful moment with a stroller**, a woman jogging on her day off, and **colleagues chatting after work**.\n\nInspired by another TikToker, @wandererwills aims to highlight the *human connections* that often go unnoticed in the hustle of modern life.\n\nHer video has resonated deeply with viewers, sparking a *heartfelt response* and reminding many to cherish the **little interactions** that make life meaningful.",
+        "story_url": "https://mustsharenews.com/heartwarming-everyday-singapore/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "&#39;Today, I noticed&#39;: TikToker captures heartwarming everyday moments in ...",
+        "url": "https://mustsharenews.com/heartwarming-everyday-singapore/",
+        "datePublished": "2025-01-29T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mustsharenews.com/<b>heartwarming</b>-everyday-singapore",
+        "snippet": "TikTok user in Singapore shares <b>heartwarming</b> video capturing little joys in everyday life In the hustle and bustle of modern life, it\u2019s easy to overlook the beauty in small, ordinary moments. Singapore-based TikTok user @wandererwills is reminding people to slow down and appreciate these little interactions with a <b>heartwarming</b> video posted on Sunday (26 Jan).",
+        "dateLastCrawled": "2025-01-29T01:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Must Share News"
     }
 }
