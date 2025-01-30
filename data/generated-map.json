@@ -1535,5 +1535,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Must Share News"
+    },
+    "2025-01-29": {
+        "date": "January 30, 2025",
+        "image_path": "./data/images/20250129-233003-1.png",
+        "story_summary": "Portland, OR \u2014 *January 29, 2025*\n\n**Brave firefighters from Portland, Gresham, and Port of Portland return home after battling historic wildfires in California.**\n\n**Holy Cross Catholic School students in North Portland express their gratitude with handcrafted thank you cards and drawings.**\n\n**Fifth grader Josie shares, \u201cI think they did a lot of work in California and just here. And we should say thank you because they are really hard workers.\u201d**\n\n**Oregon State Fire Marshal Mariana Ruiz-Temple highlights the unprecedented response, with 105 fire engines and 375 firefighters deployed.**\n\n**Fire Inspector Christine Pezzulo reflects on the emotional impact, stating the students\u2019 gestures brought \u201ctears to the eyes\u201d and deepened their sense of purpose.**\n\n**Battalion Chief Jason Kelly emphasizes the importance of such acts of kindness in motivating firefighters and inspiring future generations to join the rescue teams.**",
+        "story_url": "https://www.kgw.com/article/news/local/portland-gresham-firefighters-thank-you-cards-students-holy-cross-catholic-school/283-9e54e13d-5a2e-4c8f-bd9e-0f2f7d09a48c",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Students thank firefighters who battled LA fires in &#39;heartwarming ...",
+        "url": "https://www.kgw.com/article/news/local/portland-gresham-firefighters-thank-you-cards-students-holy-cross-catholic-school/283-9e54e13d-5a2e-4c8f-bd9e-0f2f7d09a48c",
+        "datePublished": "2025-01-30T02:36:00.0000000",
+        "datePublishedFreshnessText": "1 hour ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.kgw.com</b>/article/news/local/portland-gresham-firefighters-thank-you-cards...",
+        "snippet": "Firefighters from Portland, Gresham and Port of Portland received thank you cards from Holy Cross Catholic School students after coming home from the LA fires.",
+        "dateLastCrawled": "2025-01-30T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "kgw.com"
     }
 }
