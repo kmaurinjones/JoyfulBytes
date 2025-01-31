@@ -1554,5 +1554,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "kgw.com"
+    },
+    "2025-01-30": {
+        "date": "January 31, 2025",
+        "image_path": "./data/images/20250130-233002-3.png",
+        "story_summary": "**St. Louis, MO -- January 30, 2025**\n\n*On a chilly Thursday morning, Darnell Hill, a trauma supervisor, takes an unexpected detour on his way to work. As he drives down Union Boulevard, he witnesses a house engulfed in flames and a woman desperately calling for help.*\n\n*Despite indifferent bystanders, Hill springs into action, risking his life to rescue a 90-year-old neighbor trapped inside the burning home. His heroic efforts are captured on camera, revealing his internal struggle between fear and duty.*\n\n*After safely guiding the elderly man to the front lawn, Hill reflects on the profound impact of his actions and the importance of stepping up in critical moments. His bravery serves as a powerful reminder of the difference one person can make in the face of adversity.*",
+        "story_url": "https://www.ksdk.com/article/life/heartwarming/st-louis-trauma-supervisor-becomes-unexpected-hero-in-early-morning-fire-rescue/63-2e9041c6-43dc-447d-b820-a65dbc48934f",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "North St. Louis man reflects on heroic fire rescue | ksdk.com",
+        "url": "https://www.ksdk.com/article/life/heartwarming/st-louis-trauma-supervisor-becomes-unexpected-hero-in-early-morning-fire-rescue/63-2e9041c6-43dc-447d-b820-a65dbc48934f",
+        "datePublished": "2025-01-30T22:39:00.0000000",
+        "datePublishedFreshnessText": "5 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.ksdk.com</b>/article/life/<b>heartwarming</b>/st-louis-trauma-supervisor-becomes...",
+        "snippet": "ST. LOUIS \u2014 A St. Louis residential fire caused a local man driving to work to stop and be a hero early Thursday morning. The St. Louis Fire Department said they responded around 7:30 a.m. to a ...",
+        "dateLastCrawled": "2025-01-30T22:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ksdk.com"
     }
 }
