@@ -1573,5 +1573,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "ksdk.com"
+    },
+    "2025-01-31": {
+        "date": "January 31, 2025",
+        "image_path": "./data/images/20250131-233003-1.png",
+        "story_summary": "Bengaluru -- January 31, 2025\n\n**Rakesh**, a speech-impaired taxi driver, becomes an internet sensation through his acts of kindness.\n\n*He offers discounted rides*, along with thoughtful gestures like providing water, napkins, and books to his passengers.\n\nA social media post shared by a passenger captured these *heartwarming moments*, sparking widespread admiration and gratitude from users.\n\nRakesh's dedication and empathy highlight the enduring impact of small, meaningful actions in everyday life.",
+        "story_url": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-taxi-drivers-kindness-goes-viral-despite-being-speech-impaired-941301",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Bengaluru Taxi Driver&#39;s Kindness Goes Viral Despite Being Speech-Impaired",
+        "url": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-taxi-drivers-kindness-goes-viral-despite-being-speech-impaired-941301",
+        "datePublished": "2025-01-31T14:35:00.0000000",
+        "datePublishedFreshnessText": "13 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-taxi-drivers-kindness...",
+        "snippet": "A taxi driver in the city is gaining widespread attention for his <b>heartwarming</b> <b>acts</b> of kindness, despite being speech-impaired. Rakesh, a Bengaluru-based driver, has won the admiration of internet ...",
+        "dateLastCrawled": "2025-01-31T14:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Hans India"
     }
 }
