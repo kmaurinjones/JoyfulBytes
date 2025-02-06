@@ -1646,5 +1646,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-02-05": {
+        "date": "February 06, 2025",
+        "image_path": "./data/images/20250205-233003-1.png",
+        "story_summary": "Location unknown -- February 05, 2025\n\n**_Children\u2019s books celebrate Korean cuisine_** by introducing dishes like gimbap and kimchi through engaging storytelling. These stories go beyond recipes, emphasizing emotional connections and family traditions.\n\n*\u201cWho Made Gimbap?\u201d* follows a young girl learning her grandmother\u2019s gimbap recipe, uncovering family history and cultural significance. Other books explore Korean holidays and their associated foods, such as *\u201cGenerations, Love, and the Perfect Persimmon\u201d* during Chuseok.\n\nEmphasizing authenticity, these books resonate with Korean diaspora communities, fostering understanding and appreciation for Korean customs among young readers. Through vivid illustrations and heartwarming narratives, these picture books serve as valuable tools for cultural exchange, promoting empathy and connection across cultures.",
+        "story_url": "https://www.archyde.com/celebrating-korean-cuisine-through-picture-books/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Celebrating Korean cuisine through picture books \u2013 Archyde",
+        "url": "https://www.archyde.com/celebrating-korean-cuisine-through-picture-books/",
+        "datePublished": "2025-02-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.archyde.com/celebrating-korean-cuisine-through-picture-books",
+        "snippet": "Both books offer <b>heartwarming</b> tales of identity exploration and acceptance. They encourage young readers to celebrate the richness of their \u2064own diverse backgrounds and to recognise the\u2062 beauty in cultural\u2063 fusion. Looking at these recent stories helps to visualize the\u2063 growing importance of multicultural representation in literature.",
+        "dateLastCrawled": "2025-02-06T04:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Archyde"
     }
 }
