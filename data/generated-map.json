@@ -1665,5 +1665,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Archyde"
+    },
+    "2025-02-07": {
+        "date": "February 08, 2025",
+        "image_path": "./data/images/20250207-233003-3.png",
+        "story_summary": "Location unknown -- February 07, 2025\n\n**Julia Corrigan** shares *15 of the most wholesome posts* she found online this week, aiming to uplift readers amidst the chaotic news cycle.\n\nFrom adorable animal reunions and acts of love to charming personal stories, each selection *brings joy and positivity*. Highlights include an elephant calf meeting her aunt and a rescue eagle embracing his home.\n\nCorrigan encourages readers to engage with the creators, fostering a community that values *kindness and uplifting content*. This compilation serves as a reminder of the **goodness that still exists online**, offering a much-needed respite from daily stresses.",
+        "story_url": "https://www.buzzfeed.com/scarymouse/wholesome-posts-from-this-week-february-8",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "All The Wholesome Posts You Need To See This Week - BuzzFeed",
+        "url": "https://www.buzzfeed.com/scarymouse/wholesome-posts-from-this-week-february-8",
+        "datePublished": "2025-02-08T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.buzzfeed.com</b>/scarymouse/wholesome-posts-from-this-week-february-8",
+        "snippet": "<b>News</b>, Politics, Culture, Life, Entertainment, and more. <b>Stories</b> that matter to you. ... What a <b>good</b> day (and a <b>good</b> leather jacket) can do for your mood: ... <b>Feel</b> free to tell me what you think ...",
+        "dateLastCrawled": "2025-02-08T01:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "BuzzFeed"
     }
 }
