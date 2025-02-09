@@ -1684,5 +1684,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "BuzzFeed"
+    },
+    "2025-02-08": {
+        "date": "February 09, 2025",
+        "image_path": "./data/images/20250208-233002-1.png",
+        "story_summary": "Location unknown -- February 08, 2025\n\n**An adorable Tabby cat** is left alone for four hours, sparking a spree of mischief. As his foster mom departs, he starts by knocking over a plant, then digs it up, scattering greenery everywhere.\n\n*Determined to make his feelings known*, he kicks dirt into every corner of the kitchen, even filling the food and water bowls with his mess.\n\nWith a proud gaze at the camera, he revels in his destruction, leaving his mom to face the epic cleanup. Viewers relate to his actions, recognizing signs of *separation anxiety*, and celebrating the joy and chaos pets bring into our lives.",
+        "story_url": "https://www.yahoo.com/lifestyle/naughty-tabby-cat-leaves-trail-000500713.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Naughty Tabby Cat Leaves Trail of Destruction After 4 Hours ... - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/naughty-tabby-cat-leaves-trail-000500713.html",
+        "datePublished": "2025-02-09T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/naughty-tabby-cat-leaves-trail-000500713.html",
+        "snippet": "Others sometimes <b>act</b> out to show us how they feel. This naughty Tabby cat is one of those felines. He left his foster mom with little doubt about his displeasure regarding her leaving and appeared ...",
+        "dateLastCrawled": "2025-02-09T02:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
