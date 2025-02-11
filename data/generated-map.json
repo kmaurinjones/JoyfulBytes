@@ -1722,5 +1722,47 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Bored Panda"
+    },
+    "2025-02-10": {
+        "date": "February 10, 2025",
+        "image_path": "./data/images/20250210-233003-1.png",
+        "story_summary": "***Chanthaburi, Thailand -- February 10, 2025***\n\nDuring **Random Acts of Kindness Week**, a heartwarming incident unfolds at a red light where a man in a wheelchair finds himself waiting in the rain. Amidst the downpour, a **caring driver** notices his plight and extends a simple yet profound gesture by gifting him an umbrella.\n\nThis spontaneous act not only provides **shelter from the rain** but also brings a moment of **joy and gratitude** to the man's day. The kindness displayed encapsulates the spirit of the week, reminding everyone of the impact small gestures can have on others.",
+        "story_url": "https://www.usatoday.com/videos/life/humankind/2025/02/10/random-acts-of-kindness-week-watch-a-strangers-warm-act-on-a-rainy-day/78393007007/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Random Acts of Kindness Week: Watch a stranger\u2019s warm act ... - USA TODAY",
+        "url": "https://www.usatoday.com/videos/life/humankind/2025/02/10/random-acts-of-kindness-week-watch-a-strangers-warm-act-on-a-rainy-day/78393007007/",
+        "datePublished": "2025-02-10T22:16:00.0000000",
+        "datePublishedFreshnessText": "6 hours ago",
+        "video": {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=F623149605EE22EF6F30F623149605EE22EF6F30",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.8gQUpWWHcFSpP0HGyTC11A&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "0:44",
+            "sourceWidth": 128,
+            "sourceHeight": 72,
+            "videoId": "F623149605EE22EF6F30F623149605EE22EF6F30"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.usatoday.com</b>/videos/life/humankind/2025/02/10/random-<b>acts</b>-of-kindness-week...",
+        "snippet": "Random <b>Acts</b> of Kindness Week: Watch a caring driver give an umbrella to a man in the rain A man in wheelchair was waiting at a red light in the rain in Chanthaburi, Thailand when a kind stranger ...",
+        "dateLastCrawled": "2025-02-10T22:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+            {
+                "label": {
+                    "text": "Video Duration"
+                },
+                "items": [
+                    {
+                        "text": "44 sec"
+                    }
+                ],
+                "hint": {
+                    "text": "MEDIA:DURATION"
+                }
+            }
+        ],
+        "noCache": false,
+        "siteName": "USA Today"
     }
 }
