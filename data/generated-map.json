@@ -1764,5 +1764,24 @@
         ],
         "noCache": false,
         "siteName": "USA Today"
+    },
+    "2025-02-12": {
+        "date": "February 13, 2025",
+        "image_path": "./data/images/20250212-233003-1.png",
+        "story_summary": "Eswatini -- February 12, 2025\n\n**A heartwarming act of generosity unfolded today at Mhlatane Primary School** in Mankayane, as Khemani Cycling Club partnered with MTN Eswatini, OK Foods, and Premier Eswatini to donate essential items to the school's 215 students.\n\n*A total donation worth E17,000* saw 61 students receive brand-new shoes, while every child enjoyed lunch packs with juice boxes and loaves of bread, alongside essential school supplies.\n\n**The initiative was inspired by Khemani Cycling Club members' observation** of students walking long distances in worn-out shoes while cycling through the challenging Mankayane-Gege terrain.\n\n**During the event, leaders expressed heartfelt thanks**, with Mbabane Municipal Council CEO Gciniwe Fakudze encouraging students to stay focused on their studies, and Headteacher Mr. Hlophe lauding the generosity of the partners.\n\n**This donation highlights the power of community-driven efforts**, with Khemani Cycling Club and its partners making a lasting impact not only in sports but also in uplifting young learners' lives in Eswatini.",
+        "story_url": "https://www.africa-press.net/eswatini/all-news/mtn-khemani-and-partners-donate-essentials-to-215-mhlatane-primary-pupils",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "MTN KHEMANI AND PARTNERS DONATE ESSENTIALS TO 215 MHLATANE PRIMARY ...",
+        "url": "https://www.africa-press.net/eswatini/all-news/mtn-khemani-and-partners-donate-essentials-to-215-mhlatane-primary-pupils",
+        "datePublished": "2025-02-12T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.africa-press.net/eswatini/all-news/mtn-khemani-and-partners-donate...",
+        "snippet": "Africa-Press \u2013 Eswatini. A <b>heartwarming</b> <b>act</b> of generosity was witnessed <b>today</b> at Mhlatane Primary School in Mankayane, as Khemani Cycling Club, in partnership with MTN Eswatini, OK Foods, and Premier Eswatini, donated essential items to the school\u2019s students. A Donation Worth E17 000 A total of 61 students received brand-new shoes, while the entire student [\u2026]",
+        "dateLastCrawled": "2025-02-12T18:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Africa Press"
     }
 }
