@@ -1783,5 +1783,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Africa Press"
+    },
+    "2025-02-13": {
+        "date": "February 13, 2025",
+        "image_path": "./data/images/20250213-233003-1.png",
+        "story_summary": "Location unknown -- February 13, 2025\n\n*Cup of Jo* celebrates the *joy in everyday life* by featuring nine readers' heartwarming moments. **Layne** captures a spontaneous family laugh engraved in stripes, showcasing *unbreakable bonds*. **Emma** beams with pride as her novel, 'Creep: A Love Story', hits store shelves\u2014a testament to her dedication and *creativity*. **Sarah** cherishes her son Omari\u2019s first haircut, immortalizing his *innocent pride*. **Dot** finds solace in needle felting, completing her first tapestry and embracing a *new artistic journey*. **Tricia** shares Walter\u2019s transformation from a frail shelter cat to a *loving family member*, symbolizing *hope and change*. **Holland** celebrates her daughter Margrete\u2019s new glasses, reveling in her *wonder and discovery*. **Danielle** narrates blending families during Thanksgiving, witnessing her children\u2019s *unconditional love*. **Tha\u00efs** reminisces about her snow angel in Quebec, rekindling *childhood joy*. **Katherine** holds dear moments of her children\u2019s *relentless joy*, finding *happiness in everyday interactions*. This collection highlights the *resilience, love, and simple pleasures* that bind the community together.",
+        "story_url": "https://cupofjo.com/2025/02/13/readers-share-happy-moments-2/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "9 Readers Share Their Happy Moments - Cup of Jo",
+        "url": "https://cupofjo.com/2025/02/13/readers-share-happy-moments-2/",
+        "datePublished": "2025-02-13T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cupofjo.com/2025/02/13/readers-share-happy-moments-2",
+        "snippet": "To remind ourselves how much <b>good</b> is in this world, we asked readers on Instagram to share photos of joyful moments. Here are nine that made us smile\u2026 Here are nine that made us smile\u2026 Above: \u201cWhile heading over to a neighbor\u2019s house, I realized my kids and I were all in stripes, and my husband snapped this photo with everyone smiling.",
+        "dateLastCrawled": "2025-02-13T22:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Cup of Jo"
     }
 }
