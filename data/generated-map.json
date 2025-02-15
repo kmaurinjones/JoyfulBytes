@@ -1802,5 +1802,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Cup of Jo"
+    },
+    "2025-02-14": {
+        "date": "February 15, 2025",
+        "image_path": "./data/images/20250214-233002-1.png",
+        "story_summary": "**Location unknown -- February 14, 2025**\n\n*Good Deeds Day* is a global event taking place on April 6, 2025, where millions across 115 countries come together to perform acts of kindness without spending money. Initiated in 2007 by philanthropist Shari Arison, the day emphasizes that generosity stems from the heart, not from financial contributions.\n\nParticipants are encouraged to lend a helping hand by assisting neighbors, tutoring, or donating unused items to those in need. Simple gestures like writing positive reviews, offering compliments, or being a listening ear can significantly impact someone's day.\n\nCommunity involvement is highlighted through activities such as cleaning up local parks, organizing free swap events, and volunteering time at shelters or food banks. Sharing skills, spreading kindness online, and expressing gratitude to essential workers are also key components.\n\n*Good Deeds Day* serves as a reminder that small, meaningful actions can create a ripple effect of positivity and strengthen community bonds, proving that making a difference is accessible to everyone.",
+        "story_url": "https://www.goodnet.org/articles/good-deeds-that-come-from-heart",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Good Deeds That Come From the Heart - Goodnet",
+        "url": "https://www.goodnet.org/articles/good-deeds-that-come-from-heart",
+        "datePublished": "2025-02-15T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.goodnet.org/articles/good-deeds-that-come-from-heart",
+        "snippet": "Registration is open, so sign up <b>today</b> to participate in this day of global volunteering. Lend a Helping Hand Sometimes, the best gift you can give is your time and effort. Offer to help a neighbor with yard work, assist an elderly person with groceries, or babysit for a friend who needs a break. Small <b>acts</b> of service go a long way in showing ...",
+        "dateLastCrawled": "2025-02-15T03:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Goodnet"
     }
 }
