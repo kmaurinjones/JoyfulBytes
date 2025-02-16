@@ -1821,5 +1821,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Goodnet"
+    },
+    "2025-02-15": {
+        "date": "February 16, 2025",
+        "image_path": "./data/images/20250215-233003-1.png",
+        "story_summary": "Location unknown -- February 15, 2025\n\n**Barnaby**, a scruffy terrier mix, wakes to the *sizzling smell of bacon* in the morning air.\n\nToday feels different; the little girl, **Lily**, is home.\n\nBarnaby approaches the kitchen with a *wagging tail* and *perky ears*, sensing Lily's quiet presence.\n\nThough she doesn't initially acknowledge him, Barnaby's *silent invitation* and *gentle whines* convey his longing for attention.\n\nFinally, Lily looks down, her eyes meeting Barnaby's with a *glimmer of recognition*.\n\nShe reaches out to scratch behind his ears, whispering, \"Good boy, Barnaby.\"\n\nBarnaby's heart melts as he feels the *warmth of her touch* and the *comfort of her presence*.\n\nIn that moment, their *unspoken bond* shines brightly, embodying *love* and *trust* between a child and her loyal companion.",
+        "story_url": "http://dev.dolbytheatre.com/the-dogs-tale/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "The Dogs Tale A Multifaceted Narrative - dolbytheatre",
+        "url": "http://dev.dolbytheatre.com/the-dogs-tale/",
+        "datePublished": "2025-02-16T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "dev.dolbytheatre.com/the-dogs-tale",
+        "snippet": "The Literal Interpretation: \u201cThe Dog\u2019s Tale\u201d The dogs tale \u2013 This section explores a fictional narrative told from a dog\u2019s perspective, focusing on a single pivotal day in its life. We will delve into a specific scene depicting the dog\u2019s interaction with a human child, emphasizing nonverbal communication.",
+        "dateLastCrawled": "2025-02-16T00:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
