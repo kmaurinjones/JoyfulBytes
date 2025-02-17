@@ -1839,5 +1839,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-02-16": {
+        "date": "February 17, 2025",
+        "image_path": "./data/images/20250216-233003-1.png",
+        "story_summary": "Location unknown -- February 16, 2025\n\nAn elderly couple's profound journey at the Prayagraj Maha Kumbh 2025 **touches millions online**. *The wife courageously guides her differently-abled husband* through the crowded festival grounds to the sacred Triveni Sangam, showcasing unwavering **love and determination**.\n\nTheir story, shared across social media, highlights *selfless devotion and the enduring bond* between them. Viral videos depict tender moments, such as the wife lovingly touching her husband's feet and their joyous dance amidst the festivities, resonating deeply with viewers.\n\nAmid personal struggles, like battling illness, the couple's steadfast faith and unity serve as an inspiring testament to **commitment and companionship**. Their **heartwarming moments** at Maha Kumbh exemplify the true essence of love and togetherness, offering a timeless example of devotion in the face of adversity.",
+        "story_url": "https://hindupost.in/dharma-religion/couple-goals-elderly-couples-heartwarming-moment-at-maha-kumbh-2025/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Couple goals: Elderly couple\u2019s heartwarming moment at Maha Kumbh 2025",
+        "url": "https://hindupost.in/dharma-religion/couple-goals-elderly-couples-heartwarming-moment-at-maha-kumbh-2025/",
+        "datePublished": "2025-02-17T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hindupost.in/dharma-religion/couple-goals-elderly-couples-<b>heartwarming</b>-moment...",
+        "snippet": "A <b>heartwarming</b> video from the Prayagraj Maha Kumbh has touched the hearts of many. The video captures an elderly woman lovingly taking her differently-abled husband on a pilgrimage to the Maha Kumbh. He is seated in a manually pulled cart, while she pulls it through the crowded festival grounds with unwavering determination.",
+        "dateLastCrawled": "2025-02-17T04:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HinduPost"
     }
 }
