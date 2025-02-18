@@ -1858,5 +1858,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "HinduPost"
+    },
+    "2025-02-17": {
+        "date": "February 17, 2025",
+        "image_path": "./data/images/20250217-233003-1.png",
+        "story_summary": "Nairobi County -- February 17, 2025\n\nIn a heartwarming act of community support, **_Geoff Kariuki Kayai_**, a Kenyan medic based in Switzerland, donates petrol worth *KSh 10,000* to **_Sikika Road Safety_**.\n\nThis generous donation aims to facilitate emergency response services, enabling the team to reach patients in urgent need of medical attention.\n\n_As Kayai acknowledges the struggles of accessing healthcare due to transport challenges, he pledges continued support and hints at fulfilling Sikika's request for an ambulance, promising an even greater impact in the future._\n\nBeyond fuel donations, Kayai empowers Kenyans by sharing part of his salary, providing scholarships to students and funds to small-scale entrepreneurs.\n\nSocial media reactions laud his efforts, highlighting the positive change he's bringing to the community.",
+        "story_url": "https://www.tuko.co.ke/people/579157-kenyan-medic-donates-fuel-sikika-road-safety-ambulance-facilitate-emergency-response-services/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Kenyan Medic Donates Fuel to Sikika Road Safety to ... - Tuko News",
+        "url": "https://www.tuko.co.ke/people/579157-kenyan-medic-donates-fuel-sikika-road-safety-ambulance-facilitate-emergency-response-services/",
+        "datePublished": "2025-02-17T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.tuko.co.ke/people/579157-kenyan-medic-donates-fuel-sikika-road-safety...",
+        "snippet": "In a <b>heartwarming</b> <b>act</b> of community support, Geoff Kariuki Kayai donated fuel to Sikika Road Safety to help them reach patients in need of emergency care As a medic, he understands the struggles of accessing medical attention due to transport challenges and pledged continued support He also hinted at ...",
+        "dateLastCrawled": "2025-02-17T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Tuko News"
     }
 }
