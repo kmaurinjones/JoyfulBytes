@@ -1877,5 +1877,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Tuko News"
+    },
+    "2025-02-18": {
+        "date": "February 19, 2025",
+        "image_path": "./data/images/20250218-233002-1.png",
+        "story_summary": "Angola, Indiana -- February 18, 2025\n\n**_Angola, Indiana_** is a charming town brimming with delightful activities for everyone.\n\nExplore the natural beauty of **Pokagon State Park** with its hiking trails and winter wonderland transforms. Dive into the town's heritage at the **Angola Museum**, showcasing local history and captivating exhibits.\n\nFamilies bask at **Lake James** or unwind fishing at **Crooked Lake**, while nature lovers wander through the **Steuben County Public Library Nature Area** and **Limberlost Swamp Nature Preserve**.\n\nThe community spirit shines through events like **Arts in the Park** and the **Steuben County Triathlon**, bringing people together in celebration and competition.\n\nEnjoy unique shopping experiences at the **Angola Plaza** and **Farmer\u2019s Market**, or indulge in culinary delights at downtown restaurants. Golf enthusiasts and art aficionados find their haven at the **Angola Country Club** and **Trine University Art Gallery**.\n\nWith horseback riding, winter sports, and vibrant community gatherings, Angola offers a memorable blend of **_natural beauty, cultural richness, and heartfelt community connections_**.",
+        "story_url": "https://scripturesavvy.com/things-to-do-in-angola-indiana/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Top 20 Best Things To Do In Angola Indiana - Scripture Savvy",
+        "url": "https://scripturesavvy.com/things-to-do-in-angola-indiana/",
+        "datePublished": "2025-02-19T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://scripturesavvy.com/things-to-do-in-angola-indiana",
+        "snippet": "Live performances are a highlight of the event. From musicians to dancers, each <b>act</b> brings a lively spirit to the park. Be sure to come ready to dance and sing along! Arts in the Park is an opportunity to celebrate creativity and community. It enriches Angola with cherished memories and artistic appreciation. Address: 1300 N Main St, Angola, IN ...",
+        "dateLastCrawled": "2025-02-19T01:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
