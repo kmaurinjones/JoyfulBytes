@@ -1895,5 +1895,23 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-02-19": {
+        "date": "February 20, 2025",
+        "image_path": "./data/images/20250219-233003-1.png",
+        "story_summary": "**Canberra Hospital -- February 19, 2025**\n\n*Heartwarming moments* unfolded as ACT Brumbies players visited the **Youth and Children Hospital**, distributing **100 showbags** to young patients and their families. This beloved annual tradition, a collaboration between the **Canberra Hospital Foundation**, **Canberra FM**, and the **Royal Canberra Show**, ensures that children unable to attend the show still experience its joy.\n\nFamilies delighted in choosing from the vibrant showbags and enjoyed photo opportunities with the **Canberra Raiders' Velda the Valkyrie**, the hospital foundation\u2019s mascots, and Brumbies stars **Charlie Cale, Blake Schoupp, David Feliuai**, and **Timma Faingaanuku**.\n\n*\u201cPutting smiles on the children's faces is all worth it,\u201d* shared Charlie Cale, reflecting the team's commitment.\n\n**Libby Coonan**, Assistant Director of Nursing, expressed the event's significance: *\u201cIt breaks the monotony of the hospital stay and brings a bit of normalcy.\u201d*\n\n**Adelina La Vita**, CEO of Royal Canberra Show, praised the initiative as a way to give back, creating lasting memories for the children and their families.",
+        "story_url": "https://canberradaily.com.au/all-smiles-for-brumbies-hospital-visit/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "All smiles for Brumbies\u2019 hospital visit | Canberra Daily",
+        "url": "https://canberradaily.com.au/all-smiles-for-brumbies-hospital-visit/",
+        "datePublished": "2025-02-20T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://canberradaily.com.au/all-smiles-for-brumbies-hospital-visit",
+        "snippet": "<b>ACT</b> Brumbies. Brumbies defeat Drua 36-32 to bag rare win in Fiji. AAP-February 15, 2025. <b>ACT</b> Brumbies. Brumbies ace eyes national team as Super Rugby restarts. AAP-February 14, 2025. <b>ACT</b> Brumbies. Brumbies name six debutants for Super Rugby opener in Fiji. AAP-February 12, 2025. Entertainment.",
+        "dateLastCrawled": "2025-02-20T03:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
