@@ -197,13 +197,13 @@ def validate_webpage_content(webpage_text: str) -> bool:
 
     return message.content[0].text.strip().lower().startswith("true") # case insensitive, stripped
 
-def re_validate_news_stories(results: list[dict[str, str]], tqdm_desc: str = None, model: str = "o1-mini-2024-09-12"):
+def re_validate_news_stories(results: list[dict[str, str]], tqdm_desc: str = None, model: str = "o3-mini-2025-01-31"):
     """
     Re-validate the news stories to ensure they are still valid.
     """
     return validate_news_stories(results, tqdm_desc, model)
 
-def summarize_webpage(webpage_text: str, model: str = "o1-mini-2024-09-12", tqdm_desc: str = None):
+def summarize_webpage(webpage_text: str, model: str = "o3-mini-2025-01-31", tqdm_desc: str = None):
     """
     Summarize webpage content into key story points in less than 200 words.
     
@@ -258,7 +258,7 @@ def summarize_webpage(webpage_text: str, model: str = "o1-mini-2024-09-12", tqdm
     results = batch_prompt_oai(prompts, model=model, tqdm_desc=tqdm_desc)
     return results[0] if results else None
 
-def create_image_gen_prompt(story_text: str, model: str = "o1-mini-2024-09-12", tqdm_desc: str = None, feedback: dict[str, float] = None):
+def create_image_gen_prompt(story_text: str, model: str = "o3-mini-2025-01-31", tqdm_desc: str = None, feedback: dict[str, float] = None):
     """
     Create an image generation prompt from the given text.
 

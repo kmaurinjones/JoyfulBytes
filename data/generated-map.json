@@ -1913,5 +1913,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-02-20": {
+        "date": "February 20, 2025",
+        "image_path": "./data/images/20250220-233003-1.png",
+        "story_summary": "Alkhobar -- February 20, 2025\n\n**Norma Artisan Tiramisu** charms visitors with its meticulously crafted dessert offerings. The cozy spot, celebrating its first anniversary, exudes a warm and inviting ambiance enhanced by soft background music, natural light streaming through a large window, and thoughtfully arranged seating options including a communal table and outdoor seating.\n\n*The tiramisu, the star of the feast*, delights with perfectly balanced layers\u2014neither too soggy nor too dry\u2014while a creative twist is showcased in eight unique flavors such as Arabic coffee and dates. A rich hot chocolate variant provides comfort during cooler months. Despite a minor flaw like the absence of a restroom, the eatery\u2019s dedication to quality and imaginative dessert reimagination makes it a beloved destination for savoring indulgent treats.\n\nThe narrative envelops visitors in a culinary journey that is as emotionally engaging as it is delightful, inviting friends and families to share memorable moments of pleasure and indulgence.",
+        "story_url": "https://www.arabnews.com/node/2591020/food-health",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Where We Are Going Today: \u2018Norma Artisan Tiramisu\u2019 in Alkhobar",
+        "url": "https://www.arabnews.com/node/2591020/food-health",
+        "datePublished": "2025-02-20T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.arabnews.com/node/2591020",
+        "snippet": "Norma Artisan Tiramisu is a charming little spot for those who appreciate a well-crafted and well-dusted indulgent dessert in Alkhobar. Despite its name, there\u2019s no actual Norma behind the brand ...",
+        "dateLastCrawled": "2025-02-20T20:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Arab News"
     }
 }

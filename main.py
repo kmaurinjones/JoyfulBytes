@@ -125,7 +125,7 @@ for attempt in range(1, image_gen_attempts + 1):
         # Generate new prompt with formatted feedback
         image_prompt = create_image_gen_prompt(
             story_text=chosen_story_summary,
-            model="o1-mini-2024-09-12",
+            model="o3-mini-2025-01-31",
             feedback=formatted_feedback,
             tqdm_desc=f"Creating image generation prompt (attempt {attempt}/{image_gen_attempts})"
         )
