@@ -1932,5 +1932,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Arab News"
+    },
+    "2025-02-21": {
+        "date": "February 22, 2025",
+        "image_path": "./data/images/20250221-233003-1.png",
+        "story_summary": "Chhapra -- February 21, 2025\n\nIn 2018, a group of compassionate individuals in Chhapra ignited a movement by launching **Roti Bank** after being inspired by a heartfelt video. Initially, this modest effort served only seven people, but determination and community spirit soon transformed it into a beacon of hope.\n\nWorking out of a dedicated kitchen in Mohan Nagar and supported by local donors on special occasions, the team now provides nourishing meals every evening to nearly 200 hungry souls, including hospital attendants, railway travelers, and those living on the streets.\n\nThis endeavor, driven by *selflessness* and unwavering dedication, showcases how a small act of kindness can blossom into a life-changing service for many. The story highlights the power of community and the lasting impact of generosity.",
+        "story_url": "https://timesofindia.indiatimes.com/city/patna/chhapras-roti-bank-how-a-small-act-of-kindness-now-feeds-200-hungry-mouths-daily/articleshow/118468166.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Chhapra\u2019s &#39;Roti Bank&#39;: How small act of kindness now feeds 200 hungry ...",
+        "url": "https://timesofindia.indiatimes.com/city/patna/chhapras-roti-bank-how-a-small-act-of-kindness-now-feeds-200-hungry-mouths-daily/articleshow/118468166.cms",
+        "datePublished": "2025-02-22T03:05:00.0000000",
+        "datePublishedFreshnessText": "1 hour ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/patna/chhapras-roti-bank-how-a-small-<b>act</b>-of...",
+        "snippet": "A group of compassionate individuals in Chhapra, motivated by a video of Kishorekant Tiwari, started Roti Bank in 2018 to feed the needy. Initially serving seven people, they now feed 200 daily.",
+        "dateLastCrawled": "2025-02-22T03:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
