@@ -1951,5 +1951,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2025-02-22": {
+        "date": "February 23, 2025",
+        "image_path": "./data/images/20250222-233003-1.png",
+        "story_summary": "Marine City, Michigan -- February 22, 2025\n\n**Marine City** shines with charm along the serene St. Clair River, offering a variety of engaging experiences. **Local attractions** include peaceful waterfront parks perfect for relaxing strolls and family picnics, insightful museum visits revealing maritime history, and vibrant community events that bring residents together.\n\n*The town\u2019s rich heritage* comes to life through guided tours of historic homes and lively festivals featuring themed celebrations. Gastronomic experiences at cozy diners and craft breweries complement the cultural narrative, while outdoor adventures, from kayak rides to scenic boardwalk walks, invite exploration of nature\u2019s beauty.\n\n**Community spirit** permeates every corner, from art galleries and market stalls to neighborhood performances and seasonal concerts, creating unforgettable memories. This engaging tapestry of history, art, and outdoor fun captures the heart of a town where every visit tells a delightful story.",
+        "story_url": "https://thetouristchecklist.com/things-to-do-in-marine-city-mi/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "25 Best &amp; Fun Things to Do in Marine City MI - The Tourist Checklist",
+        "url": "https://thetouristchecklist.com/things-to-do-in-marine-city-mi/",
+        "datePublished": "2025-02-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://thetouristchecklist.com/things-to-do-in-marine-city-mi",
+        "snippet": "<b>Today</b>, we\u2019ll look at some of the best things to do in Marine City. ... In summary, attending the Marine City Christmas Parade is a <b>heartwarming</b> experience. It\u2019s a wonderful way to connect with locals and celebrate the holiday spirit. Address: Main St, Marine City, MI 48039. ... It hosts a variety of musical <b>acts</b>, including local bands and ...",
+        "dateLastCrawled": "2025-02-23T01:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Tourist Checklist"
     }
 }
