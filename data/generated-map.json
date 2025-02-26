@@ -2006,5 +2006,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-02-25": {
+        "date": "February 26, 2025",
+        "image_path": "./data/images/20250225-233003-1.png",
+        "story_summary": "Location unknown -- February 25, 2025\n\n**Emma Hutton**, a dedicated mother and nail tech, shares her heartfelt experience facing criticism for wearing a full face of makeup. She confidently states that her makeup is simply a form of self-care\u2014a way to feel her best and start the day positively.\n\nHer candid message challenges the double standard that assumes a woman\u2019s appearance defines her parenting. **Women from all walks of life come together**, voicing support and emphasizing that nurturing personal identity through self-expression is not at odds with being a devoted mom.\n\nThrough her story, Hutton conveys that taking care of oneself is essential, and that self-care routines, including makeup, serve as powerful affirmations of independence and strength. Her words spark a broader conversation about societal expectations, encouraging others to embrace who they are with pride and resilience.",
+        "story_url": "https://www.upworthy.com/women-rally-behind-mom-makeup",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Women rally behind a mom who&#39;s tired of being shamed for having a full ...",
+        "url": "https://www.upworthy.com/women-rally-behind-mom-makeup",
+        "datePublished": "2025-02-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.upworthy.com</b>/women-rally-behind-mom-makeup",
+        "snippet": "The post reminded people how their fathers\u2019 small <b>acts</b> of kindness meant so much to them. \u201cMy dad peeled my oranges until I graduated high school, too. Now, I peel my daughter\u2019s oranges and will for the next 7 plus years,\u201d Katie wrote in the comments. \u201cLove this. My dad peeled mine, too.",
+        "dateLastCrawled": "2025-02-26T00:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Upworthy"
     }
 }
