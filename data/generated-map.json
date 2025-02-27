@@ -2025,5 +2025,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Upworthy"
+    },
+    "2025-02-26": {
+        "date": "February 26, 2025",
+        "image_path": "./data/images/20250226-233003-1.png",
+        "story_summary": "San Antonio -- February 26, 2025\n\n**In a heart-stirring event**, a landscaper displays remarkable courage when he risks his life on a busy highway to rescue a wandering dog. The dog, caught in dangerous traffic, is saved through his quick action, underscoring a poignant act of kindness.\n\n*Witnesses, including a concerned bystander capturing the moment on her phone, are left in awe of his selflessness.* His brave deed not only saves the animal but reunites a family after the dog's identification tags lead them to each other.\n\nLater, the community\u2019s gratitude unfolds as a surprise reward from local media and business owners honors his compassionate act. The incident touches many lives, reminding everyone that small acts of heroism can inspire and unite a community.",
+        "story_url": "https://foxsanantonio.com/news/cash-for-kindness/i-had-to-helplandscapers-brave-rescue-of-lost-dog-leads-to-incredible-surprise",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "&#39;I had to help&#39;--Landscaper&#39;s Brave Rescue of Lost Dog Leads to ...",
+        "url": "https://foxsanantonio.com/news/cash-for-kindness/i-had-to-helplandscapers-brave-rescue-of-lost-dog-leads-to-incredible-surprise",
+        "datePublished": "2025-02-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>foxsanantonio.com</b>/news/cash-for-kindness/i-had-to-helplandscapers-brave-rescue...",
+        "snippet": "Loop 1604 at Wiseman. Hazard lights flash. Traffic crawls. Samantha Cruz nervously captures the unfolding drama on her cell phone.&quot;We kind of slow down a little",
+        "dateLastCrawled": "2025-02-27T02:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "KABB"
     }
 }
