@@ -2044,5 +2044,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "KABB"
+    },
+    "2025-02-27": {
+        "date": "February 28, 2025",
+        "image_path": "./data/images/20250227-233003-1.png",
+        "story_summary": "BUCKHANNON, W.Va. -- February 27, 2025\n\n**In this heartwarming story,** *Matthew Hatfield*, a West Virginia Wesleyan Scholar, launches a meaningful initiative to brighten the lives of elderly residents by organizing a Valentine\u2019s Day card project.\n\nStudents from Tennerton Elementary pour their creativity into handmade cards filled with heartfelt messages and colorful drawings, ensuring that each of the nursing homes and hospitals, including St. Joseph\u2019s Hospital, Holbrook Nursing Home, and Serenity Care, receives smiles and companionship.\n\n**The project emphasizes** *kindness, empathy, and community spirit* by bridging the generational gap and combating loneliness. It serves not only as a reminder of the powerful impact small acts of care can have, but also as a call to foster intergenerational connections and support the emotional well-being of all community members.",
+        "story_url": "https://www.world-today-news.com/west-virginia-wesleyan-scholar-sparks-joy-in-nursing-homes-with-heartfelt-valentines-day-initiative/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "West Virginia Wesleyan Scholar Sparks Joy in Nursing ... - World Today News",
+        "url": "https://www.world-today-news.com/west-virginia-wesleyan-scholar-sparks-joy-in-nursing-homes-with-heartfelt-valentines-day-initiative/",
+        "datePublished": "2025-02-28T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.world-<b>today</b>-news.com/west-virginia-wesleyan-scholar-sparks-joy-in-nursing...",
+        "snippet": "West Virginia Students Spread Valentine\u2019s Cheer to Elderly Residents BUCKHANNON, W.Va. \u2013 A <b>heartwarming</b> initiative at west Virginia Wesleyan College saw young students connecting with elderly residents to share Valentine\u2019s Day joy. Matthew Hatfield,a Service Scholar at the college,orchestrated a project that brought smiles to faces at local nursing homes and hospitals. Students from ...",
+        "dateLastCrawled": "2025-02-28T01:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "World Today News"
     }
 }
