@@ -2063,5 +2063,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "World Today News"
+    },
+    "2025-02-28": {
+        "date": "March 01, 2025",
+        "image_path": "./data/images/20250228-233002-1.png",
+        "story_summary": "Kamloops -- February 28, 2025\n\n**Felix Townsin** founded A Million Acts of Love in memory of his late sister Lexi, turning personal loss into an inspiring movement. With the support of his parents, he empowers youth to launch projects that raise awareness for rare diseases.\n\nIn Kamloops, *Ella Gauthier* honors her brother, Jack, who lives with the rare genetic disorder ASH1L by organizing an event centered around uniquely themed cupcakes. A local bakery generously donated 325 cupcakes, turning her creative initiative into a powerful conversation about rare diseases and the transformative impact of compassion.",
+        "story_url": "https://www.nanaimobulletin.com/community/a-million-acts-of-love-help-youth-to-honour-rare-disease-day-on-the-island-7853413",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "A Million Acts of Love help youth to honour Rare Disease Day on the ...",
+        "url": "https://www.nanaimobulletin.com/community/a-million-acts-of-love-help-youth-to-honour-rare-disease-day-on-the-island-7853413",
+        "datePublished": "2025-03-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.nanaimobulletin.com/community/a-million-<b>acts</b>-of-love-help-youth-to-honour...",
+        "snippet": "A Million <b>Acts</b> of Love (AMAOL) has found their first grantee in Ella Gauthier, a student in Kamloops honouring her brother and Rare Disease Day, recognized Feb. 28. &quot;It\u2019s so rewarding to see young people take action for causes they care about and to be able to play a part in making it happen ...",
+        "dateLastCrawled": "2025-03-01T01:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Nanaimo News Bulletin"
     }
 }
