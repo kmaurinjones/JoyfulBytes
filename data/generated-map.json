@@ -2082,5 +2082,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Nanaimo News Bulletin"
+    },
+    "2025-03-01": {
+        "date": "March 01, 2025",
+        "image_path": "./data/images/20250301-233002-3.png",
+        "story_summary": "Thrissur -- March 01, 2025\n\n**Be-Loved** is an energetic and provocative theatrical celebration that brings queer love and its many hues to life. Staged at the renowned Thoppil Bhasi Black Box, the production dazzles audiences with its blend of witty satire, *emotionally charged* musical tributes, and sharp dialogue.\n\nDrawing on a rich tapestry of history and literature, the performance honors celebrated writers like Maya Sharma and Bhupen Khakhar, crafting scenes that are both heart-warming and rebellious. Its bilingual script weaves together moments of humor, melancholy, and bold political commentary, reflecting the ongoing battle for acceptance in a society governed by both written and unwritten laws.\n\nWith quick-paced, playful movements and vibrant choreography, **Be-Loved** creates unforgettable characters that challenge social norms and celebrate the complexities of love. This compelling narrative shines as both a joyful homage to queer history and a daring act of defiance.",
+        "story_url": "https://www.thehindu.com/news/national/kerala/be-loved-a-bold-electric-celebration-of-queer-love-that-sparks-joy-and-defies-norms/article69279273.ece",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Be-Loved: A bold, electric celebration of queer love that sparks joy ...",
+        "url": "https://www.thehindu.com/news/national/kerala/be-loved-a-bold-electric-celebration-of-queer-love-that-sparks-joy-and-defies-norms/article69279273.ece",
+        "datePublished": "2025-03-01T15:01:00.0000000",
+        "datePublishedFreshnessText": "13 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.thehindu.com</b>/news/national/kerala/be-loved-a-bold-electric-celebration-of...",
+        "snippet": "Be-Loved: A bold, electric celebration of queer love that sparks joy and defies norms A kaleidoscopic exploration of queer love, the play draws from the rich tapestry of history and literature.",
+        "dateLastCrawled": "2025-03-01T15:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Hindu"
     }
 }
