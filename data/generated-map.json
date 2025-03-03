@@ -2101,5 +2101,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "The Hindu"
+    },
+    "2025-03-02": {
+        "date": "March 03, 2025",
+        "image_path": "./data/images/20250302-233002-3.png",
+        "story_summary": "Nashville --, March 02, 2025\n\n**Natasha Parker** discovered her passion for photography when she received a camera on her birthday. What began as a simple hobby quickly evolved into **NPhotography**, a flourishing business capturing family portraits, milestones, and those intimate moments that create lasting bonds. Over the years, she has embraced challenges and continuously reinvented her art, always striving to highlight the unique personalities of her subjects.\n\nIn 2023, Natasha brought her vision to life with the launch of **Pixel x Palette Studio**, a dynamic space where creativity and collaboration thrive. This innovative studio serves as a versatile haven for artists, photographers, and creative professionals to experiment and craft memorable works of art. Her journey is a testament to passion, perseverance, and the transformative power of creativity, inspiring others to pursue their dreams with heart and determination.",
+        "story_url": "https://nashvillevoyager.com/?post_type=interview&p=163137",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Check Out Natasha Parker\u2019s Story - NashvilleVoyager Magazine ...",
+        "url": "https://nashvillevoyager.com/?post_type=interview&p=163137",
+        "datePublished": "2025-03-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nashvillevoyager.com/?post_type=interview&amp;p=163137",
+        "snippet": "<b>Today</b> we\u2019d like to introduce you to Natasha Parker. Hi Natasha, it\u2019s an honor to have you on the platform. Thanks for taking the time to share your story with us \u2013 to start maybe you can share some of your backstory with our readers? Photography has always been a passion of mine \u2013 capturing <b>moments</b> in time and creating everlasting memories.",
+        "dateLastCrawled": "2025-03-03T03:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": true,
+        "siteName": "NashvilleVoyager Magazine"
     }
 }
