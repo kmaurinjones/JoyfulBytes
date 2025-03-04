@@ -2120,5 +2120,24 @@
         "isNavigational": true,
         "noCache": true,
         "siteName": "NashvilleVoyager Magazine"
+    },
+    "2025-03-03": {
+        "date": "March 03, 2025",
+        "image_path": "./data/images/20250303-233002-1.png",
+        "story_summary": "Wasaga Beach -- March 03, 2025\n\n**In a moving display of community spirit**, partners including the Ontario SPCA Barrie Animal Centre, County of Simcoe, the Town of Wasaga Beach, and Faith Missionary Church have come together to create a welcoming warming centre.\n\n**A generous donation** provided essential supplies\u2014food, crates, and dog jackets\u2014that allow vulnerable individuals experiencing homelessness to keep their beloved pets close and safe during bitter winter nights.\n\nThis initiative not only offers shelter but also connects people with vital support such as housing, healthcare, and other social services.\n\n*Embodying compassion and resilience*, the project reminds us of the strength of community bonds when people unite for a greater good, ensuring that no one has to choose between personal safety and the love of a pet.",
+        "story_url": "https://www.barrietoday.com/local-news/donation-enables-wasaga-beach-warming-centre-to-become-pet-freindly-10315323",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "&#39;Generous&#39; donation from Barrie Animal Centre enables Wasaga warming ...",
+        "url": "https://www.barrietoday.com/local-news/donation-enables-wasaga-beach-warming-centre-to-become-pet-freindly-10315323",
+        "datePublished": "2025-03-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.barrie<b>today</b>.com/local-news/donation-enables-wasaga-beach-warming-centre-to...",
+        "snippet": "\u201cThis partnership is a <b>heartwarming</b> example of how we can work together to make a difference,&quot; said Town of Wasaga Beach Mayor Brian Smith. &quot;Thanks to the generous support of the Ontario SPCA Barrie Animal Centre, individuals experiencing homelessness now have a safe place to come in from the cold with their pets this winter.",
+        "dateLastCrawled": "2025-03-03T22:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "BarrieToday.com"
     }
 }
