@@ -2139,5 +2139,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "BarrieToday.com"
+    },
+    "2025-03-04": {
+        "date": "March 05, 2025",
+        "image_path": "./data/images/20250304-233002-1.png",
+        "story_summary": "Dunwoody, Ga. -- March 04, 2025\n\n**Jerry's Habima Theatre shines as a beacon of inclusion and excellence.** For over 30 years, this inspiring group of special needs actors in Georgia has broken barriers, challenging misconceptions about disability through high-caliber performances. Their upcoming run of *Fiddler on the Roof* (March 6-16) encapsulates the transformative power of the stage, where passion meets professionalism.\n\n**Personal growth and community** define each performance. Actors like Carmine Vara and Luke Davis share heartfelt testimonies, emphasizing how stepping into diverse characters fuels confidence and sparks self-discovery. This extraordinary journey uplifts the performers and touches the audience, inviting empathy and a celebration of unique talents.\n\nEmbodying both artistic rigor and warmth, the theatre reaffirms that talent transcends limitations, inspiring everyone to embrace diversity and strive for excellence.",
+        "story_url": "https://www.world-today-news.com/metro-atlantas-special-needs-actors-revolutionize-theater-breaking-barriers-and-inspiring-change/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Metro Atlanta&#39;s Special Needs Actors Revolutionize ... - World Today News",
+        "url": "https://www.world-today-news.com/metro-atlantas-special-needs-actors-revolutionize-theater-breaking-barriers-and-inspiring-change/",
+        "datePublished": "2025-03-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.world-<b>today</b>-news.com/metro-atlantas-special-needs-<b>act</b>ors-revolutionize...",
+        "snippet": "This isn\u2019t just <b>heartwarming</b>; it\u2019s a testament to the power of inclusion and the remarkable talent often overlooked. World -<b>Today</b>- News .com Senior Editor: Dr. Emily Carter,renowned theatre scholar and advocate for inclusive arts programming,welcome to World -<b>Today</b>- News .com. Jerry\u2019s Habima theatre in Georgia is garnering significant attention for its inclusive model.",
+        "dateLastCrawled": "2025-03-05T02:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "World Today News"
     }
 }
