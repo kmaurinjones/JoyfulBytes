@@ -2158,5 +2158,23 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "World Today News"
+    },
+    "2025-03-05": {
+        "date": "March 06, 2025",
+        "image_path": "./data/images/20250305-233003-1.png",
+        "story_summary": "Location unknown -- March 05, 2025\n\n**This story celebrates the joyful spirit of motherhood through a lively collection of humorous quotes.** The quotes capture the delightful contradictions of parenting\u2014from playful mishaps and witty observations to the tender, enduring love that defines every mother\u2019s heart.\n\n**Embodying both warmth and wit,** the narrative weaves together everyday moments of chaos, resilience, and laughter. *Each quote highlights a different facet of motherhood*, reminding us that even in the midst of daily confusion, there is beauty and humor in every carefully managed moment. The collection invites everyone to cherish the imperfections and boundless love that make parenting an unforgettable journey.",
+        "story_url": "https://scripturesavvy.com/mothers-day-quotes-funny/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Top 150 Mothers Day Quotes Funny (With Meanings)",
+        "url": "https://scripturesavvy.com/mothers-day-quotes-funny/",
+        "datePublished": "2025-03-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://scripturesavvy.com/mothers-day-quotes-funny",
+        "snippet": "This <b>heartwarming</b> quote showcases a mother\u2019s comforting presence through simple <b>acts</b> like baking and listening. It lovingly highlights the idea that, sometimes, being there is enough to provide solace in troubling times. This warm gesture fosters laughter while reassuring that mom will always support us.",
+        "dateLastCrawled": "2025-03-06T00:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
