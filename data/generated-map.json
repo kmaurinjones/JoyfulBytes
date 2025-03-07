@@ -2176,5 +2176,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-03-06": {
+        "date": "March 06, 2025",
+        "image_path": "./data/images/20250306-233003-1.png",
+        "story_summary": "Paris -- March 06, 2025\n\n**South African** choir *The Joy* captured hearts on a Paris train by delivering an impromptu performance filled with vibrant harmonies and spirited Zulu dance moves. Their powerful vocals and dynamic energy transformed an ordinary journey into a moving celebration that blended rich traditions with contemporary flair.\n\nTheir stirring display resonated deeply with passengers and quickly ignited nationwide pride as the performance spread across social media. The choir\u2019s infectious enthusiasm and heartfelt expression showcased South Africa\u2019s unique heritage to a global audience, uniting diverse onlookers through music and movement.\n\nRenowned for their worldwide tours, these talented artists continue to inspire with creative storytelling and dynamic performances. Their engaging expression serves as a powerful reminder of music's ability to unite people, celebrate diversity, and elevate the human spirit.",
+        "story_url": "https://briefly.co.za/people/211289-sa-choirs-lit-harmonies-paris-train-fills-netizens-pride-netizens-applaude-them/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "\u201cSouth Africans Never Disappoint\u201d: SA Choir\u2019s Lit ... - Briefly",
+        "url": "https://briefly.co.za/people/211289-sa-choirs-lit-harmonies-paris-train-fills-netizens-pride-netizens-applaude-them/",
+        "datePublished": "2025-03-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://briefly.co.za/people/211289-sa-choirs-lit-harmonies-paris-train-fills-netizens...",
+        "snippet": "More <b>feel-good</b> <b>stories</b> from Briefly <b>News</b>. Briefly <b>News</b> previously reported a man named Sakhile Masango took to his TikTok account to show how he could save thousands of rands when it came to an Apple product. Three young South Africans shared their inspiring <b>stories</b> of taking over a male-dominated industry.",
+        "dateLastCrawled": "2025-03-06T16:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Briefly"
     }
 }
