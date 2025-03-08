@@ -2195,5 +2195,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Briefly"
+    },
+    "2025-03-07": {
+        "date": "March 08, 2025",
+        "image_path": "./data/images/20250307-233003-1.png",
+        "story_summary": "Sharjah -- March 07, 2025. **Over 300 dedicated school students** joined a heartfelt initiative organized by *Let\u2019s Walk Again*, a campaign led by Dr Azam Badr Khan. They volunteered at Sajja Labour Park, serving over 3,000 iftar meals to hardworking laborers. Students like Miwan, a third grader, expressed excitement and fulfillment in offering kindness, solidifying lessons about giving and humility.\n\n**Lifelong values** came to life as the students engaged in genuine conversations with the workers, hearing their struggles and understanding the significance of generosity. Their efforts, applauded by teachers and community leaders, underscored that small acts of kindness can create lasting ripples. The experience not only educated them about empathy and gratitude but also imbued a strong sense of duty to support the less privileged.\n\nEach participant left with renewed commitment to help others, embodying the spirit of unity and care that resonates deeply within the community.",
+        "story_url": "https://www.khaleejtimes.com/ramadan/we-all-must-do-our-part-over-300-uae-school-students-serve-workers-for-iftar",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "&#39;We all must do our part&#39;: Over 300 UAE school students serve workers ...",
+        "url": "https://www.khaleejtimes.com/ramadan/we-all-must-do-our-part-over-300-uae-school-students-serve-workers-for-iftar",
+        "datePublished": "2025-03-08T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.khaleejtimes.com/ramadan/we-all-must-do-our-part-over-300-uae-school...",
+        "snippet": "Over 300 UAE school students, led by the Let&#39;s Walk Again campaign, served iftar meals to workers at Sajja Labour Park in Sharjah, promoting values of kindness and humility.",
+        "dateLastCrawled": "2025-03-08T01:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Khaleej Times"
     }
 }
