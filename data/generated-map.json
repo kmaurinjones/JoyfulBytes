@@ -2214,5 +2214,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "Khaleej Times"
+    },
+    "2025-03-08": {
+        "date": "March 08, 2025",
+        "image_path": "./data/images/20250308-233003-1.png",
+        "story_summary": "Birmingham -- March 08, 2025: **Lola**, the charming rescue dog, captured hearts as she clinched Best in Show at the celebrated Scrufts event held at NEC.\n\n*Bex Hall*, the devoted owner who once battled postpartum depression, found renewed hope and courage with Lola by her side.\n\nTheir touching bond not only lifted spirits but also reminded everyone of the profound impact of unconditional love.\n\nIn a day filled with emotional stories, other inspiring companions like **Chester**, who alerted his owner during a crisis, and *Miley*, the spirited golden oldie mix, also shone brightly.\n\nEach tale celebrated resilience and the transformative power of trust and care.\n\nLola\u2019s triumph became a symbol of life\u2019s unexpected blessings, proving that a simple act of rescue can change lives in remarkable ways.",
+        "story_url": "https://www.express.co.uk/news/uk/2024517/dog-helped-owner-overcome-postpartum-wins-crufts-title",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Rescue dog helped owner overcome postpartum wins Crufts title | UK ...",
+        "url": "https://www.express.co.uk/news/uk/2024517/dog-helped-owner-overcome-postpartum-wins-crufts-title",
+        "datePublished": "2025-03-08T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.express.co.uk</b>/news/uk/2024517/dog-helped-owner-overcome-postpartum-wins...",
+        "snippet": "Rescue dog who helped owner overcome depression wins Crufts title Lola won Best in Show at Scruffts, captivating millions of viewers with her <b>heartwarming</b> story during the celebrated crossbreed ...",
+        "dateLastCrawled": "2025-03-08T19:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Express"
     }
 }
