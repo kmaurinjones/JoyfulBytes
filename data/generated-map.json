@@ -2233,5 +2233,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Express"
+    },
+    "2025-03-09": {
+        "date": "March 09, 2025",
+        "image_path": "./data/images/20250309-233003-1.png",
+        "story_summary": "Ho Chi Minh City -- March 09, 2025\n\n**Le Xuan Huy** is a compassionate bus driver on route 72 who has cherished the tradition of surprising his female passengers with thoughtful gifts every March 8, in celebration of International Women\u2019s Day. On this special day, he ensures that each passenger feels appreciated through small tokens like chocolates, mirrors, keychains, and nail clippers.\n\nWith a warm smile and considerate gestures, Huy not only brightens the day of women but also includes others by playfully gifting keychains to a few men, ensuring no one is left out. *His simple yet heartfelt act reinforces the power of generosity* and serves as a lasting reminder that everyday moments of care can inspire joy and connection among strangers.",
+        "story_url": "https://tuoitrenews.vn/news/society/20250309/ho-chi-minh-citys-generous-bus-driver-brings-joy-to-women-on-march-8/85112.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Ho Chi Minh City\u2019s generous bus driver brings joy to women on March 8",
+        "url": "https://tuoitrenews.vn/news/society/20250309/ho-chi-minh-citys-generous-bus-driver-brings-joy-to-women-on-march-8/85112.html",
+        "datePublished": "2025-03-09T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://tuoitrenews.vn/news/society/20250309/ho-chi-minh-citys-generous-bus-driver...",
+        "snippet": "This <b>heartwarming</b> tradition isn\u2019t about extravagance; it\u2019s about spreading joy. A female passenger of bus 72 in Ho Chi Minh City shares a social media post featuring her gift, including a flower, given by driver Le Xuan Huy on March 8, 2025, for International Women\u2019s Day.",
+        "dateLastCrawled": "2025-03-09T14:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Tuoi Tre News"
     }
 }
