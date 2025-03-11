@@ -2252,5 +2252,23 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "Tuoi Tre News"
+    },
+    "2025-03-10": {
+        "date": "March 11, 2025",
+        "image_path": "./data/images/20250310-233003-1.png",
+        "story_summary": "Indian Wells -- March 10, 2025\n\n**Bold sportsmanship on display!** In a thrilling match at Indian Wells, Japanese tennis ace Yosuke Watanuki stepped up in an unexpected moment of kindness. When his opponent, Frances Tiafoe, received a time violation for a serve, Watanuki admitted he wasn\u2019t ready to return the ball, thereby saving Tiafoe from penalty. This heartwarming gesture epitomized the spirit of fair play and respect in tennis.\n\n*Determined and graceful,* Watanuki dominated the match with a confident performance, winning 6-4, 7-6. Overcoming last year\u2019s injury and nerves, he embraced every moment on court, celebrating both his successes and his learning moments. His calm focus and pragmatic approach not only led him to victory but also won the admiration of fans and fellow players alike.",
+        "story_url": "https://sports.info/tennis/watch-yosuke-watanukis-kind-gesture-saves-frances-tiafoe-from-time-violation-showcases-heartwarming-sportsmanship-8839366",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Yosuke Watanuki&#39;s kind gesture saves Frances Tiafoe from time violation ...",
+        "url": "https://sports.info/tennis/watch-yosuke-watanukis-kind-gesture-saves-frances-tiafoe-from-time-violation-showcases-heartwarming-sportsmanship-8839366",
+        "datePublished": "2025-03-10T10:35:00.0000000",
+        "datePublishedFreshnessText": "16 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://sports.info/tennis/watch-yosuke-watanukis-kind-gesture-saves-frances-tiafoe...",
+        "snippet": "During the thrilling showdown between Yosuke Watanuki and Frances Tiafoe in Round 32 of the Indian Wells 2025 on March 10th, Monday, Tiafoe was seen getting a time violation from the chair umpire. In a light-hearted moment of the tournament, the American star&#39;s opponent, Watanuki came forward and informed the referee that he himself wasn&#39;t ready to accept the serve in the clash.",
+        "dateLastCrawled": "2025-03-10T11:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
