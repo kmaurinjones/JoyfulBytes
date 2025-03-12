@@ -2270,5 +2270,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-03-11": {
+        "date": "March 12, 2025",
+        "image_path": "./data/images/20250311-233003-1.png",
+        "story_summary": "Soweto -- March 11, 2025\n\n**In the heart of Soweto**, the spirit of Ubuntu thrives at Sakhumzi Restaurant. Staff from diverse backgrounds embraced a lively, **joyous Zulu dance** to celebrate unity and pride in their homeland.\n\n*The performance, featuring enthusiastic moves from both black and white participants, captured the essence of a Rainbow Nation united in purpose and passion.* Viewers and locals alike shared their delight with comments about unity transcending historical divisions, highlighting how shared joy and cultural pride can overcome adversity.\n\n*Against a backdrop of challenges, the simple act of dancing together wove a narrative of togetherness, camaraderie, and enduring optimism.*",
+        "story_url": "https://briefly.co.za/people/211615-south-africans-bond-joyful-zulu-dance-sa-digs-rainbow-nation-vibes/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "\u201cWe\u2019re Happy People\u201d: South Africans Bond Over Joyful ... - Briefly",
+        "url": "https://briefly.co.za/people/211615-south-africans-bond-joyful-zulu-dance-sa-digs-rainbow-nation-vibes/",
+        "datePublished": "2025-03-11T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://briefly.co.za/people/211615-south-africans-bond-joyful-zulu-dance-sa-digs...",
+        "snippet": "More <b>feel good</b> <b>stories</b> from Briefly <b>News</b>. Briefly <b>News</b> previously reported that a mlungu was recorded conversing fluently in pure isiXhosa with a guy on his farm, demonstrating his mastery of the language. One guy warmed the hearts of many people on social media over his generosity, which was captured on camera.",
+        "dateLastCrawled": "2025-03-11T16:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Briefly"
     }
 }
