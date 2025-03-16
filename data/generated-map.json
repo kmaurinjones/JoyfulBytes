@@ -2326,5 +2326,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-03-15": {
+        "date": "March 16, 2025",
+        "image_path": "./data/images/20250315-233002-3.png",
+        "story_summary": "Location unknown -- March 15, 2025\n\n**Omar** and his friend Zayd wait eagerly for Iftar. However, as hunger grows, frustration takes hold of Zayd until Omar recalls the wise words of his sister *Layla*, reminding him of Ramadan\u2019s deeper meaning. Fasting is not just abstaining from food, it is about restraining one\u2019s heart and temper.\n\nWhen they meet a little boy distressed over a lost ice cream, Zayd learns that extending kindness and empathy makes the wait bearable. Through small acts of patience and generosity, he discovers that true strength lies in controlling anger and embracing compassion.\n\nThis heartfelt narrative underlines the essence of Ramadan, teaching that the real fast is one of the heart, where every act of kindness brings warmth and hope.",
+        "story_url": "https://www.islamicity.org/104277/ep-4-fasting-with-your-heart/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Ep 4: Fasting with your heart - IslamiCity",
+        "url": "https://www.islamicity.org/104277/ep-4-fasting-with-your-heart/",
+        "datePublished": "2025-03-16T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.islamicity.org/104277/ep-4-fasting-with-your-heart",
+        "snippet": "Omar and his friend Zayd are waiting for Iftar, but hunger is making Zayd frustrated and upset. He feels like everything is annoying him <b>today</b>! But Omar remembers what his sister Layla told him\u2014Ramadan isn\u2019t just about fasting from food, it\u2019s about fasting with your heart too. \ud83d\udcd6 In this fun and <b>heartwarming</b> Ramadan story\u2026",
+        "dateLastCrawled": "2025-03-16T01:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "IslamiCity"
     }
 }
