@@ -2345,5 +2345,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "IslamiCity"
+    },
+    "2025-03-16": {
+        "date": "March 16, 2025",
+        "image_path": "./data/images/20250316-233003-3.png",
+        "story_summary": "Riyadh -- March 16, 2025\n\n**In the heart of Riyadh, a festive Iftar gathering brought together people from diverse backgrounds, creating an atmosphere of deep warmth and camaraderie.** The event, organized with care, embraced the spirit of Ramadan as attendees shared a meal and celebrated unity.\n\n*Participants enjoyed a serene evening where traditional dishes and gentle lighting set the mood for reflection and community bonding.* Laughter, conversation, and the aroma of freshly prepared cuisine filled the air, echoing the timeless traditions of the holy month.\n\n**This celebration marked not only the end of a day's fast but also a reaffirmation of cultural heritage and community spirit.** It was a reminder that even in a fast-paced world, moments of togetherness and shared joy remain invaluable.",
+        "story_url": "https://www.mathrubhumi.com/pravasi/saudi-arabia/riyadh-iftar-gathering-love-unity-1.10429066",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "\u0d07\u0d2b\u0d4d\u0d24\u0d3e\u0d30\u0d4d\u200d \u0d38\u0d02\u0d17\u0d2e\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d42\u0d1f\u0d46 \u0d15\u0d42\u0d1f\u0d4d\u0d1f\u0d3e\u0d2f\u0d4d\u0d2e\u0d15\u0d33\u0d4d\u200d \u0d2a\u0d15\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d38\u0d4d\u0d28\u0d47\u0d39\u0d38\u0d28\u0d4d\u0d26\u0d47\u0d36\u0d02- \u0d21\u0d4b. \u0d15\u0d46. \u0d06\u0d30\u0d4d ...",
+        "url": "https://www.mathrubhumi.com/pravasi/saudi-arabia/riyadh-iftar-gathering-love-unity-1.10429066",
+        "datePublished": "2025-03-16T18:37:00.0000000",
+        "datePublishedFreshnessText": "8 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.mathrubhumi.com</b>/pravasi/saudi-arabia/riyadh-iftar-gathering-love-unity-1...",
+        "snippet": "\u0d15\u0d3f\u0d2f \u0d31\u0d3f\u0d2f\u0d3e\u0d26\u0d4d \u0d07\u0d2b\u0d4d\u0d24\u0d3e\u0d7c \u0d38\u0d02\u0d17\u0d2e\u0d02 \u0d21\u0d4b.\u0d15\u0d46 \u0d06\u0d7c \u0d1c\u0d2f\u0d1a\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d7b \u0d09\u0d24\u0d4d\u0d18\u0d3e\u0d1f\u0d28\u0d02 \u0d1a\u0d46\u0d2f\u0d4d\u0d2f\u0d41\u0d28\u0d4d\u0d28\u0d41, \u0d07\u0d2b\u0d4d\u0d24\u0d3e\u0d7c \u0d38\u0d26\u0d38\u0d4d\u0d38\u0d4d",
+        "dateLastCrawled": "2025-03-16T18:43:00.0000000Z",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d3e\u0d24\u0d43\u0d2d\u0d42\u0d2e\u0d3f"
     }
 }
