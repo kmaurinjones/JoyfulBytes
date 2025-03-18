@@ -2364,5 +2364,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0d2e\u0d3e\u0d24\u0d43\u0d2d\u0d42\u0d2e\u0d3f"
+    },
+    "2025-03-17": {
+        "date": "March 17, 2025",
+        "image_path": "./data/images/20250317-233002-1.png",
+        "story_summary": "Hatfield -- March 17, 2025\n\n**In a heartening moment of achievement**, a local cashier made headlines by purchasing a new car while still in her uniform. With determination and hope, she signed the contract and celebrated her success, turning an ordinary day at the dealership into a powerful narrative of empowerment.\n\n*Her milestone resonates deeply* with many South Africans, sparking a wave of praise and celebration. Despite the financial challenges faced by retail workers, her accomplishment serves as a bold reminder that with perseverance and hard work, dreams do become reality.",
+        "story_url": "https://briefly.co.za/people/212039-cashier-inspires-car-purchase-netizens-share-praise/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "\u201cOh What a Motivation\u201d: Cashier Inspires With Car ... - Briefly",
+        "url": "https://briefly.co.za/people/212039-cashier-inspires-car-purchase-netizens-share-praise/",
+        "datePublished": "2025-03-17T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://briefly.co.za/people/212039-cashier-inspires-car-purchase-netizens-share-praise",
+        "snippet": "More <b>feel-good</b> <b>stories</b> from Briefly <b>News</b>. Briefly <b>News</b> previously reported that a Mzansi stokvel is making it happen by helping members buy bricks for each other. A clip shared by @iphakisitani.lal on TikTok showed a yard full of bricks and a woman proudly flexed her pride being a member of such a rewarding stokvel.",
+        "dateLastCrawled": "2025-03-17T16:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Briefly"
     }
 }
