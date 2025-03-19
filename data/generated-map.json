@@ -2383,5 +2383,23 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Briefly"
+    },
+    "2025-03-18": {
+        "date": "March 19, 2025",
+        "image_path": "./data/images/20250318-233002-1.png",
+        "story_summary": "Chartwell --, March 18, 2025\n\n**Bold generosity in action!** In Chartwell community, dedicated volunteers and staff teamed up to raise over $14,000 for Wh\u0101nau \u0100whina Plunket during the Christmas season. From December 5 until Christmas Eve, shoppers had their gifts beautifully wrapped by a committed team, with every donation making a vital contribution to child health support.\n\n*Community spirit at its best!* Every small act\u2014from a neatly tied ribbon to a perfectly placed bow\u2014helped fund essential services like well-child checks, mental health support, and 24/7 parenting helplines. This heartwarming initiative has grown into a cherished tradition that unites the community, supporting local families in making a real difference during the festive period.",
+        "story_url": "https://www.chartwellshopping.co.nz/whats-on/chartwell-community-donates-over-14-000-to-plunket",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Chartwell community donates over $14,000 to Plunket!",
+        "url": "https://www.chartwellshopping.co.nz/whats-on/chartwell-community-donates-over-14-000-to-plunket",
+        "datePublished": "2025-03-19T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chartwellshopping.co.nz/whats-on/chartwell-community-donates-over-14-000...",
+        "snippet": "Chartwell Shopping Centre Marketing Manager Linda Jackson says the initiative has become a <b>heartwarming</b> holiday tradition. \u201cThe gift wrapping stations in Centre bring the community together for a great cause and is a perfect example of how small <b>acts</b> of kindness add up to something big.\u201d",
+        "dateLastCrawled": "2025-03-19T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
