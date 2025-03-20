@@ -2401,5 +2401,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-03-19": {
+        "date": "March 20, 2025",
+        "image_path": "./data/images/20250319-233003-1.png",
+        "story_summary": "Kyabram -- March 19, 2025\n\n**In the heart of rural Kyabram, a compassionate support group emerged at the Community and Learning Centre.** What began as an informal gathering during a Carers Victoria movie night blossomed into a vital network for people living with dementia and their carers. *Mick Simpson\u2019s shared experiences* sparked the formation of a group that met in a relaxed, welcoming environment\u2014where eight individuals, including Mick and his wife Carmel, discovered hope and companionship.\n\n**As the group grew, so did its impact.** Regular social catch-ups and informative sessions nurtured lasting friendships that extended well beyond the Centre\u2019s walls. Members from surrounding communities joined forces, and the initiative expanded into broader advocacy through the Dementia Voices Alliance, championing accessibility improvements and community education. With shared determination, the group celebrated each person\u2019s unique journey, proving that even amid challenges, empathy and understanding forge a truly supportive community.",
+        "story_url": "https://www.agedcareinsite.com.au/2025/03/dont-demention-it-how-one-rural-support-group-grew-into-something-bigger/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Don\u2019t Demention It: How one rural support group grew into something ...",
+        "url": "https://www.agedcareinsite.com.au/2025/03/dont-demention-it-how-one-rural-support-group-grew-into-something-bigger/",
+        "datePublished": "2025-03-20T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.agedcareinsite.com.au/2025/03/dont-demention-it-how-one-rural-support...",
+        "snippet": "One of the most <b>heartwarming</b> projects has been enhancing the local community garden to ensure it is a welcoming and accessible space for people living with dementia. The garden now serves as a peaceful retreat where members of the support group, their families, and the wider community can come together in a safe and familiar environment.",
+        "dateLastCrawled": "2025-03-20T01:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Aged Care Insite"
     }
 }
