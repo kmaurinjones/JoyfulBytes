@@ -2420,5 +2420,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Aged Care Insite"
+    },
+    "2025-03-20": {
+        "date": "March 20, 2025",
+        "image_path": "./data/images/20250320-233003-1.png",
+        "story_summary": "Wyandotte, Michigan -- March 20, 2025. **In this heartfelt episode**, a busy young man named **Donnie Hanson** finds a lost wallet filled with cash and personal information while running errands. Determined to make a difference despite his own past losses, he promptly ensures its return.\n\n*Michelle Johnson* discovers the wallet through surveillance footage and is overwhelmed with relief and gratitude. The wallet belonged to her son, a diligent student and employee at the Detroit Symphony Orchestra who had earned his tips over the weekend. His loss had sparked deep concern until the wallet was returned.\n\nDeeply moved by his honesty, the family cherishes this unexpected act of kindness that restored their faith in humanity. As an elementary school teacher, Michelle believes that even small gestures can inspire others and create lasting change, reminding everyone of the profound impact of doing the right thing.",
+        "story_url": "https://www.mynbc5.com/article/man-returns-lost-wallet-kindness/64233174",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Man returns wallet full of cash to grateful family - My NBC5",
+        "url": "https://www.mynbc5.com/article/man-returns-lost-wallet-kindness/64233174",
+        "datePublished": "2025-03-20T23:26:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mynbc5.com/article/man-returns-lost-wallet-kindness/64233174",
+        "snippet": "A realtor found a wallet full of cash and personal info\u2014what he did next turned into a <b>heartwarming</b> lesson for all",
+        "dateLastCrawled": "2025-03-20T23:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "My NBC5"
     }
 }
