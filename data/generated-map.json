@@ -2439,5 +2439,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "My NBC5"
+    },
+    "2025-03-21": {
+        "date": "March 21, 2025",
+        "image_path": "./data/images/20250321-233003-3.png",
+        "story_summary": "Innisfil -- March 21, 2025\n\n**Ariella Morrone**, a spirited seven-year-old, was recently honored for her genuine kindness at an empowering local event. Recognized through the Mother Daughter Empower Awards, she was nominated by her proud mother, Tarila, who saw her daughter's consistent care and compassion at school and in the community.\n\n*Despite feeling under the weather, Ariella embraced the spotlight, confidently answering questions on stage and inspiring many with her heartfelt words about love and inclusivity.*\n\nHer journey began with a simple lemonade stand during the pandemic that quickly turned into a community celebration. The venture not only raised funds for new experiences but also captured the hearts of neighbors, exemplifying her early acts of entrepreneurship and kindness.\n\n*Her story celebrates courage, heartfelt generosity, and the belief that even the smallest hearts can make a big difference.*",
+        "story_url": "https://www.barrietoday.com/local-news/i-like-making-people-happy-girl-7-recognized-for-kindness-10382467",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "&#39;I like making people happy&#39;: Girl, 7, recognized for kindness",
+        "url": "https://www.barrietoday.com/local-news/i-like-making-people-happy-girl-7-recognized-for-kindness-10382467",
+        "datePublished": "2025-03-21T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.barrie<b>today</b>.com/local-<b>news</b>/i-like-making-people-happy-girl-7-recognized...",
+        "snippet": "\u201cThat just sounded like my daughter, so I nominated her,\u201d says the proud Bradford mom, who has been involved in the conference in previous years. \u201cIt was more to encourage her, to do <b>good</b> \u2026 and knowing that it doesn\u2019t go unnoticed. \u201cAt the event, she was actually sick and didn\u2019t want to go on stage.\u201d",
+        "dateLastCrawled": "2025-03-21T22:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "BarrieToday.com"
     }
 }
