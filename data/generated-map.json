@@ -2458,5 +2458,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "BarrieToday.com"
+    },
+    "2025-03-22": {
+        "date": "March 23, 2025",
+        "image_path": "./data/images/20250322-233003-3.png",
+        "story_summary": "Ipswich -- March 22, 2025\n\n**Athena Rowley** recounts a heartwarming evening when her four-year-old son, Robert, dressed as a beloved character, shared his Halloween sweets with a group of seemingly intimidating teenagers. Their unexpected kindness leaves Athena awestruck and reaffirms her faith in the compassion of others.\n\n*Meanwhile*, on a busy motorway, elderly travellers Jocelyn and Mark Tress experienced timely assistance when a thoughtful young man stopped to change their tyre, ensuring their safety and easing their distress. In another heartfelt moment, Sarah Marten recalls how a kind stranger covered her purchase at a department store during a stressful day, reminding her of the everyday magic found in small acts of generosity.\n\nEach act underscores how simple gestures can inspire hope and unity, reinforcing the belief that kindness is a transformative force in our communities.",
+        "story_url": "https://www.bbc.co.uk/news/articles/ckg14rxnw8jo",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "World Happiness Report: Readers share acts of strangers&#39; kindness",
+        "url": "https://www.bbc.co.uk/news/articles/ckg14rxnw8jo",
+        "datePublished": "2025-03-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.bbc.co.uk</b>/news/articles/ckg14rxnw8jo",
+        "snippet": "BBC News told of kind <b>acts</b> following UN report that found strangers&#39; helpfulness was underestimated.",
+        "dateLastCrawled": "2025-03-23T02:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "BBC"
     }
 }
