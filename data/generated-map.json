@@ -2477,5 +2477,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "BBC"
+    },
+    "2025-03-23": {
+        "date": "March 23, 2025",
+        "image_path": "./data/images/20250323-233003-1.png",
+        "story_summary": "Innisfil -- March 23, 2025\n\n**Ariella Morrone**, a warm-hearted seven-year-old, was honored at the recent Mother Daughter Empower Conference for her genuine kindness and courage. Her mother recounted how Ariella\u2019s friendly spirit and natural inclination to help, from school accolades to running a lemonade stand during the pandemic, have made a positive impact.\n\nDespite feeling unwell on the day of the award ceremony at the Innisfil library, Ariella bravely joined her fellow finalists on stage, answering thoughtful questions and expressing her admiration for her entrepreneurial mom. *Her simple declaration, 'I like making people happy,' captured her caring and resilient nature.* The recognition celebrated not only her kind deeds but also the determination that inspires everyone around her.",
+        "story_url": "https://www.midlandtoday.ca/local-news/i-like-making-people-happy-girl-7-recognized-for-kindness-10413653",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "&#39;I like making people happy&#39;: Girl, 7, recognized for kindness",
+        "url": "https://www.midlandtoday.ca/local-news/i-like-making-people-happy-girl-7-recognized-for-kindness-10413653",
+        "datePublished": "2025-03-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.midland<b>today</b>.ca/local-news/i-like-making-people-happy-girl-7-recognized...",
+        "snippet": "When Tarila Morrone read the details of the ideal candidate for the Empower Girl Award, she quickly came to a decision. She would nominate her daughter. Although Ariella is only seven years old, her heart shines brightly, says her mom, adding that she has been recognized at school for her kindness ...",
+        "dateLastCrawled": "2025-03-23T20:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MidlandToday.ca"
     }
 }
