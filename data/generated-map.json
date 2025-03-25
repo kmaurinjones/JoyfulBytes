@@ -2496,5 +2496,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "MidlandToday.ca"
+    },
+    "2025-03-24": {
+        "date": "March 24, 2025",
+        "image_path": "./data/images/20250324-233003-3.png",
+        "story_summary": "**Memphis -- March 24, 2025**: A dedicated window-cleaning crew swapped their work uniforms for vibrant superhero costumes, transforming an ordinary day at Le Bonheur Children\u2019s Hospital into a celebration of hope. Their spontaneous act of kindness sparked smiles among children eagerly watching from behind sparkling windows.\n\n**One poignant moment shined through** when a quiet, sick boy named Grant hesitantly returned a thumbs-up to Spider-Man. *In that shared glance, courage and resilience met*, as Grant revealed a small Spider-Man onesie hidden beneath his hospital gown, stirring deep emotions in the crew.\n\nUnited by this moving encounter, the team resolved to bring consistent joy to the hospital. Through playful gestures, impromptu poses, and thoughtful gift drops, they reminded each child that even in hard times, small acts of care can light up a life. Their heartfelt mission became a beacon of hope, inspiring everyone who experienced the magic of that day.",
+        "story_url": "https://eva.thebustednews.com/p/cleaning-crew-dressed-as-superheroes-but-one-sick-kid-s-secret-reaction-changed-everything-for-them-493",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "CLEANING CREW DRESSED AS SUPERHEROES - BUT ONE SICK KID&#39;S SECRET ...",
+        "url": "https://eva.thebustednews.com/p/cleaning-crew-dressed-as-superheroes-but-one-sick-kid-s-secret-reaction-changed-everything-for-them-493",
+        "datePublished": "2025-03-24T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://eva.thebustednews.com/p/cleaning-crew-dressed-as-superheroes-but-one-sick-kid...",
+        "snippet": "A cleaning crew dressed as superheroes to wash windows at a children&#39;s hospital unexpectedly brightens the day of a lonely sick boy, leading to a <b>heartwarming</b> connection and a regular tradition.",
+        "dateLastCrawled": "2025-03-24T18:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
