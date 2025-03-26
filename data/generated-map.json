@@ -2514,5 +2514,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-03-25": {
+        "date": "March 26, 2025",
+        "image_path": "./data/images/20250325-233003-1.png",
+        "story_summary": "**Wicklow --, March 25, 2025**: The Col\u00e1isite Eoin Hacketstown came alive as students, their grandparents, and special persons gathered to celebrate the deep bonds of family and community.  \n\n*Vibrant music and dance performances* led by an enthusiastic Ethos team, with guidance from Ms Leeann Cummins, fostered enduring connections across generations. Students joyfully showcased their talents while expressing heartfelt gratitude to those who support their growth.  \n\nA delightful afternoon tea with delicious refreshments, prepared by the Home Economics department under Ms Tompkins, enhanced the spirit of camaraderie. Speeches resonated with appreciation and solidarity, reminding everyone of the profound role that intergenerational ties play in enriching both education and life.",
+        "story_url": "https://www.independent.ie/regionals/wicklow/west-wicklow-news/wicklow-border-school-hosts-grandparents-and-special-persons-day/a1165286689.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Wicklow border school hosts grandparents and special persons day",
+        "url": "https://www.independent.ie/regionals/wicklow/west-wicklow-news/wicklow-border-school-hosts-grandparents-and-special-persons-day/a1165286689.html",
+        "datePublished": "2025-03-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.independent.ie</b>/regionals/wicklow/west-wicklow-news/wicklow-border-school...",
+        "snippet": "COL\u00c1ISTE Eoin\u2019s Ethos Committee recently hosted a <b>heartwarming</b> grandparents and special persons day filled with music, dance, and community spirit to celebrate the invaluable role that family ...",
+        "dateLastCrawled": "2025-03-26T02:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Independent.ie"
     }
 }
