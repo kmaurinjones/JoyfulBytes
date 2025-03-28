@@ -2533,5 +2533,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Independent.ie"
+    },
+    "2025-03-27": {
+        "date": "March 27, 2025",
+        "image_path": "./data/images/20250327-233003-1.png",
+        "story_summary": "**POTTSVILLE -- March 27, 2025**\n\n**Black Rock Brewpub** invites the community to a heartwarming pet adoption event designed to celebrate local animal shelters. The event runs from Friday evening through Sunday afternoon, offering multiple sessions for visitors to meet delightful cats and dogs.\n\nOwner Bobby Weaver organized the occasion to honor dedicated groups like *Hillside SPCA*, *Coal Mountain Animal Rescue*, *Ruth Steinert Memorial SPCA*, and *Strays No More*. Prospective pet parents are guided through a standard adoption process, ensuring every animal has a chance for a loving home.",
+        "story_url": "https://www.yahoo.com/lifestyle/black-rock-brewpub-host-pet-224800403.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "Black Rock Brewpub to host pet adoption weekend - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/black-rock-brewpub-host-pet-224800403.html",
+        "datePublished": "2025-03-27T22:48:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/black-rock-brewpub-host-pet-224800403.html",
+        "snippet": "POTTSVILLE \u2014 Black Rock Brewpub is hosting an event to showcase animals available for adoption from local shelters this weekend. The Black Rock Pet Adoption Weekend will run Friday evening ...",
+        "dateLastCrawled": "2025-03-27T23:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
