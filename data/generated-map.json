@@ -2552,5 +2552,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2025-03-28": {
+        "date": "March 29, 2025",
+        "image_path": "./data/images/20250328-233003-1.png",
+        "story_summary": "Kerala -- March 28, 2025: A daily wage worker and his daughter face an unexpected crisis on the way to a crucial PSC exam when their vehicle breaks down.\n\nIn the midst of his distress, a compassionate stranger named Prasad steps in without hesitation, offering his vehicle so the worker can reach his exam on time. Prasad\u2019s simple, heartfelt reply\u2014*\u201cIt\u2019s about a child's future; we are all human, aren\u2019t we?\u201d*\u2014resonates with **kindness** and genuine humanity.\n\nThe act of selflessness quickly spreads across social media, touching hearts and inspiring countless messages of support. Many celebrate this reminder that a small gesture of care can make a significant difference in someone\u2019s life.\n\nThis touching episode, filled with hope and empathy, underscores how one person\u2019s generosity can brighten the lives of many.",
+        "story_url": "https://www.manoramanews.com/kerala/spotlight/2025/03/28/a-heartwarming-social-media-post-viral-on-social-media.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "\u2018\u0d1a\u0d47\u0d1f\u0d4d\u0d1f\u0d3e \u0d28\u0d2e\u0d4d\u0d2e\u0d33\u0d4a\u0d15\u0d4d\u0d15\u0d46 \u0d2e\u0d28\u0d41\u0d37\u0d4d\u0d2f\u0d30\u0d32\u0d4d\u0d32\u0d46, \u0d12\u0d30\u0d41 \u0d15\u0d41\u0d1f\u0d4d\u0d1f\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d2d\u0d3e\u0d35\u0d3f\u0d2f\u0d32\u0d4d\u0d32\u0d46 ...",
+        "url": "https://www.manoramanews.com/kerala/spotlight/2025/03/28/a-heartwarming-social-media-post-viral-on-social-media.html",
+        "datePublished": "2025-03-28T11:48:00.0000000",
+        "datePublishedFreshnessText": "15 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.manoramanews.com/kerala/spotlight/2025/03/28/a-<b>heartwarming</b>-social-media...",
+        "snippet": "A <b>heartwarming</b> social media post titled &quot;A Daily Wage Worker&#39;s Kind Heart&quot; has gone viral. The story narrates how a man, on his way to a PSC exam with his daughter, faced a vehicle breakdown and struggled to find help. Seeing his distress, a stranger named Prasad handed over his vehicle keys without hesitation, telling him to take the vehicle ...",
+        "dateLastCrawled": "2025-03-28T11:55:00.0000000Z",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d28\u0d4b\u0d30\u0d2e \u0d28\u0d4d\u0d2f\u0d42\u0d38\u0d4d"
     }
 }
