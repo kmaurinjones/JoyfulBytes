@@ -2571,5 +2571,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0d2e\u0d28\u0d4b\u0d30\u0d2e \u0d28\u0d4d\u0d2f\u0d42\u0d38\u0d4d"
+    },
+    "2025-03-29": {
+        "date": "March 30, 2025",
+        "image_path": "./data/images/20250329-233002-3.png",
+        "story_summary": "Srinagar, India -- March 29, 2025\n\n**Eid-ul-Fitr** marks the end of Ramadan, celebrating a day of joy, gratitude, and renewal. Muslims observe a month of fasting, prayer, and self-reflection, culminating in the heartfelt moment of Iftar when families break their fast together. The festival, rich in traditions and charitable acts such as ***sadkat-ul-Fitr***, embodies unity and compassion.\n\nOn the eve of Eid, known as Chaand Raat, excitement fills the air. Intricate henna designs, new outfits, and mouth-watering sweets heighten the festive spirit. Children, once at the heart of the celebration, delight in receiving gifts and sharing laughs in open, vibrant neighborhoods. This festive day is not only about personal joy but also about strengthening familial bonds and community ties, reminding everyone of the value of sharing and caring.\n\nThe narrative captures a deep sense of nostalgia and hope\u2014a call to revive the genuine togetherness of past celebrations while embracing the blessings of the present.",
+        "story_url": "https://thekashmirimages.com/2025/03/30/eid-ul-fitr-the-festival-of-happiness-gratitude-and-togetherness/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Eid-ul-Fitr: The Festival of Happiness, Gratitude, and Togetherness",
+        "url": "https://thekashmirimages.com/2025/03/30/eid-ul-fitr-the-festival-of-happiness-gratitude-and-togetherness/",
+        "datePublished": "2025-03-30T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://thekashmirimages.com/2025/03/30/eid-ul-fitr-the-festival-of-happiness...",
+        "snippet": "By: Tawheed Parvaiz Bhat Eid-ul-Fitr, also known as the Festival of Breaking the Fast, is one of the most joyous occasions celebrated by Muslims worldwide. It marks the end of Ramadan, a sacred month of fasting, prayer, and self-discipline. This festival is not just a religious obligation but als",
+        "dateLastCrawled": "2025-03-30T00:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Kashmir Images Newspaper"
     }
 }
