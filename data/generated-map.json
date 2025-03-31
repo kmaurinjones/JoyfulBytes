@@ -2590,5 +2590,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Kashmir Images Newspaper"
+    },
+    "2025-03-30": {
+        "date": "March 30, 2025",
+        "image_path": "./data/images/20250330-233003-1.png",
+        "story_summary": "Location unknown -- March 30, 2025\n\n**The government** has taken a bold step to empower northern rice farmers by providing four advanced rice harvesters under its Farm Mechanisation Programme. This initiative aims to drastically reduce labor demands, enabling farmers to expand their operations and pursue sustainable growth.\n\n*Minister Vatimi Rayalu* highlighted how modernizing farming practices could improve food security and strengthen the local economy. Farmers like Rajendra Mallay and Aman Vikash Chand expressed heartfelt gratitude, viewing this support as the fulfillment of a long-held dream, allowing them to fully utilize the abundant arable lands in their communities.\n\nThis transformative measure is paving the way for a future of enhanced agricultural productivity and resilience.",
+        "story_url": "https://www.fijivillage.com/news/New-rice-harvesters-to-boost-rice-production-by-Northern-farmers-8rx45f/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "New rice harvesters to boost rice production by Northern farmers",
+        "url": "https://www.fijivillage.com/news/New-rice-harvesters-to-boost-rice-production-by-Northern-farmers-8rx45f/",
+        "datePublished": "2025-03-31T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.fijivillage.com/news/New-rice-harvesters-to-boost-rice-production-by...",
+        "snippet": "Rice farmers in the North will be able to increase their production after receiving four rice harvesters as part of the government&#39;s ongoing support f",
+        "dateLastCrawled": "2025-03-31T00:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Fijivillage"
     }
 }
