@@ -2609,5 +2609,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Fijivillage"
+    },
+    "2025-03-31": {
+        "date": "March 31, 2025",
+        "image_path": "./data/images/20250331-233002-1.png",
+        "story_summary": "New Delhi [India] -- **Eid-ul-Fitr** celebrations light up the nation as families and communities mark the end of Ramadan with immense joy and unity. Streets and homes brim with festivity as the aroma of delicious biryanis, kebabs, and sweet treats fills the air. **Citizens express unity** by exchanging warm greetings, gifts, and heartfelt embraces, capturing the spirit of charity and compassion at the heart of the festival.\n\nChildren share excited moments and laughter while elders and community leaders remind everyone to let go of differences and cherish togetherness. The words of public figures emphasize forgiveness and hope, inspiring a collective commitment to progress and unity.\n\nThe day unfolds with reflective prayers and vibrant gatherings. Through acts of kindness, compassion, and charity, the celebration not only marks the breaking of a sacred fast but also renews hope, reinforcing shared values and a vision for a harmonious future.",
+        "story_url": "https://www.bignewsnetwork.com/news/278138037/eid-celebrations-begin-across-country-as-people-embrace-share-sweets-delicacies",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Eid celebrations begin across country as people embrace, share sweets ...",
+        "url": "https://www.bignewsnetwork.com/news/278138037/eid-celebrations-begin-across-country-as-people-embrace-share-sweets-delicacies",
+        "datePublished": "2025-03-31T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bignewsnetwork.com/news/278138037/eid-celebrations-begin-across-country-as...",
+        "snippet": "Eid-ul-Fitr celebrations have kicked off across the country with an outpouring of joy and togetherness as families and communities come together to mark the end of Ramadan. With heartfelt embraces, the exchange of Eid greetings, and the sharing of sweets and traditional delicacies, the day unfolded with an infectious spirit of unity. In cities like Delhi, Mumbai, Chennai, and Kolkata, people ...",
+        "dateLastCrawled": "2025-03-31T05:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Big News Network.com"
     }
 }
