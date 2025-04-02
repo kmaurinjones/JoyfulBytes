@@ -2628,5 +2628,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Big News Network.com"
+    },
+    "2025-04-01": {
+        "date": "April 01, 2025",
+        "image_path": "./data/images/20250401-233003-1.png",
+        "story_summary": "Malda village -- April 01, 2025\n\n**In a touching act of unity**, the residents of Malda village came together to support the family of Tinku Mandal, a migrant labourer who passed away unexpectedly in Delhi. His sudden demise left behind his wife, Tumpa, and four young children who now face great challenges in preserving his memory.\n\n*After Eid prayers*, compassionate neighbours from Barabagan and Kachari More rallied to collect essential funds to repatriate his body and enable the performance of his last rites. Local figures such as Rahim Sk, Rojina Biwi, and Taher Sk played pivotal roles in ensuring the family received the help they desperately required.\n\n**This heartfelt gesture** shines as a beacon of solidarity and deep community bonds that transcend religious differences, reaffirming the power of shared humanity during moments of sorrow and need.",
+        "story_url": "https://timesofindia.indiatimes.com/city/kolkata/in-malda-village-muslim-neighbours-help-family-of-hindu-labourer-perform-his-last-rites/articleshow/119875999.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "In Malda village, Muslim neighbours help family of Hindu labourer ...",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/in-malda-village-muslim-neighbours-help-family-of-hindu-labourer-perform-his-last-rites/articleshow/119875999.cms",
+        "datePublished": "2025-04-01T16:26:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/kolkata/in-malda-village-muslim-neighbours...",
+        "snippet": "Malda: In a <b>heartwarming</b> display of communal harmony, the Muslim community in Malda&#39;s Ramdhantola village came together to support a bereaved Hindu family, setting aside recent tensions in the region.",
+        "dateLastCrawled": "2025-04-01T16:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
