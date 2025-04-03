@@ -2647,5 +2647,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2025-04-02": {
+        "date": "April 02, 2025",
+        "image_path": "./data/images/20250402-233002-3.png",
+        "story_summary": "Geelong -- April 02, 2025\n\n**Exciting school holiday events** light up Geelong as families gather to enjoy a variety of thrilling performances at the Geelong Arts Centre. From high-energy tribute acts that revive classic tunes to vibrant musicals inspired by beloved films and stories, there\u2019s something to capture every heart.\n\n*Signature moments* include a stirring ABBA tribute that transports audiences back to the 70s with dazzling costumes and contagious dance vibes, a dynamic musical adventure based on Madagascar that ignites imagination, and a moving blend of acrobatics with soulful blues that combines circus thrills with musical comedy.\n\nThe event lineup culminates with the heartwarming tale of a determined kangaroo, Josephine, who overcomes challenges to chase her dancing dreams. Audience members of all ages are promised unforgettable experiences filled with rhythm, laughter, and joyful surprises.",
+        "story_url": "https://geelongartscentre.org.au/news/exciting-school-holiday-activities-in-geelong-unforgettable-shows-at-geelong-arts-centre/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Exciting School Holiday Activities in Geelong: Unforgettable Shows at ...",
+        "url": "https://geelongartscentre.org.au/news/exciting-school-holiday-activities-in-geelong-unforgettable-shows-at-geelong-arts-centre/",
+        "datePublished": "2025-04-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://geelongartscentre.org.au/news/exciting-school-holiday-<b>act</b>ivities-in-geelong...",
+        "snippet": "This internationally acclaimed production combines the soul of American blues with jaw-dropping circus <b>acts</b>, creating a performance that\u2019s both electrifying and <b>heartwarming</b>. ... Don\u2019t miss out on these incredible shows\u2014grab your tickets <b>today</b> and give your family a school holiday experience they\u2019ll never forget. These performances are ...",
+        "dateLastCrawled": "2025-04-03T02:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Geelong Arts Centre"
     }
 }
