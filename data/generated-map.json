@@ -2666,5 +2666,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Geelong Arts Centre"
+    },
+    "2025-04-03": {
+        "date": "April 04, 2025",
+        "image_path": "./data/images/20250403-233003-1.png",
+        "story_summary": "Location unknown -- April 03, 2025\n\n**A Heartfelt Journey:** In a tender and unforgettable bond, a blind rabbit warmly trusts its vigilant feline friend. The rabbit carefully follows beneath the cat's protective belly as the agile cat leads the way through every step.\n\n*Embodying resilience and compassion,* their connection is a vivid reminder of how friendship transforms challenges into moments of joy. Each act of guidance reflects unyielding trust and mutual reliance, turning obstacles into a celebration of love.\n\nTheir story inspires with gentle wisdom and quiet bravery, encouraging us to value the strength of unspoken alliances and the magic of empathetic companionship.",
+        "story_url": "https://www.timesnownews.com/videos/viral-videos/inseparable-duo-blind-rabbit-walks-under-cat-best-friend-to-get-around-video-151344997",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Inseparable Duo: Blind Rabbit Walks Under Cat Best Friend ... - Times Now",
+        "url": "https://www.timesnownews.com/videos/viral-videos/inseparable-duo-blind-rabbit-walks-under-cat-best-friend-to-get-around-video-151344997",
+        "datePublished": "2025-04-04T02:43:00.0000000",
+        "datePublishedFreshnessText": "47 minutes ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.timesnownews.com/videos/viral-videos/inseparable-duo-blind-rabbit-walks...",
+        "snippet": "A <b>heartwarming</b> video shows the inseparable bond between a cat and a blind rabbit. The bunny walks under its best friend\u2019s belly, never taking a step without the feline watching over. ... <b>Today</b> IPL Match Prediction. RCB vs GT Pitch Report. Waqf Amendment Bill 2025. ... Modi Govt Overhauls WAQF <b>Act</b>; Puts The Focus On &#39;Sabka Saath&#39;| Newshour. 10 ...",
+        "dateLastCrawled": "2025-04-04T02:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times Now"
     }
 }
