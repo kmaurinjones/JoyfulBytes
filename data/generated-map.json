@@ -2685,5 +2685,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times Now"
+    },
+    "2025-04-05": {
+        "date": "April 05, 2025",
+        "image_path": "./data/images/20250405-233002-3.png",
+        "story_summary": "\u5317\u4eac -- April 05, 2025\n\n**In a display of genuine kindness**, a heartwarming encounter unfolded in Canada where Pakistani immigrant Hamza Aziz recognized the exceptional integrity of Navneet, an Indian Uber Eats delivery driver from Punjab. Navneet demonstrated a strong work ethic by returning to correct an order mistake, proving that honesty can spark remarkable outcomes.\n\n**Moved by Navneet's commitment**, Hamza generously tipped him CAD 100, a gesture that quickly resonated across social media with over four million views. *Navneet's dream* of starting his own barbershop amidst the challenges of living far from home found new hope as community members, including an entrepreneur and a crowdfunding campaign, rallied to support his education and professional tools.\n\nTheir mutual respect and gratitude underscored the power of simple acts, reminding us that each act of **integrity** and **kindness** can transform lives. Navneet's later invitation to Hamza for a haircut further cemented their connection, illustrating a profound bond built on respect and encouragement.",
+        "story_url": "https://www.sohu.com/a/880128308_122342248",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Pak Man&#39;s $100 Tip to Indian Student in Canada Melts Hearts Online",
+        "url": "https://www.sohu.com/a/880128308_122342248",
+        "datePublished": "2025-04-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.sohu.com</b>/a/880128308_122342248",
+        "snippet": "A <b>heartwarming</b> story of kindness and ambition recently captured the attention of millions online, highlighting the interconnectedness of individuals in <b>today</b>&#39;s global society. This inspiring incident revolves around Hamza Aziz, a Pakistani immigrant in Canada, who became a beacon of hope for Navneet, an Indian student striving to achieve his dreams.",
+        "dateLastCrawled": "2025-04-05T09:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u641c\u72d0"
     }
 }
