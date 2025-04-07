@@ -2704,5 +2704,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u641c\u72d0"
+    },
+    "2025-04-06": {
+        "date": "April 06, 2025",
+        "image_path": "./data/images/20250406-233002-1.png",
+        "story_summary": "Malda, West Bengal -- April 06, 2025\n\nIn this uplifting celebration of Ram Navami, the streets of Malda resonate with heartfelt chants and a spirit of unity. Devotees embark on a vibrant procession, their energy reflecting hope and togetherness amidst a festive atmosphere.\n\nIn a remarkable display of communal harmony, members of the Muslim community extend warm gestures by offering sweets, water, and showering flower petals on the participants. **Mohammad Ali** and other locals affirm, *'We have always lived together in peace,'* as they bridge differences with kindness and respect.\n\nThe event is marked by symbolic touches such as garlands that evoke national pride and the beauty of diversity. This inspiring encounter not only celebrates a cherished tradition but also serves as a powerful reminder that unity and goodwill can prevail even in challenging times.",
+        "story_url": "https://english.mathrubhumi.com/news/india/muslims-greet-ram-navami-devotees-with-sweets-water-in-malda-1.10487963",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Muslims greet Ram Navami devotees with sweets, water in Malda | WATCH ...",
+        "url": "https://english.mathrubhumi.com/news/india/muslims-greet-ram-navami-devotees-with-sweets-water-in-malda-1.10487963",
+        "datePublished": "2025-04-06T13:19:00.0000000",
+        "datePublishedFreshnessText": "14 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://english.mathrubhumi.com/news/india/muslims-greet-ram-navami-devotees-with...",
+        "snippet": "As Ram Navami devotees marched through the city, members of the Muslim community stood shoulder to shoulder with their Hindu neighbours, offering sweets and water bottles\u2014an <b>act</b> that transcended ...",
+        "dateLastCrawled": "2025-04-06T13:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mathrubhumi English"
     }
 }
