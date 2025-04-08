@@ -2723,5 +2723,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Mathrubhumi English"
+    },
+    "2025-04-07": {
+        "date": "April 07, 2025",
+        "image_path": "./data/images/20250407-233003-1.png",
+        "story_summary": "Nairobi -- April 07, 2025\n\n**The story unfolds on the busy streets of Nairobi where everyday heroes emerge. In heartwarming acts, matatu crews display unwavering compassion, offering more than just a ride. A devoted driver always saves a seat for his daughter, underscoring a deep bond of family and support.**\n\n**In another brave instance, a crew swiftly diverts a ride to ensure a passenger in distress reaches the hospital in time, embodying pure selflessness. Their timely actions reaffirm that kindness can be found in the most unexpected places.**\n\n**Other tender moments include a conductor\u2019s honesty in returning mistaken funds and the sharing of simple comforts such as a warm cup of porridge. Even in adverse weather, caring crew members rally to help those in need, transforming a challenging commute into a display of community spirit. This narrative of everyday empathy reminds us that kindness prevails, inspiring gratitude and hope along the roads of Nairobi.**",
+        "story_url": "https://www.tuko.co.ke/people/family/584909-5-thoughtful-acts-by-matatu-crews-restored-faith-humanity/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Nairobi: 5 Thoughtful Acts by Matatu Crews That Restored Faith in ...",
+        "url": "https://www.tuko.co.ke/people/family/584909-5-thoughtful-acts-by-matatu-crews-restored-faith-humanity/",
+        "datePublished": "2025-04-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.tuko.co.ke/people/family/584909-5-thoughtful-<b>acts</b>-by-matatu-crews-restored...",
+        "snippet": "From saving lives to simple <b>acts</b> of warmth, TUKO.co.ke highlights five stories that prove compassion still thrives on the busy streets. ... Sophie Ikenye: 5 <b>heartwarming</b> photos of ailing BBC journalist as family seeks help. 14 days ago . Kisumu family appeals for help to find son who left home in 2022.",
+        "dateLastCrawled": "2025-04-07T15:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Tuko News"
     }
 }
