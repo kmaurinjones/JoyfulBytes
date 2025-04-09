@@ -2742,5 +2742,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Tuko News"
+    },
+    "2025-04-08": {
+        "date": "April 09, 2025",
+        "image_path": "./data/images/20250408-233003-1.png",
+        "story_summary": "Newark, Delaware -- April 08, 2025\n\n**Bing's Bakery** has been a beloved landmark in Newark since 1946. Founded by Russell and Selina Bing and passed down through generations, it represents much more than a place for sweets\u2014it encapsulates community history and tradition.\n\n*Every treat tells a story.* From its perfectly moist cupcakes with legendary buttercream to its artfully crafted wedding cakes and seasonal pastries, the bakery offers a taste of nostalgia and warm memories. The atmosphere, steeped in mid-century charm, invites locals and university students alike to indulge in moments of simple joy.\n\nWith a commitment to quality and timeless techniques, every dessert at Bing's is a celebration of legacy and creativity, turning daily indulgences into cherished milestones.",
+        "story_url": "https://familydestinationsguide.com/historic-delaware-bakery/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "You Haven\u2019t Done Spring Break Right Until You\u2019ve Tried The Cupcake At ...",
+        "url": "https://familydestinationsguide.com/historic-delaware-bakery/",
+        "datePublished": "2025-04-09T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://familydestinationsguide.com/historic-delaware-bakery",
+        "snippet": "In a <b>heartwarming</b> twist that feels like the perfect third <b>act</b> of a feel-good movie, longtime employees Carla and Kevin Kellner took ownership in 2005, ensuring the bakery\u2019s legacy would continue in the hands of people who already loved it.",
+        "dateLastCrawled": "2025-04-09T00:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Family Destinations Guide"
     }
 }
