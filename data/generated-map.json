@@ -2761,5 +2761,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Family Destinations Guide"
+    },
+    "2025-04-10": {
+        "date": "April 10, 2025",
+        "image_path": "./data/images/20250410-233003-1.png",
+        "story_summary": "BARBERTON, Ohio -- April 10, 2025\n\n**A heartwarming celebration unfolded at Pleasant Pointe Assisted Living,** where five remarkable women, each aged 100 or more, gathered to honor their milestone birthdays. The event, filled with joy and vibrant spirit, marked decades of a life well-lived with **bold resilience** and *quiet dignity*.\n\n*Susan Sturgill, Margaret Nahacky, Dolores Engler, Lucy Daffner, and June Brindley* took center stage as their achievements were celebrated amidst the warm embrace of family, friends, and caretakers. They credited their strength to cherished connections and an unwavering optimism for making every moment count. This jubilant occasion, steeped in both nostalgia and hope, stands as a tribute to a life of enduring beauty.",
+        "story_url": "https://www.yahoo.com/lifestyle/100-club-5-local-women-223929934.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "The 100 club: 5 local women celebrate their milestone birthdays ... - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/100-club-5-local-women-223929934.html",
+        "datePublished": "2025-04-10T22:39:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/100-club-5-local-women-223929934.html",
+        "snippet": "BARBERTON, Ohio (WJW) \u2014 A senior center in Barberton had an extra special celebration Thursday afternoon. Five women are now 100 years old or older and chose to celebrate their birthdays ...",
+        "dateLastCrawled": "2025-04-11T01:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
