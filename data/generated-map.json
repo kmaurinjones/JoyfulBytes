@@ -2780,5 +2780,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2025-04-11": {
+        "date": "April 11, 2025",
+        "image_path": "./data/images/20250411-233002-1.png",
+        "story_summary": "APPLETON, Wis. -- April 11, 2025\n\n**Ed the Diver** (Ed Bieber) and his fianc\u00e9e, *Christie Barlament*, have transformed a traditional Easter egg hunt into a vibrant community mission in northeast Wisconsin.\n\nThe pair spread colorful eggs near local rivers, lakes, and streams, each containing fishing lures, cash, gift cards, and donations from supportive businesses.\n\nTheir initiative not only invigorates the festive spirit but also emphasizes environmental stewardship as participants are encouraged to clean up nearby areas.\n\nWhat began as a modest event for families quickly grew into a significant local celebration, uniting residents and raising over $3,000 in prize donations within 48 hours. Everyone is invited to join the adventure, promoting community, care, and the joy of discovery.",
+        "story_url": "https://www.wearegreenbay.com/news/local-news/ed-the-diver-and-christie-bs-egg-hunt-takes-off-in-northeast-wisconsin/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Ed the Diver and Christie B&#39;s Egg Hunt takes off in ... - WFRV Local 5",
+        "url": "https://www.wearegreenbay.com/news/local-news/ed-the-diver-and-christie-bs-egg-hunt-takes-off-in-northeast-wisconsin/",
+        "datePublished": "2025-04-11T21:15:00.0000000",
+        "datePublishedFreshnessText": "6 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.wearegreenbay.com</b>/<b>news</b>/local-<b>news</b>/ed-the-diver-and-christie-bs-egg-hunt...",
+        "snippet": "Ed Bieber, better known online as \u201cEd the Diver,\u201d and his fianc\u00e9e Christie Barlament are turning a classic Easter tradition into a <b>feel-good</b> community event with a bigger message: it\u2019s all ...",
+        "dateLastCrawled": "2025-04-11T21:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "WFRV Local 5"
     }
 }
