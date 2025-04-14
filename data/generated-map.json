@@ -2799,5 +2799,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "WFRV Local 5"
+    },
+    "2025-04-13": {
+        "date": "April 14, 2025",
+        "image_path": "./data/images/20250413-233009-1.png",
+        "story_summary": "Kannur, Kerala -- April 13, 2025\n\n**A heartwarming tale** unfolds in Kannur as a dedicated classmate demonstrates extraordinary kindness by building a robust concrete pathway to Gokuldas\u2019 home. This thoughtful act was offered as a special gift for Vishu, celebrating the strength of empathy and community support.\n\n*Driven by compassion*, the classmate recognized the urgent need for accessible and safe passage for someone recovering from an accident. Every stone laid on the pathway symbolizes a commitment to enhancing mobility and comfort, reflecting a deep sense of friendship and solidarity.\n\nThis inspiring story reminds us that even small, selfless actions can spark significant change, illuminating a beacon of hope and collective care throughout the community.",
+        "story_url": "https://www.manoramaonline.com/district-news/kannur/2025/04/14/gokuldas-classmate-visu-gift.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "\u0d2a\u0d4d\u0d30\u0d3f\u0d2f \u0d38\u0d41\u0d39\u0d43\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d46 \u0d1a\u0d47\u0d7c\u0d24\u0d4d\u0d24\u0d41\u0d2a\u0d3f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d38\u0d39\u0d2a\u0d3e\u0d20\u0d3f; \u0d35\u0d40\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d41\u0d33\u0d4d\u0d33 \u0d35\u0d34\u0d3f \u0d15\u0d4b ...",
+        "url": "https://www.manoramaonline.com/district-news/kannur/2025/04/14/gokuldas-classmate-visu-gift.html",
+        "datePublished": "2025-04-14T02:59:00.0000000",
+        "datePublishedFreshnessText": "31 minutes ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.manoramaonline.com</b>/district-news/kannur/2025/04/14/gokuldas-classmate-visu...",
+        "snippet": "Classmate&#39;s selfless <b>act</b>** built a concrete pathway to Gokuldas&#39; home for Vishu. This <b>heartwarming</b> story showcases the incredible kindness and support of a true friend and demonstrates the importance of community.",
+        "dateLastCrawled": "2025-04-14T03:03:00.0000000Z",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
     }
 }
