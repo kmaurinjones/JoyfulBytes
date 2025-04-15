@@ -2818,5 +2818,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
+    },
+    "2025-04-14": {
+        "date": "April 14, 2025",
+        "image_path": "./data/images/20250414-233003-1.png",
+        "story_summary": "Hartford -- April 14, 2025: **A surprising rescue unfolded** when a small dog ended up stranded on the roof of a two-and-a-half-story house at 291 New Park Ave. The pup had climbed through an open attic window, turning an ordinary day into an unexpected adventure.\n\n**Swift and courageous**, the Hartford Fire Department responded at around 3:45 p.m. Using a ladder truck, firefighters rescued the dog, who fortunately emerged unscathed. District Chief Mario Oquendo Jr. even joked about the dog's daring, highlighting its remarkable poise.\n\nThis incident, along with a previous rescue of a cat from a car engine, underscores the dedication and resourcefulness of first responders. Their actions not only saved lives but also warmed the hearts of the community.",
+        "story_url": "https://www.yahoo.com/news/firefighters-were-shocked-dogs-location-213125247.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Firefighters Were Shocked By Dog&#39;s Location During Home Rescue - Yahoo",
+        "url": "https://www.yahoo.com/news/firefighters-were-shocked-dogs-location-213125247.html",
+        "datePublished": "2025-04-14T22:45:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/news/firefighters-were-shocked-dogs-location-213125247.html",
+        "snippet": "The Hartford Fire Department was in for a surprise this Sunday when it received word about a dog in need of rescuing. Firefighters responded to a call from 291 New Park Ave. at around 3:45 p.m ...",
+        "dateLastCrawled": "2025-04-15T01:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
