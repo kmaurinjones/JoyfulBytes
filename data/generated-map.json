@@ -2837,5 +2837,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2025-04-15": {
+        "date": "April 15, 2025",
+        "image_path": "./data/images/20250415-233003-1.png",
+        "story_summary": "QUEENS, N.Y. -- April 15, 2025\n\n**Kokoro Cat Caf\u00e9** opened in Flushing by a passionate New York couple, Dragon Peng and Sherry Jiang, who were inspired by their travels and deep appreciation for cats. Their vision centers on rescuing stray felines and offering them a nurturing environment while giving visitors a unique space to experience cat companionship.\n\nIn just a short time, the caf\u00e9 has attracted thousands of visitors, bringing together families and individuals who find joy and comfort in the presence of these lovable creatures. The heartwarming encounters, such as a young boy's delight and the earnest hopes for adoption, underline the caf\u00e9's mission of creating a better life for cats in need.\n\nThis blend of **care**, **community**, and affection transforms every visit into an uplifting celebration of life, love, and the special bond between humans and animals.",
+        "story_url": "https://www.yahoo.com/lifestyle/cat-cafe-queens-helps-strays-225356363.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Cat cafe in Queens helps strays, rescues get adopted - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/cat-cafe-queens-helps-strays-225356363.html",
+        "datePublished": "2025-04-15T22:53:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/cat-cafe-queens-helps-strays-225356363.html",
+        "snippet": "QUEENS, N.Y. (PIX11) \u2014 A cat cafe that just opened in Flushing, Queens, is already garnering a ton of interest. It comes with a mission to help foster the stray cats it houses. Kokoro Cat Caf\u00e9 ...",
+        "dateLastCrawled": "2025-04-16T01:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
