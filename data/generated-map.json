@@ -2875,5 +2875,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Straight Dope"
+    },
+    "2025-04-17": {
+        "date": "April 17, 2025",
+        "image_path": "./data/images/20250417-233008-1.png",
+        "story_summary": "Nairobi, Kenya -- April 17, 2025.\n\n**Gruff the Buff**, a one-day-old buffalo calf, is rescued from the perils of the wild and finds a safe haven at Kaluku Nursery. The caretakers at Sheldrick Wildlife Trust provide him with warm stables, milk feeds, and vigilant care, ensuring his well-being.\n\n**Heartwarming** moments shine through as a brief video captures his tender transition from an orphaned calf to one gaining his footing with confidence. This *inspirational* tale celebrates resilience and the generous spirit of those who protect vulnerable lives. It is a story of hope and new beginnings that reminds us how every small life can overcome adversity.",
+        "story_url": "https://www.timesnownews.com/videos/viral-videos/gruff-the-buff-rescued-at-a-day-old-calf-finds-his-feet-in-heartwarming-video-video-151445385",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Gruff the Buff: Rescued at a Day Old, Calf Finds His Feet in ...",
+        "url": "https://www.timesnownews.com/videos/viral-videos/gruff-the-buff-rescued-at-a-day-old-calf-finds-his-feet-in-heartwarming-video-video-151445385",
+        "datePublished": "2025-04-17T18:00:00.0000000",
+        "datePublishedFreshnessText": "9 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.timesnownews.com/videos/viral-videos/gruff-the-buff-rescued-at-a-day-old...",
+        "snippet": "A video released by the Sheldrick Wildlife Trust captures the <b>heartwarming</b> story of a buffalo calf rescued at just a day old. The 21-second montage shows Gruff the Buff\u2019s arrival at Kaluku Nursery, where he eventually finds his feet. The orphan \u201chas swapped the dangers of the wild for a warm stable, milk feeds, and the watchful care of our Keepers\u201d the Nairobi, Kenya-based non-profit ...",
+        "dateLastCrawled": "2025-04-17T18:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times Now"
     }
 }
