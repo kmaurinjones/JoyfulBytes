@@ -2894,5 +2894,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times Now"
+    },
+    "2025-04-18": {
+        "date": "April 18, 2025",
+        "image_path": "./data/images/20250418-233008-1.png",
+        "story_summary": "Scottsdale -- April 18, 2025\n\n**The Scottsdale Saguaros celebrated their 26th annual Saguaro Olympiad event** by uniting local community members and professionals to raise between $700,000 and $800,000 for children\u2019s charities. The event underscored a spirit of generosity and togetherness, with everyone coming together for a day filled with sports and friendly competition.\n\n*Engaging field games such as pop-a-shot, corn hole, and dodgeball set a joyful atmosphere*, as key figures like **Tyler Carlisle** and **Braydon Dennis** expressed heartfelt gratitude for the day\u2019s success. Their words highlighted not only a fun gathering but also a commitment to giving back to the community. \n\nBy blending spirited contests with genuine philanthropy, the effort made a significant local impact, reinforcing community bonds and supporting children in need with uplifting moments shared by all.",
+        "story_url": "https://www.fox10phoenix.com/news/scottsdale-saguaros-host-26th-annual-saguaro-olympiad-event",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Scottsdale Saguaro&#39;s host 26th annual Saguaro Olympiad event",
+        "url": "https://www.fox10phoenix.com/news/scottsdale-saguaros-host-26th-annual-saguaro-olympiad-event",
+        "datePublished": "2025-04-18T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.fox10phoenix.com/news/scottsdale-saguaros-host-26th-annual-saguaro...",
+        "snippet": "The 26th annual Saguaro Olympiad was held in Scottsdale on April 18. The philanthropic group is celebrating by giving back to local children&#39;s charities. They say they raised between $700,000 and ...",
+        "dateLastCrawled": "2025-04-19T00:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "FOX 10 Phoenix"
     }
 }
