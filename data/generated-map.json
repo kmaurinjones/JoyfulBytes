@@ -2913,5 +2913,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "FOX 10 Phoenix"
+    },
+    "2025-04-19": {
+        "date": "April 19, 2025",
+        "image_path": "./data/images/20250419-233008-1.png",
+        "story_summary": "Location unknown -- April 19, 2025\n\n**In today\u2019s challenging world**, simple acts of kindness offer a powerful remedy for mental stress and hardship. This engaging narrative explains that even small gestures\u2014like giving up a seat or offering a smile\u2014can trigger the release of *feel-good* chemicals such as oxytocin, dopamine, serotonin, and endorphins, while reducing cortisol levels to ease stress.\n\n**Global research and real-world examples** highlight that these everyday acts not only boost mood but also strengthen social bonds and build emotional resilience. Studies from northern Uganda, Brazil, and Nigeria illustrate how kindness initiatives help heal trauma, alleviate depression, and foster supportive communities.\n\n**Ultimately**, the story stresses that incorporating kindness into daily life can serve as both a therapeutic intervention and a preventative measure against mental health challenges, transforming collective well-being and offering hope and renewal in even the toughest times.",
+        "story_url": "https://magazine.doctorsexplain.net/mental-health-benefits-of-acts-of-kindness",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "The Mental Health Benefits of Simple Acts of Kindness",
+        "url": "https://magazine.doctorsexplain.net/mental-health-benefits-of-acts-of-kindness",
+        "datePublished": "2025-04-19T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://magazine.doctorsexplain.net/mental-health-benefits-of-<b>acts</b>-of-kindness",
+        "snippet": "Discover how simple, everyday <b>acts</b> of kindness can significantly improve mental health. Backed by global research, real-world African and international case studies, and easy-to-understand science, this article explores how kindness rewires the brain, reduces stress, and supports emotional healing. A must-read for healthcare workers, policymakers, and patients alike.",
+        "dateLastCrawled": "2025-04-19T16:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
