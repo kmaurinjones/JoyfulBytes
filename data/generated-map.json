@@ -2931,5 +2931,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-04-20": {
+        "date": "April 20, 2025",
+        "image_path": "./data/images/20250420-233008-1.png",
+        "story_summary": "Chelsea, Michigan -- April 20, 2025\n\nIn a heartwarming act of community unity, the announcement that Serendipity Books would move just 350 feet sparked a remarkable event. Residents gathered eagerly, forming a human chain to pass precious books from hand to hand, symbolizing their deep love for literature and trust in one another.\n\nThe town\u2019s collective spirit turned an ordinary relocation into a moving celebration, where every book carried a story of friendship and shared passion. **This touching moment** highlighted how small actions can make a big impact when people come together with *warmth* and purpose.\n\nThe event stands as a lasting reminder that unity can transform everyday moments into memories that feel extraordinary and deeply enriching.",
+        "story_url": "https://www.manoramanews.com/gulf-and-global/latest/2025/04/20/unity-in-action-serendipity-books-human-chain-michigan.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "\u0d12\u0d24\u0d4d\u0d24\u0d41\u0d2a\u0d3f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d3e\u0d32\u0d4d\u200d \u0d32\u0d48\u0d2c\u0d4d\u0d30\u0d31\u0d3f\u0d2f\u0d41\u0d02 \u0d2a\u0d4b\u0d30\u0d41\u0d02; \u0d2e\u0d28\u0d37\u0d4d\u0d2f\u0d1a\u0d4d\u0d1a\u0d19\u0d4d\u0d19\u0d32 \u0d15\u0d4a\u0d23\u0d4d\u0d1f\u0d4d \u0d2a\u0d41\u0d38\u0d4d \u0d24\u0d15 \u0d15\u0d48\u0d2e\u0d3e\u0d31\u0d4d\u0d31\u0d02",
+        "url": "https://www.manoramanews.com/gulf-and-global/latest/2025/04/20/unity-in-action-serendipity-books-human-chain-michigan.html",
+        "datePublished": "2025-04-20T17:25:00.0000000",
+        "datePublishedFreshnessText": "10 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.manoramanews.com/gulf-and-global/latest/2025/04/20/unity-in-<b>act</b>ion...",
+        "snippet": "\u201cUnity moves mountains\u201d \u2014 a small town in Chelsea, Michigan, proved this true through a <b>heartwarming</b> <b>act</b>. When the owner of Serendipity Books announced the store\u2019s move just 350 feet away, book lovers came together. Forming a human chain, they passed the books hand-to-hand, turning the relocation into a beautiful symbol of community spirit.",
+        "dateLastCrawled": "2025-04-20T18:41:00.0000000Z",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d28\u0d4b\u0d30\u0d2e \u0d28\u0d4d\u0d2f\u0d42\u0d38\u0d4d"
     }
 }
