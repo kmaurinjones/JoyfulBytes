@@ -2969,5 +2969,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Toxigon"
+    },
+    "2025-04-22": {
+        "date": "April 23, 2025",
+        "image_path": "./data/images/20250422-233008-1.png",
+        "story_summary": "Japan -- April 22, 2025\n\n**Maggie Boynton\u2019s experience in Japan became a heartwarming reminder of human kindness.** Overwhelmed by the challenges of traveling with her newborn, Maggie was unexpectedly relieved when a thoughtful waitress at a small restaurant offered to hold the baby, allowing her and her husband a much-needed moment of peace.\n\n*This simple act of caring provided a brief escape from the stress of parenting on the go and highlighted the gentle spirit that pervades the local culture.* Maggie\u2019s gratitude and surprise underline how small gestures can transform a difficult situation into an uplifting memory, reinforcing the power of empathy and support during challenging times.\n\nHer story, shared widely online, resonates as a universal message that genuine care in everyday moments can bridge the gap between exhaustion and solace, reminding all that a little kindness goes a long way.",
+        "story_url": "https://people.com/waitress-kind-act-for-new-mom-in-japan-goes-viral-on-tiktok-exclusive-11709676",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Waitress&#39;s Kind Act for New Mom in Japan Goes Viral on TikTok (Exclusive)",
+        "url": "https://people.com/waitress-kind-act-for-new-mom-in-japan-goes-viral-on-tiktok-exclusive-11709676",
+        "datePublished": "2025-04-22T20:06:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://people.com/waitress-kind-<b>act</b>-for-new-mom-in-japan-goes-viral-on-tiktok...",
+        "snippet": "A viral TikTok captured the moment a waitress in Japan transformed a new mom&#39;s life during dinner by offering to carry her newborn so she and her husband could enjoy their meal.",
+        "dateLastCrawled": "2025-04-22T20:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "People"
     }
 }
