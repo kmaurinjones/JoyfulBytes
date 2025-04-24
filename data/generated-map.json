@@ -2988,5 +2988,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "People"
+    },
+    "2025-04-23": {
+        "date": "April 24, 2025",
+        "image_path": "./data/images/20250423-233008-1.png",
+        "story_summary": "Location unknown -- April 23, 2025\n\n**The Graduation Day Surprise:** The narrator rearranges a memorable graduation ceremony so that their ailing father can share the milestone. Professors and staff gather on the family driveway, transforming an ordinary setting into a heartfelt tribute despite a few unexpected hiccups.\n\n**A Moment of Bittersweet Revelations:** While accepting the diploma, the father signals the narrator to check a hidden pocket in the gown. Inside, a carefully folded letter reveals his deep regrets, lifelong sacrifices, and a secret savings meant to secure the family\u2019s future. The words convey apologies and the enduring bond they share.\n\n**A Journey of Forgiveness and Hope:** Embracing both pride and sorrow, the narrator resolves to honor the father's legacy by using the hidden funds to clear student debts and create a scholarship in his memory. This moving tale of love, regret, and forgiveness underscores that life\u2019s imperfections are the very essence of our strength.",
+        "story_url": "https://healthfood.onplusnews.com/p/i-moved-my-graduation-to-our-driveway-so-my-dad-could-see-it-3506",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "I Moved My Graduation To Our Driveway So My Dad Could See It",
+        "url": "https://healthfood.onplusnews.com/p/i-moved-my-graduation-to-our-driveway-so-my-dad-could-see-it-3506",
+        "datePublished": "2025-04-24T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://healthfood.onplusnews.com/p/i-moved-my-graduation-to-our-driveway-so-my-dad...",
+        "snippet": "\u201cYou performed well <b>today</b>,\u201d he said gently. \u201cYou\u2019ve made your father proud.\u201d \u201cI couldn\u2019t have achieved this without you,\u201d I responded, fighting back tears. \u201cYou have been my greatest teacher.\u201d His lips curled into a subtle smile. \u201cNot entirely everything,\u201d he replied.",
+        "dateLastCrawled": "2025-04-23T18:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
