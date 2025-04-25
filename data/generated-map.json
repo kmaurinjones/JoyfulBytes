@@ -3006,5 +3006,23 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-04-24": {
+        "date": "April 24, 2025",
+        "image_path": "./data/images/20250424-233008-5.png",
+        "story_summary": "Location unknown -- April 24, 2025\n\nIn a quaint town, **Adam**, an observant young man, notices peculiar patterns in everyday life. He is particularly moved by a scruffy terrier, **Rufus**, who visits a closed store daily with a silent purpose.\n\nAdam's curiosity deepens when he sees Rufus consistently pausing before an abandoned bike shop. One fateful evening, following Rufus, Adam uncovers a hidden tragedy at an old, decaying house. Inside, a frail German Shepherd, later named **Max**, desperately waits near makeshift bedding\u2014a poignant reminder of loss.\n\nIn a heartfelt discovery, Adam learns that Rufus had been returning daily with food to care for Max, his long-lost owner\u2019s other beloved companion. This bittersweet act of loyalty, filled with **quiet bravery** and _compassion_, ultimately inspires Adam to adopt both dogs. His simple devotion transforms lives, weaving a tale of resilience, care, and unspoken connection.\n\nIn these tender moments, Adam finds that even the smallest acts of empathy can hold immense meaning, capturing the silent language of love and loss.",
+        "story_url": "https://healthfood.onplusnews.com/p/dog-goes-to-closed-store-daily-then-leaves-one-evening-poor-boy-notices-and-follows-it-3524",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Dog Goes to Closed Store Daily then Leaves, One Evening Poor Boy ...",
+        "url": "https://healthfood.onplusnews.com/p/dog-goes-to-closed-store-daily-then-leaves-one-evening-poor-boy-notices-and-follows-it-3524",
+        "datePublished": "2025-04-25T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://healthfood.onplusnews.com/p/dog-goes-to-closed-store-daily-then-leaves-one...",
+        "snippet": "Because Adam always noticed the little things \u2014 like how a sandwich can mean survival, how grief can be silent, and how the smallest <b>acts</b> of loyalty can echo the loudest. What began with a boy\u2019s quiet observation became something far greater \u2014 a story of heartbreak, healing, and the extraordinary love between two dogs who refused to give up on each other\u2026 and the human who refused to ...",
+        "dateLastCrawled": "2025-04-24T18:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
