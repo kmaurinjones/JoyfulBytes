@@ -3024,5 +3024,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-04-25": {
+        "date": "April 26, 2025",
+        "image_path": "./data/images/20250425-233008-1.png",
+        "story_summary": "Location unknown --, April 25, 2025\n\n**In a heartwarming moment during the lockdown, a dad in his 50s and his spirited teen daughter shocked viewers with a playful dance battle.** They traded amusing challenges and clever banter to Flo Rida\u2019s \"Low,\" showing that even in difficult times, family fun can spark joy. Their lighthearted moves and affectionate rivalry united a community in laughter and emotional uplift.\n\n**Their energetic performance quickly went viral, amassing millions of views and inspiring messages of love and support.** The video captured the essence of resilience and the beauty of shared moments, reminding everyone that small acts of joy can brighten even the darkest days. The delightful competition between father and daughter continues to resonate, symbolizing the power of warmth, connection, and the simple magic of togetherness.",
+        "story_url": "https://www.upworthy.com/dad-daughter-adorable-dance-battle-ex1",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Dad-daughter dance battle delights the masses - Upworthy",
+        "url": "https://www.upworthy.com/dad-daughter-adorable-dance-battle-ex1",
+        "datePublished": "2025-04-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.upworthy.com</b>/dad-daughter-adorable-dance-battle-ex1",
+        "snippet": "While stuck at home, the Starkeys passed the time by having an epic daughter-and-daddy dance battle. Dad had some impressive moves and many people say he won the dance-off.",
+        "dateLastCrawled": "2025-04-26T01:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Upworthy"
     }
 }
