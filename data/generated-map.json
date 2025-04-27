@@ -3043,5 +3043,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Upworthy"
+    },
+    "2025-04-26": {
+        "date": "April 27, 2025",
+        "image_path": "./data/images/20250426-233007-1.png",
+        "story_summary": "MILWAUKEE -- April 26, 2025\n\n**An abandoned boat** stranded on Milwaukee\u2019s lakefront has unexpectedly united the community. After being left to decay, the vessel became a surprising symbol of togetherness and light-hearted defiance against urban neglect.\n\n*Community members gathered* to hold a heartfelt 'funeral' for the boat, celebrating its quirky charm and reminding everyone that **every ending is a new beginning**. Organizers and onlookers found joy and connection through this unconventional farewell, turning a forgotten relic into a memorable local event.\n\nCity leaders have now addressed the boat\u2019s removal, aided by an anonymous donor willing to cover the costs despite the vessel\u2019s weathered state and heavy graffiti. With removal efforts already costing thousands of dollars and countless hours, the event highlights both the challenges of urban decay and the creative spirit of a community determined to find beauty in imperfection.",
+        "story_url": "https://www.cbs58.com/news/as-abandoned-boat-remains-on-milwaukee-s-lakefront-people-gather-to-celebrate-it-with-funeral",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "As abandoned boat remains on Milwaukee\u2019s lakefront, people gather to ...",
+        "url": "https://www.cbs58.com/news/as-abandoned-boat-remains-on-milwaukee-s-lakefront-people-gather-to-celebrate-it-with-funeral",
+        "datePublished": "2025-04-26T22:32:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.cbs58.com</b>/<b>news</b>/as-abandoned-boat-remains-on-milwaukee-s-lakefront-people...",
+        "snippet": "MILWAUKEE (CBS 58) \u2013 It\u2019s been days since city leaders in Milwaukee said the abandoned vessel left stranded on Milwaukee\u2019s lakefront would be removed, and people have continued to gather in ...",
+        "dateLastCrawled": "2025-04-26T22:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "CBS 58"
     }
 }
