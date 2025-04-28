@@ -3062,5 +3062,23 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "CBS 58"
+    },
+    "2025-04-27": {
+        "date": "April 28, 2025",
+        "image_path": "./data/images/20250427-233008-3.png",
+        "story_summary": "Kandy -- April 27, 2025 -- In a heartfelt act of unity, several mosques in Kandy opened their doors to Buddhist pilgrims attending the 2025 Siri Dalada Wandanawa, celebrating the revered Sacred Tooth Relic. **Community leaders** and volunteers from the Kandy Masjid Federation, Muslim Traders\u2019 Association, and City Jamiyyathul Ulama organized the gesture, offering cool water, nourishing food, and places to rest, emphasizing the importance of compassion and respect.\n\nWhat unfolded was a vivid reminder that *faith* can transcend historical divides. Against memories of past communal strife, the initiative invited healing and mutual respect, affirming that unity can emerge from humble acts. The emotional response of grateful pilgrims underscored a deep commitment to shared values and renewed interfaith dialogue.\n\nThis quiet revolution, born from genuine community spirit, lays the foundation for a more harmonious future where every act of kindness enriches our collective journey.",
+        "story_url": "https://ceylontoday.lk/2025/04/28/bridging-faiths-a-quiet-revolution-in-kandy/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Bridging Faiths: A Quiet Revolution in Kandy - Ceylon Today",
+        "url": "https://ceylontoday.lk/2025/04/28/bridging-faiths-a-quiet-revolution-in-kandy/",
+        "datePublished": "2025-04-28T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://ceylon<b>today</b>.lk/2025/04/28/bridging-faiths-a-quiet-revolution-in-kandy",
+        "snippet": "What makes the 2025 gesture even more significant is this historical shadow. The decision by Muslim leaders and volunteers to open mosque doors during a Buddhist religious event is not just an <b>act</b> of generosity\u2014it is an <b>act</b> of courage. It is a willingness to face history, to move beyond it, and to craft something new and healing in its place.",
+        "dateLastCrawled": "2025-04-28T01:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
