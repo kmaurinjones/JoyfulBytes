@@ -3080,5 +3080,23 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-04-28": {
+        "date": "April 28, 2025",
+        "image_path": "./data/images/20250428-233007-1.png",
+        "story_summary": "Location unknown -- April 28, 2025\n\n**A heartfelt tribute to community involvement**: This story follows a retired individual who, after years of busy career life, finds renewed purpose by giving back to the community. The author shares wisdom and life lessons at local schools and community centers, inspiring young minds and enriching lives with motivational talks.\n\n**Acts of kindness and unity**: Through volunteering at food camps, clean-up drives, and mentoring sessions, the storyteller actively fosters a spirit of togetherness. They also offer tutoring and organize playful activities like table tennis coaching, strengthening bonds across generations.\n\n**Celebrating art and cultural connection**: By planning creative events that highlight local talent and encourage self-expression, the author nurtures the community\u2019s heartbeat. Online exchanges and heartfelt messages further illuminate the collective resilience and beauty of shared experiences.\n\nThe narrative radiates warm optimism and reminds us that small, selfless actions uplift everyone, echoing the belief that _we rise by lifting others_.",
+        "story_url": "https://retiredkalam.com/2025/04/28/the-joy-of-community-involvement/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "# The Joy of Community Involvement # \u2013 Retired\u0915\u0932\u092e",
+        "url": "https://retiredkalam.com/2025/04/28/the-joy-of-community-involvement/",
+        "datePublished": "2025-04-28T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://retiredkalam.com/2025/04/28/the-joy-of-community-involvement",
+        "snippet": "It was <b>heartwarming</b> to see how unity can overcome adversity. Even <b>today</b>, I make it a point to volunteer at least twice a month. I firmly believe that small <b>acts</b>, when done together, create ripples of positive change. 3. Organizing Artistic and Cultural Events Art and culture are the heartbeat of any community.",
+        "dateLastCrawled": "2025-04-28T22:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": true
     }
 }
