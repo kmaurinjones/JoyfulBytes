@@ -3117,5 +3117,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0932\u094b\u0915\u092e\u0924"
+    },
+    "2025-04-30": {
+        "date": "May 01, 2025",
+        "image_path": "./data/images/20250430-233008-1.png",
+        "story_summary": "Location unknown -- April 30, 2025\n\n**In an uplifting tale of heart and creativity,** the narrative gathers a collection of genuine moments that celebrate kindness and resilience in everyday life. Among these, one story shines brightly\u2014as a seasoned tailor from Gujarat turns leftover fabrics into vibrant outfits, transforming discarded scraps into custom-made, joyful clothing for children and rekindling hope with every stitch.\n\n*This simple act of care and ingenuity stands as a reminder* that small gestures can create big smiles. Amid other inspiring snippets highlighting tender moments, personal victories, and acts of quiet courage, each anecdote underscores the beauty in everyday kindness. Together, these snapshots invite us to cherish compassion, find wonder in the ordinary, and embrace the power of heartfelt goodwill.",
+        "story_url": "https://www.boredpanda.com/wholesome-uplifting-moments/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "110 Pure And Uplifting Moments That Deserve A Spot In Your Daily Scroll ...",
+        "url": "https://www.boredpanda.com/wholesome-uplifting-moments/",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.boredpanda.com</b>/wholesome-uplifting-moments",
+        "snippet": "<b>Today</b>, we\u2019ve got a story that\u2019s going to <b>feel</b> like a cozy blanket on a bad day. It\u2019s not flashy or dramatic, just honest and kind. Bored Panda spoke to a man who doesn\u2019t just talk kindness, he sews it. Meet Ravi Shah, a tailor from Gujarat who stitches joy into every thread.",
+        "dateLastCrawled": "2025-05-01T03:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bored Panda"
     }
 }
