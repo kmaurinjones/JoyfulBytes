@@ -3136,5 +3136,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Bored Panda"
+    },
+    "2025-05-01": {
+        "date": "May 02, 2025",
+        "image_path": "./data/images/20250501-233007-1.png",
+        "story_summary": "2633 Ferris St, Dallas, TX -- May 01, 2025\n\n**CleanUP** hosts a heartfelt community care event at Downtown Dallas Outreach. This initiative provides free showers and haircuts to individuals facing hardships, ensuring everyone experiences warmth, dignity, and renewed self-esteem.\n\nThe event focuses on essential hygiene and grooming services that not only meet basic needs but also uplift spirits with a fresh look. The commitment to **inclusivity** and *compassion* shines throughout the day, fostering an environment where care and community pride are abundant.\n\nThrough actions that restore hope and empower the vulnerable, CleanUP\u2019s dedicated team illustrates that even small acts can lead to significant transformations. This special day becomes a celebration of human kindness, emphasizing that every individual deserves a fresh start and the opportunity to feel valued.",
+        "story_url": "https://www.cleanupusa.org/events/showers-and-haircuts-downtown-dallas-outreach-2025-05-02",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Showers and Haircuts Event at Downtown Dallas Outreach",
+        "url": "https://www.cleanupusa.org/events/showers-and-haircuts-downtown-dallas-outreach-2025-05-02",
+        "datePublished": "2025-05-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cleanupusa.org/events/showers-and-haircuts-downtown-dallas-outreach-2025-05-02",
+        "snippet": "Showers and Haircuts for All at Downtown Dallas Outreach. Join us for a <b>heartwarming</b> day of community care at the Downtown Dallas Outreach, where CleanUP is offering showers and haircuts to those in need. This special event will be held at 2633 Ferris St, Dallas, TX, on May 2, 2025, starting at 9:00 AM and lasting for four hours. Come experience the kindness and support that CleanUP is known for.",
+        "dateLastCrawled": "2025-05-01T03:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
