@@ -3154,5 +3154,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-05-02": {
+        "date": "May 02, 2025",
+        "image_path": "./data/images/20250502-233007-1.png",
+        "story_summary": "Staten Island, N.Y. -- May 02, 2025\n\n**In a heartwarming display of community spirit**, the students and faculty of St. Peter\u2019s Boys High School raised $12,000 during their annual Eagles for a Cause day of service. They presented this generous donation to Sunrise Day Camp, guaranteeing a summer of joyful experiences for two children with cancer and their siblings, free of charge.\n\n**Principal Michael Cosentino** and dedicated organizers celebrated this milestone, highlighting the school\u2019s deep values of faith, service, and compassion. Their united efforts brought together enthusiastic young individuals and supportive staff, lighting a spark of hope in lives challenged by serious illness.\n\n*The commitment to creating positive change and memorable moments* radiates throughout this event, underscoring how every act of kindness can transform lives and uplift communities.",
+        "story_url": "https://www.silive.com/education/2025/05/amazing-and-inspiring-st-peters-boys-students-raise-amazing-12k-to-send-kids-with-cancer-to-camp.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "\u2018Amazing and inspiring\u2019: St. Peter\u2019s Boys students raise ... - silive",
+        "url": "https://www.silive.com/education/2025/05/amazing-and-inspiring-st-peters-boys-students-raise-amazing-12k-to-send-kids-with-cancer-to-camp.html",
+        "datePublished": "2025-05-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.silive.com</b>/education/2025/05/amazing-and-inspiring-st-peters-boys-students...",
+        "snippet": "STATEN ISLAND, N.Y. \u2014 Students of St. Peter\u2019s Boys High School have made a big impact in the lives of two children with cancer, who will enjoy summer camp this year completely free of charge.",
+        "dateLastCrawled": "2025-05-02T23:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "silive"
     }
 }
