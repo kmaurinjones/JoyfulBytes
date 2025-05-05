@@ -3191,5 +3191,24 @@
         "language": "en",
         "isNavigational": true,
         "noCache": false
+    },
+    "2025-05-04": {
+        "date": "May 05, 2025",
+        "image_path": "./data/images/20250504-233008-1.png",
+        "story_summary": "Western Colorado -- May 04, 2025\n\n**In this reflective narrative**, the speaker shares her personal journey to care for her mental health amid life\u2019s challenges. A significant event in February 2022 prompts her to reassess her well-being, reminding her that mental and physical health are deeply intertwined.\n\n**Embracing positivity**, she turns to activities that restore her spirit\u2014a refreshing walk among yellow-leafed trees that brings a burst of happiness, exercising at home by lifting makeshift weights and running off anger, and even enjoying quiet moments reading or crafting. Such practices help her balance emotions and reclaim joy.\n\n**Relying on a supportive network**, she actively seeks comfort from friends, family, and her spiritual faith, which bolsters her resilience when faced with negativity. This honest account showcases practical strategies to nurture mental wellness and highlights that even on tough days, small acts of self-care can ignite profound hope and renewal.",
+        "story_url": "https://smalltownspanishteacher.com/2025/05/05/simple-stories-in-spanish-told-faster-mi-salud-mental/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Simple Stories in Spanish Told Faster: Mi salud mental",
+        "url": "https://smalltownspanishteacher.com/2025/05/05/simple-stories-in-spanish-told-faster-mi-salud-mental/",
+        "datePublished": "2025-05-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://smalltownspanishteacher.com/2025/05/05/simple-<b>stories</b>-in-spanish-told-faster...",
+        "snippet": "<b>Today</b> I am going to retell it, faster. Here is a link to the original episode. I care a lot about mental health. I usually <b>feel</b> like I have a <b>good</b> grasp of my own mental health, but there are days I want to ignore the world and all my responsibilities in it. I have many activities that help boost my mental health and <b>today</b> I would like to share ...",
+        "dateLastCrawled": "2025-05-05T01:40:00.0000000Z",
+        "language": "es",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Small Town Spanish Teacher"
     }
 }
