@@ -3210,5 +3210,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Small Town Spanish Teacher"
+    },
+    "2025-05-05": {
+        "date": "May 05, 2025",
+        "image_path": "./data/images/20250505-233008-1.png",
+        "story_summary": "Nagpur -- May 05, 2025\n\n**In a heartwarming show of care**, members of the Divisional Railway Users' Consultative Committee (DRUCC) and Station Consultative Committee (SSC) gathered at Kamptee railway station to distribute chilled buttermilk to weary travellers. **Their gesture brought much-needed relief** amidst soaring summer temperatures, offering both physical refreshment and an uplifting sense of community.\n\n*Volunteers extended kindness and cool treats*, mingling with appreciative passengers and transforming a regular day into one filled with smiles and gratitude. This initiative underscored the community\u2019s dedication to public welfare and the power of small acts in brightening lives. The devoted teams pledged to continue these supportive efforts, making every journey a bit more enjoyable.",
+        "story_url": "https://timesofindia.indiatimes.com/city/nagpur/cooling-off-in-style-drucc-ssc-spread-cheer-with-buttermilk-at-kamptee-rly-station/articleshow/120909519.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Cooling Off In Style! DRUCC &amp; SSC Spread Cheer With Buttermilk At ...",
+        "url": "https://timesofindia.indiatimes.com/city/nagpur/cooling-off-in-style-drucc-ssc-spread-cheer-with-buttermilk-at-kamptee-rly-station/articleshow/120909519.cms",
+        "datePublished": "2025-05-05T19:16:00.0000000",
+        "datePublishedFreshnessText": "8 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/city/nagpur/cooling-off-in-style-drucc-ssc-spread...",
+        "snippet": "The event, organised at the bustling station, saw volunteers enthusiastically handing out chilled buttermilk to commuters, earning smiles and gratitude.",
+        "dateLastCrawled": "2025-05-05T19:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
