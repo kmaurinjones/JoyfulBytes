@@ -3229,5 +3229,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2025-05-07": {
+        "date": "May 08, 2025",
+        "image_path": "./data/images/20250507-233008-3.png",
+        "story_summary": "Location unknown -- May 07, 2025\n\n**A devoted German Shepherd embraces a new role** as the steadfast guardian of newborn Parrish. Arriving into a household filled with caring pets and busy activity, this brave canine takes on the promise to protect the tiniest member at all costs, showing a rare blend of loyalty and gentle valor.\n\nIn this touching narrative, family members and long-time admirers celebrate his **heartfelt commitment** and *endearing charm*. The warm welcome from the entire pack reinforces a bond built on shared care, unity, and the promise of many future adventures, ensuring that Parrish will always be surrounded by love and unwavering support.",
+        "story_url": "https://www.yahoo.com/lifestyle/german-shepherd-declares-himself-newborn-224500864.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "German Shepherd Declares Himself Newborn Baby\u2019s Bodyguard ... - Yahoo",
+        "url": "https://www.yahoo.com/lifestyle/german-shepherd-declares-himself-newborn-224500864.html",
+        "datePublished": "2025-05-07T22:45:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/lifestyle/german-shepherd-declares-himself-newborn-224500864.html",
+        "snippet": "The <b>heartwarming</b> scene is just too precious and many of McMillan&#39;s longtime fans chimed in to say as much. As one person wrote, &quot;No one is ever going to hurt that baby. He&#39;s well protected.&quot;",
+        "dateLastCrawled": "2025-05-07T23:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
