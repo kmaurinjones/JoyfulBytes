@@ -3248,5 +3248,32 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2025-05-08": {
+        "date": "May 08, 2025",
+        "image_path": "./data/images/20250508-233007-1.png",
+        "story_summary": "Location unknown -- May 08, 2025\n\n**In Delhi**, a memorable encounter unfolds during a taxi ride as a foreign traveler, Tara Ingram, politely asks her auto driver for change. The driver, with a heartfelt smile and warm reassurance, gently dismisses her request with kind words, easing her concern as he says, 'Koi baat nahi. Jaiyye aap.'\n\n**A moment of genuine connection** deepens when a helpful bystander translates her gratitude, further enriching the heartfelt exchange. Moved by his sincere care, Tara presents the driver with an unexpected gift of Rs 2,000, a gesture that delights him and underscores the profound impact of small acts of kindness.\n\n**This uplifting experience** resonates widely, inspiring those who witness it to value everyday compassion and generosity, and reminding everyone of the beauty found in simple human interactions.",
+        "story_url": "https://www.indiatoday.in/trending-news/story/tourist-offers-rs-2000-to-delhi-auto-driver-who-refused-fare-in-wholesome-video-2721728-2025-05-08",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Tourist offers Rs 2000 to Delhi auto driver who refused ... - India Today",
+        "url": "https://www.indiatoday.in/trending-news/story/tourist-offers-rs-2000-to-delhi-auto-driver-who-refused-fare-in-wholesome-video-2721728-2025-05-08",
+        "datePublished": "2025-05-08T13:17:00.0000000",
+        "datePublishedFreshnessText": "14 hours ago",
+        "video": {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=AC0E0C01B104262FD1DAAC0E0C01B104262FD1DA",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.vu5ePi50VF9rP3Gbr0Kq5A&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "",
+            "sourceWidth": 128,
+            "sourceHeight": 72,
+            "videoId": "AC0E0C01B104262FD1DAAC0E0C01B104262FD1DA"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.india<b>today</b>.in/trending-news/story/tourist-offers-rs-2000-to-delhi-auto...",
+        "snippet": "Foreign tourist and Delhi auto driver share <b>heartwarming</b> moment Driver refuses change, says \u2018No problem, please go\u2019 politely The video has gone viral on social media A video of a wholesome interaction between a foreign tourist and an auto driver in Delhi has gone viral on social media. In the ...",
+        "dateLastCrawled": "2025-05-08T13:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "India Today"
     }
 }
