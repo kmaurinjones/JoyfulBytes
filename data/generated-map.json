@@ -3275,5 +3275,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "India Today"
+    },
+    "2025-05-09": {
+        "date": "May 10, 2025",
+        "image_path": "./data/images/20250509-233008-1.png",
+        "story_summary": "Milford, Conn. -- May 09, 2025\n\n**A hero emerges in an unforgettable act of canine loyalty.** In Milford, a couple's dog named Reggie rescued his ill companion, Yogi, during a seizure by gently rolling him around to help clear his throat, an act that likely saved Yogi\u2019s life.\n\n**The emotional moment unfolds as Yogi, a French bulldog battling epilepsy from a young age, endures a severe seizure.** Now seven years old, Yogi faces ongoing health challenges, yet Reggie, a spirited boxer, proves to be a lifesaver with his timely intervention that prevented Yogi from aspirating.\n\n**The family\u2019s heartfelt account and a moving video posted on Facebook deeply resonate with viewers.** Their story is celebrated for highlighting the power of compassion and the extraordinary bond between two canine companions.",
+        "story_url": "https://www.yahoo.com/news/video-dog-saves-another-dog-162839661.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "VIDEO: Dog saves another dog who was having seizure, Milford ... - Yahoo",
+        "url": "https://www.yahoo.com/news/video-dog-saves-another-dog-162839661.html",
+        "datePublished": "2025-05-09T16:28:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.yahoo.com</b>/news/video-dog-saves-another-dog-162839661.html",
+        "snippet": "MILFORD, Conn. (WTNH) \u2014 A Milford couple says one of their dogs is only alive because of the quick thinking of their other dog. That dog is now being praised as a very good boy.",
+        "dateLastCrawled": "2025-05-09T20:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yahoo"
     }
 }
