@@ -3294,5 +3294,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Yahoo"
+    },
+    "2025-05-10": {
+        "date": "May 10, 2025",
+        "image_path": "./data/images/20250510-233008-1.png",
+        "story_summary": "Florissant, Mo -- May 10, 2025\n\nIn the wake of a fierce storm that battered Florissant communities, **Jeanicia Jones** emerges as a beacon of compassion and resilience.\n\nWhile surveying her damaged yard, she witnesses an elderly man, around 92, struggling to clear debris, and his wife, 90, by his side.\n\nMoved by their determination, Jeanicia taps into her deep sense of community, immediately reaching out for help. *Her heartfelt actions* prompt a local disaster relief agency to intervene quickly, restoring their surroundings and highlighting the power of a caring neighbor.\n\nJeanicia\u2019s courageous step not only transforms distress into hope but also serves as an uplifting reminder that small acts of kindness can unite us all. Her story urges everyone to take that extra step, ensuring no one is left to face challenges alone. By sharing her experience on social media, she inspires others to connect and support one another, reinforcing the true meaning of community.",
+        "story_url": "https://www.ksdk.com/article/life/heartwarming/good-samaritan-helps-elderly-neighbors-storm-damage-now-she-plans-honor-the-90-year-old-woman-mothers-day/63-e9ba5219-e493-4f30-932d-66009f73d161",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Florissant woman brings Mother\u2019s Day joy to storm-struck neighbors ...",
+        "url": "https://www.ksdk.com/article/life/heartwarming/good-samaritan-helps-elderly-neighbors-storm-damage-now-she-plans-honor-the-90-year-old-woman-mothers-day/63-e9ba5219-e493-4f30-932d-66009f73d161",
+        "datePublished": "2025-05-10T23:01:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.ksdk.com</b>/article/life/<b>heartwarming</b>/good-samaritan-helps-elderly-neighbors...",
+        "snippet": "<b>Heartwarming</b> Good Samaritan helps elderly neighbors get rid of storm damage, now she plans to honor the 90-year-old woman for Mother&#39;s Day",
+        "dateLastCrawled": "2025-05-10T23:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ksdk.com"
     }
 }
