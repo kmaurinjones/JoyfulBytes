@@ -3313,5 +3313,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "ksdk.com"
+    },
+    "2025-05-11": {
+        "date": "May 12, 2025",
+        "image_path": "./data/images/20250511-233003-1.png",
+        "story_summary": "Location unknown -- May 11, 2025\n\n**Gratitude journaling** emerges as a simple yet profound practice to uplift mental well-being. By dedicating just a few minutes each morning to note down specific things to be thankful for, individuals experience a noticeable shift in their mindset, reducing stress and fostering a sense of calm.\n\n*Scientific research* underscores that this daily habit activates brain regions linked to positive emotions, lowers cortisol levels, and strengthens emotional resilience. People report improved sleep quality, heightened mindfulness, and an optimistic outlook on life.\n\nMoreover, consistent reflection on gratitude not only boosts self-esteem but also enriches relationships. Expressing thanks deepens bonds and encourages open communication, helping individuals feel more connected to those around them.\n\nThis practice, accessible to anyone with a notebook and a few quiet moments, offers a pathway to a happier, healthier life by transforming everyday challenges into opportunities for growth and appreciation.",
+        "story_url": "https://www.timesnownews.com/health/can-gratitude-journaling-every-morning-improve-mental-health-article-151610933",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Can Gratitude Journaling Every Morning Improve Mental Health?",
+        "url": "https://www.timesnownews.com/health/can-gratitude-journaling-every-morning-improve-mental-health-article-151610933",
+        "datePublished": "2025-05-12T00:30:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.timesnow<b>news</b>.com/health/can-gratitude-journaling-every-morning-improve...",
+        "snippet": "In a world that often focuses on quick fixes and fast-paced living, one practice stands out as both simple and effective in transforming mental health: gratitude journaling.Just a few minutes each morning dedicated to reflecting on what you&#39;re thankful for can help shift your mindset, reduce stress, and improve overall mental well-being.While it may seem like a small task, the impact of a ...",
+        "dateLastCrawled": "2025-05-12T00:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times Now"
     }
 }
