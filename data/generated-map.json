@@ -3332,5 +3332,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times Now"
+    },
+    "2025-05-12": {
+        "date": "May 13, 2025",
+        "image_path": "./data/images/20250512-233008-1.png",
+        "story_summary": "Location unknown -- May 12, 2025\n\n**A new chapter unfolds** as the storyteller embarks on a transformative journey with the Art of Living Happiness Programme. Embracing the calm of early mornings and moments of quiet reflection, a close-knit group named **Pancham** comes together, each member contributing to a harmonious blend of energy and hope.\n\nThe workshop introduces life-enhancing practices including mindfulness, yoga, and Sudarshan Kriya. A simple yet profound question about the *responsibility of the mind* sparks deep personal insight, encouraging everyone to live in the present and unlearn old patterns.\n\nDuring a serene morning session, the author experiences a moment of liberation by dancing with eyes closed, unburdened by hesitation. This is followed by a warm group breakfast and intimate one-on-one exchanges filled with honest reflections and supportive notes.\n\nThe experience leaves a lasting impression, as each heart is touched by joyful revelations and the power of genuine connection. It is a celebration of self-discovery and emotional freedom, inspiring readers to pause, reflect, and nurture the joy of being alive.",
+        "story_url": "https://retiredkalam.com/2025/05/13/my-journey-with-art-of-living/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "#My Journey with \u201d Art of Living\u201d \u2013 Retired\u0915\u0932\u092e",
+        "url": "https://retiredkalam.com/2025/05/13/my-journey-with-art-of-living/",
+        "datePublished": "2025-05-13T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://retiredkalam.com/2025/05/13/my-journey-with-art-of-living",
+        "snippet": "<b>Today</b> marked the final and most memorable day of our four-day journey. And what a unique celebration it was! ... we moved into a <b>heartwarming</b> group activity. Each group had to prepare breakfast together. ... and we all shared our creations. This simple <b>act</b> of eating together, laughing together, and sharing stories brought us even closer.",
+        "dateLastCrawled": "2025-05-13T01:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
     }
 }
