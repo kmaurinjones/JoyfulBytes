@@ -3350,5 +3350,23 @@
         "language": "en",
         "isNavigational": false,
         "noCache": true
+    },
+    "2025-05-13": {
+        "date": "May 14, 2025",
+        "image_path": "./data/images/20250513-233007-1.png",
+        "story_summary": "Waltham --, May 13, 2025\n\n**Nero and Perry**, two charming 8-month-old kittens, captivate hearts with their delightful bond. *Nero*, a sleek, reserved beauty with a distinctive white patch, finds comfort and encouragement in the ever-affectionate Perry, whose warm personality and playful antics light up every moment.\n\nTheir story is one of growing trust and companionship as Perry, known for his friendly spirit, gently guides Nero out of her shell. Together, they express their love through soft meows, mutual cuddles, and shared adventures around their cozy world.\n\nThe pair now eagerly awaits a forever home where an experienced, patient adopter can nurture Nero\u2019s blossoming confidence while cherishing the inseparable duo. Their enchanting journey is a celebration of loyalty, warmth, and the transformative power of companionship.",
+        "story_url": "https://walthamtimes.org/2025/05/13/an-adorable-cat-couple-nero-and-perry-are-a-package-deal/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "An adorable cat couple, Nero and Perry, are a package deal",
+        "url": "https://walthamtimes.org/2025/05/13/an-adorable-cat-couple-nero-and-perry-are-a-package-deal/",
+        "datePublished": "2025-05-14T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://walthamtimes.org/2025/05/13/an-adorable-cat-couple-nero-and-perry-are-a...",
+        "snippet": "This adorable duo has made it clear: Their love story isn\u2019t meant to be a solo <b>act</b>. They are a package deal, a bonded pair whose comfort and joy are deeply intertwined. Watching them together \u2014 Perry\u2019s playful nudges of encouragement toward Nero, their shared naps curled up in a cozy ball \u2014 is a <b>heartwarming</b> testament to their special bond.",
+        "dateLastCrawled": "2025-05-14T00:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
     }
 }
