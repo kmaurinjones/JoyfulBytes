@@ -3368,5 +3368,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": true
+    },
+    "2025-05-14": {
+        "date": "May 14, 2025",
+        "image_path": "./data/images/20250514-233008-1.png",
+        "story_summary": "Windsor, Canada -- May 14, 2025\n\nIn the shadow of escalating trade tensions and aggressive political rhetoric, neighbors along the US-Canada border find solace in heartfelt music and acts of kindness. At hubs like Toast restaurant by the Detroit River, locals gather to share food, song, and generous gestures, bridging divides with warmth and humor.\n\nAmid economic uncertainty and sharp political divides\u2014highlighted by a trade war and bold moves by high-ranking leaders\u2014communities come together in moments of levity. A memorable act unfolds when an American couple pays for the entire meal, symbolizing mutual respect and pride.\n\nResidents express their resolve through spirited karaoke sessions and passionate words, underlining the idea that unity and support can overcome the most challenging times. **Heartfelt** interactions and *indomitable* spirit shine through in every melody and shared smile.",
+        "story_url": "https://www.thestar.com.my/lifestyle/people/2025/05/14/songs-and-acts-of-generosity-are-a-balm-for-locals-along-us-canada-border",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Songs and acts of generosity are a balm for locals along US-Canada ...",
+        "url": "https://www.thestar.com.my/lifestyle/people/2025/05/14/songs-and-acts-of-generosity-are-a-balm-for-locals-along-us-canada-border",
+        "datePublished": "2025-05-14T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.thestar.com.my</b>/lifestyle/people/2025/05/14/songs-and-<b>acts</b>-of-generosity...",
+        "snippet": "\u201cAnd really it was very <b>heartwarming</b> to see, because of everything, like all the dividedness between us <b>today</b>, and it was just two people, just randomly coming to Canada, randomly coming to this ...",
+        "dateLastCrawled": "2025-05-14T20:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "The Star"
     }
 }
