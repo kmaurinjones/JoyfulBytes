@@ -3387,5 +3387,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "The Star"
+    },
+    "2025-05-15": {
+        "date": "May 16, 2025",
+        "image_path": "./data/images/20250515-233007-1.png",
+        "story_summary": "Florida -- May 15, 2025\n\n**Veronica**, a gentle and loving one-year-old Lab mix with an old soul, captured hearts at Walton County Animal Services. Once a stray, she demonstrated an almost magical intuition when her adoptive mom finalized the paperwork. **Her tender moment of quietly crawling into her new owner\u2019s lap and giving a heartfelt nuzzle perfectly expressed the deep bond and trust she felt.**\n\n*Her heartfelt gesture, witnessed by many and shared online, reminded everyone of the profound connection between humans and their canine companions, evoking tears of joy and reaffirming the beauty of unconditional love.*",
+        "story_url": "https://www.pupvine.com/witness-this-dogs-heartwarming-reaction-after-she-was-adopted/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Witness This Florida Dog&#39;s Heartwarming Reaction After She ... - PupVine",
+        "url": "https://www.pupvine.com/witness-this-dogs-heartwarming-reaction-after-she-was-adopted/",
+        "datePublished": "2025-05-16T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.pupvine.com/witness-this-dogs-<b>heartwarming</b>-re<b>act</b>ion-after-she-was-adopted",
+        "snippet": "While I like to think that every dog is unique and special, Veronica\u2019s intuitive reaction to being adopted isn\u2019t entirely exclusive. Just recently, the same Florida shelter shared another <b>heartwarming</b> video of a dog named Luna, whose response was really similar to Veronica\u2019s.. As her new mom completed the paperwork, Luna stood on the chair overlooking the entire process and waiting for ...",
+        "dateLastCrawled": "2025-05-16T02:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PupVine"
     }
 }
