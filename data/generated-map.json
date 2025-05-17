@@ -3406,5 +3406,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "PupVine"
+    },
+    "2025-05-16": {
+        "date": "May 17, 2025",
+        "image_path": "./data/images/20250516-233008-1.png",
+        "story_summary": "Location unknown -- May 16, 2025\n\n**Arnold Lobel's Inspiring Wisdom**\nBeloved author and illustrator of simple yet deeply meaningful stories, Arnold Lobel is remembered not only for his charming children's books but also for his powerful messages on friendship, imagination, and kindness. His words encourage us to find comfort in close bonds, to nurture our creativity, and to appreciate life's small pleasures.\n\nHis thoughtful quotes, such as *'A friend is what the heart needs all the time'* and *'Imagination is the best way to share your dreams'*, serve as gentle reminders that every mistake is a stepping stone to growth and that true happiness lies in everyday moments. His insights celebrate uniqueness and promote learning from all experiences.\n\nLobel's enduring messages inspire us to live kindly, embrace our creative spirit, and cherish every joyful detail of life, resonating deeply with audiences of all ages.",
+        "story_url": "https://quotesoftheday.org/arnold-lobel-quotes/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Arnold Lobel Quotes - quotesoftheday.org",
+        "url": "https://quotesoftheday.org/arnold-lobel-quotes/",
+        "datePublished": "2025-05-17T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://quotesoftheday.org/arnold-lobel-quotes",
+        "snippet": "Arnold Lobel understood friendship well. His words remind us of its importance. Here are some <b>heartwarming</b> quotes about friendship: \ud83d\udd39 \u201cA friend is what the heart needs all the time.\u201d \ud83d\udd39 \u201cIt is good to have a friend.\u201d \ud83d\udd39 \u201cFriends are the family we choose for ourselves.\u201d \ud83d\udd39 \u201cTrue friends are always there for you.\u201d",
+        "dateLastCrawled": "2025-05-17T01:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
     }
 }
