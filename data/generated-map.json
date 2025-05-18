@@ -3424,5 +3424,24 @@
         "language": "en",
         "isNavigational": true,
         "noCache": false
+    },
+    "2025-05-17": {
+        "date": "May 18, 2025",
+        "image_path": "./data/images/20250517-233008-1.png",
+        "story_summary": "Ghana -- May 17, 2025\n\n**Makers House Chapel** launches an inclusive Sunday School unit that transforms the church experience for families with special needs children.\n\nThe new unit, equipped with sensory rooms and innovative learning tools, redefines how ministry embraces every child and celebrates unique abilities.\n\nLed by General Overseer **Dr Michael Boadi Nyamekye**, the initiative trains educators to support children with autism, ADHD, and other challenges.\n\nThis heartfelt service provides a sanctuary where parents can worship confidently, free from fear of judgment, and children blossom in an environment designed for their growth.\n\n*Eunice Nartey\u2019s emotional relief* and other testimonials highlight the profound impact of this empathetic approach.\n\nThe vibrant facility underscores that love and inclusion are central to nurturing every child's potential, setting a powerful example for broader community transformation.",
+        "story_url": "https://www.ghanaweb.com/GhanaHomePage/regional/Makers-House-Chapel-opens-an-inclusive-Sunday-school-unit-giving-hope-to-families-with-special-needs-children-1984355",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Makers House Chapel opens an inclusive Sunday school unit ... - GhanaWeb",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/regional/Makers-House-Chapel-opens-an-inclusive-Sunday-school-unit-giving-hope-to-families-with-special-needs-children-1984355",
+        "datePublished": "2025-05-18T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.ghanaweb.com</b>/GhanaHomePage/regional/Makers-House-Chapel-opens-an-inclusive...",
+        "snippet": "In a <b>heartwarming</b> move that is changing lives and reshaping how churches approach children&#39;s ministry, the Makers House Chapel International has launched a pioneering Sunday School department with ...",
+        "dateLastCrawled": "2025-05-18T00:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Ghana HomePage"
     }
 }
