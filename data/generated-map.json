@@ -3461,5 +3461,32 @@
         "language": "en",
         "isNavigational": true,
         "noCache": false
+    },
+    "2025-05-19": {
+        "date": "May 20, 2025",
+        "image_path": "./data/images/20250519-233008-1.png",
+        "story_summary": "Noida -- May 19, 2025\n\nIn the scorching heat of Noida, two brave children demonstrated remarkable compassion by rescuing an injured dog. Facing extreme temperatures, they immediately took action, transporting the wounded animal to a hospital with determination and love.\n\nTheir selfless act, captured on video, sparked a wave of admiration online. Many praised them for their **bravery** and *kind-hearted* nature, celebrating the fact that true heroes come in all ages.\n\nThis heartening incident ignited conversations about empathy and courage in the face of adversity, reminding us that even the smallest acts of kindness can shine a light during dark times.",
+        "story_url": "https://www.timesnownews.com/viral/2-kids-rescue-injured-dog-amid-noida-heatwave-melt-internets-heart-watch-article-151678117",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2 Kids Rescue Injured Dog Amid Noida Heatwave, Melt ... - Times Now",
+        "url": "https://www.timesnownews.com/viral/2-kids-rescue-injured-dog-amid-noida-heatwave-melt-internets-heart-watch-article-151678117",
+        "datePublished": "2025-05-20T03:09:00.0000000",
+        "datePublishedFreshnessText": "21 minutes ago",
+        "video": {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=31AA84B47712A346AED831AA84B47712A346AED8",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.JcamHYmeKijzFj%2bhDj%2fEDg&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "",
+            "sourceWidth": 128,
+            "sourceHeight": 72,
+            "videoId": "31AA84B47712A346AED831AA84B47712A346AED8"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.timesnownews.com/viral/2-kids-rescue-injured-dog-amid-noida-heatwave-melt...",
+        "snippet": "It&#39;s the small <b>acts</b> of kindness that make the world a better place. In a powerful display of compassion, two young boys were seen rushing an injured dog to a hospital in Noida despite the extreme heat. The <b>heartwarming</b> video has captured the hearts of people across the internet.",
+        "dateLastCrawled": "2025-05-20T03:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Times Now"
     }
 }
