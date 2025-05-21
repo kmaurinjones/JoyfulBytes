@@ -3488,5 +3488,23 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Times Now"
+    },
+    "2025-05-20": {
+        "date": "May 20, 2025",
+        "image_path": "./data/images/20250520-233008-1.png",
+        "story_summary": "Cracker Barrel -- May 20, 2025\n\n**A Day of Unexpected Kindness:** Nina Carr, a devoted mother, visits Cracker Barrel with her five children while her husband, a Marine, is away at work. Despite experiencing anxiety in public, she is determined to create a memorable day filled with joy and quality time for her kids.\n\n**A Touching Gesture:** A kind stranger compliments the children\u2019s excellent manners, and soon after, their meal is paid for by another generous family. Overwhelmed with gratitude, Nina sees this as a beautiful reflection of the values she instills in her children.\n\n**A Message of Generosity:** The encounter transforms an ordinary outing into a profound celebration of kindness. This inspiring moment reminds everyone of the significant impact small acts of goodwill can have on our lives, urging us all to pay it forward.",
+        "story_url": "https://eva.thebustednews.com/p/a-heartwarming-pay-it-forward-moment-at-cracker-barrel-a-mothers-story-of-gratitude-2322",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "A Heartwarming Pay-It-Forward Moment at Cracker Barrel: A Mother\u2019s ...",
+        "url": "https://eva.thebustednews.com/p/a-heartwarming-pay-it-forward-moment-at-cracker-barrel-a-mothers-story-of-gratitude-2322",
+        "datePublished": "2025-05-20T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://eva.thebustednews.com/p/a-<b>heartwarming</b>-pay-it-forward-moment-at-cracker-barrel...",
+        "snippet": "This <b>heartwarming</b> tale encourages readers to embrace the pay-it-forward movement and appreciate the power of small <b>acts</b> of kindness, inspiring a ripple effect of generosity in communities everywhere. Viewed Post",
+        "dateLastCrawled": "2025-05-20T10:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
