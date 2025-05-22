@@ -3506,5 +3506,23 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-05-21": {
+        "date": "May 21, 2025",
+        "image_path": "./data/images/20250521-233008-1.png",
+        "story_summary": "Mission Viejo, Orange County, California -- May 21, 2025\n\n**At the heart of the Mission Viejo Animal Shelter, volunteers form the backbone of a community dedicated to animal welfare.** The gentle barks and soft purrs of rescued animals set the stage for a tale of compassion and commitment. Here, caring individuals step in to provide everything from dog walks and playtime to cat socialization and meticulous care, ensuring each animal feels safe and loved.\n\n*Volunteer opportunities span a wide range of roles including administrative support, adoption counseling, and special events coordination, as well as fostering animals in need.* These roles not only boost the adoptability of the animals but also enrich the lives of the volunteers, offering personal growth, skill development, and a deep sense of purpose. New volunteers are welcomed with thorough training, making every shift a step towards brighter futures for both animals and caretakers.",
+        "story_url": "https://gonzalogarland.blogs.ie.edu/making-a-difference-volunteer-opportunities-at-the-mission-viejo-animal-shelter/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Making a Difference: Volunteer Opportunities at the Mission Viejo ...",
+        "url": "https://gonzalogarland.blogs.ie.edu/making-a-difference-volunteer-opportunities-at-the-mission-viejo-animal-shelter/",
+        "datePublished": "2025-05-22T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://gonzalogarland.blogs.ie.edu/making-a-difference-volunteer-opportunities-at-the...",
+        "snippet": "These individuals play a crucial role in the shelter\u2019s mission, providing care, comfort, and ultimately, a second chance at life for countless animals. Considering becoming a Mission Viejo Animal Shelter volunteer is more than just a kind <b>act</b>; it\u2019s an investment in your community and a commitment to animal welfare.",
+        "dateLastCrawled": "2025-05-22T01:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
