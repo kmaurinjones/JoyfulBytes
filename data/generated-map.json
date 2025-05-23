@@ -3524,5 +3524,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-05-22": {
+        "date": "May 22, 2025",
+        "image_path": "./data/images/20250522-233008-1.png",
+        "story_summary": "TRINITY, N.C. -- May 22, 2025: In this touching story, **third grader Wyatt Walker** exhibited extraordinary bravery during a medical emergency at Hopewell Elementary. When a classmate fell ill, Wyatt remained calm, quickly alerting a teacher and ensuring that help arrived promptly.\n\n**Wyatt's composed actions** in the midst of an emergency have been praised by the Randolph County Sheriff's Office, reflecting his strong character and the positive influence he has on his peers. The story emphasizes the depth of compassion and quick thinking even in stressful circumstances, a reminder that heroic actions can come from the most unexpected corners.\n\n*This heartwarming display of courage* is celebrated as a vivid example of community spirit and individual initiative, inspiring those around him to act with kindness and responsibility in difficult times.",
+        "story_url": "https://www.wfmynews2.com/article/life/heartwarming/hopewell-elementary-wyatt-walker-randolph-county-medical-emergency/83-89dcf723-db68-4631-9c02-f66da82b92df",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Hopewell Elementary student acts fast during medical emergency ...",
+        "url": "https://www.wfmynews2.com/article/life/heartwarming/hopewell-elementary-wyatt-walker-randolph-county-medical-emergency/83-89dcf723-db68-4631-9c02-f66da82b92df",
+        "datePublished": "2025-05-22T23:19:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.wfmynews2.com</b>/article/life/<b>heartwarming</b>/hopewell-elementary-wyatt-walker...",
+        "snippet": "<b>Heartwarming</b> Hopewell Elementary 3rd grader <b>acts</b> fast during medical emergency. Wyatt Walker, a third grader at Hopewell Elementary, quickly sought help during a classmate&#39;s medical emergency.",
+        "dateLastCrawled": "2025-05-22T23:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "wfmynews2.com"
     }
 }
