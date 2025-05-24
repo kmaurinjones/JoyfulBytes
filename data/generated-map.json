@@ -3543,5 +3543,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "wfmynews2.com"
+    },
+    "2025-05-23": {
+        "date": "May 23, 2025",
+        "image_path": "./data/images/20250523-233008-1.png",
+        "story_summary": "Pune, India -- On May 23, 2025, severe rains disrupt a wedding in Pune when a heavy downpour floods the open-air venue where Sanskruti Kawade and Narendra Galande were about to perform their sacred saptapadi ritual.\n\nAmid the turmoil, a compassionate Muslim family, hosting their own walima reception next door, generously offers their covered hall to the Hindu couple. **Bold acts of kindness** prevail as both families join forces, meticulously rearranging the space to honor each tradition.\n\n*Emotional bonds* flourish as guests from both events unite in a heartwarming joint feast, sharing laughter, food, and cherished moments. The narrative stands as a testament to unity and mutual respect in the face of adversity.",
+        "story_url": "https://www.bollywoodshaadis.com/articles/muslim-family-offers-venue-for-hindu-wedding-amid-heavy-rainfall-63858",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Muslim Family Offers Venue For Hindu Wedding Amid Heavy Rainfall ...",
+        "url": "https://www.bollywoodshaadis.com/articles/muslim-family-offers-venue-for-hindu-wedding-amid-heavy-rainfall-63858",
+        "datePublished": "2025-05-23T10:52:00.0000000",
+        "datePublishedFreshnessText": "16 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bollywoodshaadis.com/articles/muslim-family-offers-venue-for-hindu-wedding...",
+        "snippet": "Muslim family halts walima, offers the stage to Hindu couple for saptapadi ceremony As per reports, this <b>heartwarming</b> interfaith wedding union happened on Tuesday evening, on May 20, 2025. The Hindu couple, Sanskruti Kawade and Narendra Galande, were moments away from tying the knot at the open-air venue of Alankaran Lawns in Wanawadi, Pune, when the skies opened up. In no time, the roofless ...",
+        "dateLastCrawled": "2025-05-23T17:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "BollywoodShaadis"
     }
 }
