@@ -3580,5 +3580,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-05-25": {
+        "date": "May 26, 2025",
+        "image_path": "./data/images/20250525-233007-1.png",
+        "story_summary": "Location unknown -- May 25, 2025\n\n**In this heartfelt encounter,** a journalist visits an animal shelter and finds an abandoned dog whose simple gesture of extending its paw speaks volumes. \n\n*Moved by the silent plea for connection,* the journalist decides to adopt the dog, turning that brief moment into a life-changing bond. \n\n**This inspiring story** has since touched hearts far and wide, as the recorded exchange quickly garnered millions of views online and ignited conversations about compassion and hope. Through this gentle act, the narrative reminds us how even small, sincere moments of kindness can bridge gaps between strangers and redefine what it means to care.",
+        "story_url": "https://economictimes.indiatimes.com/magazines/panache/man-visits-shelter-and-dog-adorably-refuses-to-let-go-of-him-what-happened-next-will-move-you-to-tears/articleshow/121402129.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Man visits shelter and dog adorably refuses to let go of him. What ...",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/man-visits-shelter-and-dog-adorably-refuses-to-let-go-of-him-what-happened-next-will-move-you-to-tears/articleshow/121402129.cms",
+        "datePublished": "2025-05-26T02:45:00.0000000",
+        "datePublishedFreshnessText": "45 minutes ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>economictimes.indiatimes.com</b>/magazines/panache/man-visits-shelter-and-dog...",
+        "snippet": "A <b>heartwarming</b> video capturing a journalist&#39;s visit to an animal shelter has gone viral, showcasing a touching interaction with an abandoned dog. The dog&#39;s simple <b>act</b> of extending its paw resonated deeply, leading the journalist to adopt the animal. Agencies A man recently visited a shelter and ...",
+        "dateLastCrawled": "2025-05-26T02:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Economic Times"
     }
 }
