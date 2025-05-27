@@ -3599,5 +3599,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "The Economic Times"
+    },
+    "2025-05-26": {
+        "date": "May 26, 2025",
+        "image_path": "./data/images/20250526-233008-1.png",
+        "story_summary": "Barrie -- May 26, 2025\n\n**At St. John Vianney Parish**, nearly 300 community members gathered to honor exceptional achievements of students and staff from the Simcoe Muskoka Catholic District School Board. The event celebrated diverse accomplishments, from academic excellence and artistic flair to athletic triumphs and commitments to community service.\n\n**Board Chair Maria Hardie** expressed heartfelt admiration for every honoree, emphasizing their unwavering dedication, compassion, and the profound impact each has on uplifting their community. Special recognition was given to outstanding graduates, achievers in sports, arts, and those driving initiatives in equity and faith-based service.\n\nThe evening highlighted inspiring stories of how individual talents in medicine, entrepreneurship, community advocacy, and the performing arts contribute to a vibrant, supportive environment. **These heartfelt acknowledgments** serve as a reminder of the transformative power of dedication and the extraordinary spirit of excellence within the community.",
+        "story_url": "https://www.barrietoday.com/local-news/catholic-school-board-celebrates-excellence-by-honouring-students-staff-10711076",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Catholic school board celebrates excellence by honouring students ...",
+        "url": "https://www.barrietoday.com/local-news/catholic-school-board-celebrates-excellence-by-honouring-students-staff-10711076",
+        "datePublished": "2025-05-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.barrie<b>today</b>.com/local-news/catholic-school-board-celebrates-excellence-by...",
+        "snippet": "The annual event, which took place at St. John Vianney Parish in Barrie, was attended by nearly 300 individuals and showcased <b>heartwarming</b> and inspiring recognitions across various categories. Emcee and board chair Maria Hardie expressed her admiration for this year\u2019s recipients.",
+        "dateLastCrawled": "2025-05-26T22:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "BarrieToday.com"
     }
 }
