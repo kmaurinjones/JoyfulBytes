@@ -3618,5 +3618,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "BarrieToday.com"
+    },
+    "2025-05-27": {
+        "date": "May 27, 2025",
+        "image_path": "./data/images/20250527-233008-3.png",
+        "story_summary": "Johannesburg, South Africa -- May 27, 2025\n\n**Driven by passion and purpose,** a determined crew of drama students from Upstage Concepts staged a 12-hour performing arts marathon. Their powerful display of singing, dancing, and acting transformed creativity into a heartwarming charity challenge, raising over R75,000 for the Rivers Foundation.\n\n*Guided by Head Coach Jill Avis and her team*, the young performers captivated audiences, uniting family, friends, and community supporters in their mission to bring relief through food, education, and healthcare initiatives. Their commitment lit up the night and demonstrated that even a single burst of creative energy can spark enduring change.\n\nEmbodying the spirit of community and generosity, this inspiring event underscores the value of art in driving social impact and paves the way for future traditions that celebrate both creativity and compassion.",
+        "story_url": "https://www.goodthingsguy.com/lifestyle/drama-students-perform-support-rivers-foundation/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Drama Students Perform Hearts Out to Support Rivers Foundation!",
+        "url": "https://www.goodthingsguy.com/lifestyle/drama-students-perform-support-rivers-foundation/",
+        "datePublished": "2025-05-27T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.<b>good</b>thingsguy.com/lifestyle/drama-students-perform-support-rivers-foundation",
+        "snippet": "Subscribe To <b>Feel Good</b> Friday. Would you like to receive truly phenomenal, inspirational and <b>good</b> thing <b>stories</b> right to your inbox. Then subscribe to our weekly GoodThingsGuy newsletter <b>today</b>. ... GoodThingsGuy was officially launched on the 1 August 2015 in order to only promote <b>good</b> <b>news</b>, inspirational <b>stories</b> and promote only positive ...",
+        "dateLastCrawled": "2025-05-27T09:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Good Things Guy"
     }
 }
