@@ -3637,5 +3637,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Good Things Guy"
+    },
+    "2025-05-28": {
+        "date": "May 28, 2025",
+        "image_path": "./data/images/20250528-233008-1.png",
+        "story_summary": "Punjab's Tara Wali -- May 28, 2025\n\n**Brave and heartfelt,** 10-year-old Shravan Singh emerges as an unlikely hero during a busy military operation. While troops camp on his family\u2019s farmland, he selflessly runs out under the scorching sun to deliver refreshing lassi, water, milk, and ice to the soldiers. *His daily acts of kindness and determination inspire everyone who witnesses his efforts, reaffirming that heroism comes in many forms.*\n\nHonoured in a touching ceremony by Major General Ranjit Singh Manral, Shravan receives a memento, a hearty meal, and his favourite ice cream treat. His words, expressing a dream to serve the country, capture the spirit of patriotism, while his proud father and community stand firmly behind him. This story reminds us that even the smallest acts of compassion can leave a lasting impression on hearts, symbolizing unity and valor in challenging times.",
+        "story_url": "https://odishatv.in/news/national/not-all-heroes-wear-uniforms-10-year-old-wins-army-s-heart-during-operation-sindoor-264314",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Not all heroes wear uniforms: 10-year-old wins Army\u2019s heart during ...",
+        "url": "https://odishatv.in/news/national/not-all-heroes-wear-uniforms-10-year-old-wins-army-s-heart-during-operation-sindoor-264314",
+        "datePublished": "2025-05-28T16:10:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://odishatv.in/news/national/not-all-heroes-wear-uniforms-10-year-old-wins-army-s...",
+        "snippet": "His selfless <b>acts</b> didn\u2019t go unnoticed. In a <b>heartwarming</b> gesture, the Indian Army honoured Shravan in a special ceremony. Major General Ranjit Singh Manral, GOC of the 7th Infantry Division, presented him with a memento, a hearty meal, and his favourite treat \u2014 ice cream. \u201cThey gave me food and ice cream. I\u2019m very happy,\u201d Shravan beamed.",
+        "dateLastCrawled": "2025-05-28T16:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OTV News"
     }
 }
