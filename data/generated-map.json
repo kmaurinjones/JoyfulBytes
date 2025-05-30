@@ -3656,5 +3656,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "OTV News"
+    },
+    "2025-05-29": {
+        "date": "May 29, 2025",
+        "image_path": "./data/images/20250529-233003-1.png",
+        "story_summary": "Waukesha, Wis. -- May 29, 2025\n\n**In a spirited community event,** the annual 'Boots and Badges' basketball game brought together police and firefighters in a friendly contest. **Local heroes** from Waukesha, New Berlin, and Brookfield united at Waukesha South High School, raising over $4,000 for two impactful charities\u2014Housing Action Coalition of Waukesha County and Blessings in a Backpack. Tickets were set at $5, with free entry for children under ten, while a raffle and canned food drive added extra warmth to the occasion.\n\n**The heart of the event** shone through genuine camaraderie and community connection. *Participants and spectators shared smiles, laughter, and a united spirit,* creating bonds that transcended the game. As first responders shook hands at the end, the event celebrated unity, dedication, and the power of community support, reminding everyone that beyond competition, they were all part of one team.",
+        "story_url": "https://www.fox6now.com/news/waukesha-boots-badges-basketball-charity-2025",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Waukesha Boots and Badges basketball game raises $4K+ for charities",
+        "url": "https://www.fox6now.com/news/waukesha-boots-badges-basketball-charity-2025",
+        "datePublished": "2025-05-29T20:35:00.0000000",
+        "datePublishedFreshnessText": "6 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.fox6now.com/news/waukesha-boots-badges-basketball-charity-2025",
+        "snippet": "The Brief. The &quot;Boots and Badges&quot; basketball game raised more than $4,000 for charity. The game pits Waukesha County first responders against each other.",
+        "dateLastCrawled": "2025-05-29T20:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Fox6 Milwaukee"
     }
 }
