@@ -3675,5 +3675,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Fox6 Milwaukee"
+    },
+    "2025-05-30": {
+        "date": "May 31, 2025",
+        "image_path": "./data/images/20250530-233007-1.png",
+        "story_summary": "Ohio -- May 30, 2025\n\n**Iris Kessler**, a videographer from Ohio, shares a poignant tale of reunion with memories of her beloved childhood cat, **Voodoo**. Once bonded by coincidental birthdays and cherished moments, she recalls how Voodoo's quirky habits and gentle meows filled her early years with warmth and wonder.\n\n*Years later*, while embarking on a new chapter in her college life, Kessler encounters a stray cat bearing remarkable traits reminiscent of Voodoo\u2014a distinct silver-tinted eye and a chipped ear. She names him **Limbo**, interpreting his features as a symbol of a second, almost angelic life.\n\n**Haunted by nostalgia and buoyed by hope**, this unexpected encounter transforms her loneliness into a bittersweet journey of reconnection. As she reflects on how Limbo\u2019s tender yet mysterious behavior deepened her understanding of fate and loss, her story celebrates the enduring bond shared with cherished companions.",
+        "story_url": "https://www.newsweek.com/cat-dies-woman-moves-new-cat-shows-2079005",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Woman Loses Cat, Then Moves House. Cannot Believe What Shows Up.",
+        "url": "https://www.newsweek.com/cat-dies-woman-moves-new-cat-shows-2079005",
+        "datePublished": "2025-05-30T19:39:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.newsweek.com</b>/cat-dies-woman-moves-new-cat-shows-2079005",
+        "snippet": "Over the next few months, Kessler gradually befriended Limbo until, fittingly, on Halloween, he walked into her home for <b>good</b>. A vet confirmed that he was a male cat, around seven or eight years ...",
+        "dateLastCrawled": "2025-05-30T20:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Newsweek"
     }
 }
