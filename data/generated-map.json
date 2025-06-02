@@ -3694,5 +3694,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Newsweek"
+    },
+    "2025-06-01": {
+        "date": "June 01, 2025",
+        "image_path": "./data/images/20250601-233008-3.png",
+        "story_summary": "South Africa -- June 01, 2025\n\n**A celestial marvel unfolds:** A powerful solar flare has stirred South Africa's skies, setting the stage for a brilliant display of auroral colors. Charged solar particles collide with Earth\u2019s magnetic field, creating dynamic bursts of **red**, _pink_, **green**, and even hints of blue.\n\n**Community and connection:** Citizens are gathering under dark skies, sharing tips and capturing this rare phenomenon with cameras and smartphones. Real-time updates and viewing guides add to the excitement and collective wonder of the moment.\n\n**A moment to cherish:** Whether the lights dazzle the naked eye or only reveal themselves through long exposures, the experience inspires unity and gratitude. The night becomes a reminder to pause, look upward, and appreciate the breathtaking beauty of our world.",
+        "story_url": "https://www.goodthingsguy.com/environment/a-rare-celestial-show-southern-lights-may-be-visible-across-mzansi/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Rare Celestial Show: Southern Lights May Be Visible in Mzansi",
+        "url": "https://www.goodthingsguy.com/environment/a-rare-celestial-show-southern-lights-may-be-visible-across-mzansi/",
+        "datePublished": "2025-06-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.<b>good</b>thingsguy.com/environment/a-rare-celestial-show-southern-lights-may-be...",
+        "snippet": "Subscribe To <b>Feel Good</b> Friday. Would you like to receive truly phenomenal, inspirational and <b>good</b> thing <b>stories</b> right to your inbox. Then subscribe to our weekly GoodThingsGuy newsletter <b>today</b>. ... GoodThingsGuy was officially launched on the 1 August 2015 in order to only promote <b>good</b> <b>news</b>, inspirational <b>stories</b> and promote only positive ...",
+        "dateLastCrawled": "2025-06-02T03:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Good Things Guy"
     }
 }
