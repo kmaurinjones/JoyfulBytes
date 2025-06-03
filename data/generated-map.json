@@ -3713,5 +3713,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Good Things Guy"
+    },
+    "2025-06-02": {
+        "date": "June 02, 2025",
+        "image_path": "./data/images/20250602-233007-3.png",
+        "story_summary": "Jamshedpur -- June 02, 2025: **Maya**, a brave 10-year-old from Loyola School in Jamshedpur, inspires with her remarkable act of kindness.\n\nIn April 2025, she selflessly donates her hair to cancer patients, offering them renewed confidence during a challenging time. Her gesture reminds us that even small acts can have profound meaning, emphasizing the importance of giving over personal gain.\n\nThrough her compassionate decision, Maya demonstrates that true strength lies in caring for others. Her willingness to share what she has teaches invaluable lessons in empathy, kindness, and social responsibility that resonate with people of all ages.\n\nHer heartfelt action stands as a **beacon of hope** and inspires everyone to appreciate the power of selflessness and the joy found in helping others.",
+        "story_url": "https://avenuemail.in/loyola-school-jamshedpur-student-sets-example-by-donating-hair-to-cancer-patients-inspires-spirit-of-giving/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Loyola School Jamshedpur student sets example by donating hair to ...",
+        "url": "https://avenuemail.in/loyola-school-jamshedpur-student-sets-example-by-donating-hair-to-cancer-patients-inspires-spirit-of-giving/",
+        "datePublished": "2025-06-02T14:56:00.0000000",
+        "datePublishedFreshnessText": "12 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://avenuemail.in/loyola-school-jamshedpur-student-sets-example-by-donating-hair...",
+        "snippet": "A <b>heartwarming</b> example of this is Maya, a 10-year-old student from Loyola School, Jamshedpur. In April 2025, Maya made a selfless decision to donate her hair to cancer patients.",
+        "dateLastCrawled": "2025-06-02T14:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "The Avenue Mail"
     }
 }
