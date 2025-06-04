@@ -3732,5 +3732,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "The Avenue Mail"
+    },
+    "2025-06-03": {
+        "date": "June 04, 2025",
+        "image_path": "./data/images/20250603-233008-1.png",
+        "story_summary": "Jharkhand -- June 03, 2025\n\nIn Jharkhand, the heartwarming story of young Maya Koh, a 10-year-old student from Loyola School in Jamshedpur, unfolds as she donates her hair to help cancer patients undergoing chemotherapy.\n\n**Maya's inspiring act** was driven by genuine concern and empathy, sparked by a newspaper story about a similar donation. Her simple yet powerful gesture turns a personal attribute into a beacon of hope and strength for those facing serious health challenges.\n\n*Encouraging compassion and selflessness*, Maya\u2019s decision, nurtured by her supportive mother, reminds us that every kind deed matters. Her act not only boosts the confidence of cancer patients but also demonstrates the profound impact that caring actions can have on our community.",
+        "story_url": "https://www.dailypioneer.com/2025/state-editions/jharkhand-school-girl-maya-donates-hair-to-cancer-patients.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Jharkhand school girl Maya donates hair to cancer patients",
+        "url": "https://www.dailypioneer.com/2025/state-editions/jharkhand-school-girl-maya-donates-hair-to-cancer-patients.html",
+        "datePublished": "2025-06-04T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.dailypioneer.com/2025/state-editions/jharkhand-school-girl-maya-donates...",
+        "snippet": "In a time where personal success often overshadows community spirit, a <b>heartwarming</b> <b>act</b> of kindness by a 10-year-old student from Loyola School, Jamshedpur, is inspiring many to rethink the values ...",
+        "dateLastCrawled": "2025-06-03T18:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Pioneer"
     }
 }
