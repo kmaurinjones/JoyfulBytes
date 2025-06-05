@@ -3751,5 +3751,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "The Pioneer"
+    },
+    "2025-06-04": {
+        "date": "June 05, 2025",
+        "image_path": "./data/images/20250604-233008-1.png",
+        "story_summary": "United States -- June 04, 2025\n\n**Random Acts of Cardness Day 2025** celebrates the power of heartfelt messages in a digital era. *Handwritten cards* replace impersonal texts, turning every note into a beacon of kindness and connection.\n\nEstablished by the compassionate Kalen McAllister in 2021, this day began as a simple idea to bridge human connections with a personal touch. Over time, schools, community groups, and organizations have embraced the tradition by writing, sharing, and even leaving anonymous cards in public spaces, uniting people through small yet meaningful acts of care.\n\nThe 2025 theme, **Words that Heal \u2013 Cards of Courage, Compassion, and Connection**, underscores the transformative effect of thoughtful communication on mental wellness and community bonds. In a world dominated by digital interactions, this celebration reminds us that a little kindness can lighten hearts and change lives.",
+        "story_url": "https://today.infodatanews.com/random-acts-of-cardness-day/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Random Acts of Cardness Day 2025 - today.infodatanews.com",
+        "url": "https://today.infodatanews.com/random-acts-of-cardness-day/",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>today</b>.infodatanews.com/random-<b>acts</b>-of-cardness-day",
+        "snippet": "In an age where digital texts dominate, there is something profoundly touching about receiving a handwritten card. \u201cRandom <b>Acts</b> of Cardness Day\u201d celebrates this very sentiment \u2014 spreading unexpected joy through small, thoughtful gestures delivered on paper.",
+        "dateLastCrawled": "2025-06-04T21:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
