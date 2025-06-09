@@ -3823,5 +3823,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-06-08": {
+        "date": "June 08, 2025",
+        "image_path": "./data/images/20250608-233008-3.png",
+        "story_summary": "New Delhi -- June 08, 2025. **A delightful moment unfolded when a young girl surprised her father with a spirited dance to Justin Bieber's 'Baby'.** Her colorful and energetic performance filled their home with joy as a warm welcome after his long day at work.\n\nHer impromptu dance not only brightened his mood but also sparked an equally joyful response. **They shared a vibrant moment of connection and laughter**, earning heartfelt admiration online as the video quickly gathered millions of views and countless positive comments.\n\nThis heartwarming tale highlights the unbreakable bond between a father and his daughter, celebrating the power of simple, loving gestures to transform an ordinary day into an unforgettable moment.",
+        "story_url": "https://www.indiatoday.in/trending-news/story/justin-bieber-baby-dance-video-girl-dances-to-cheer-up-dad-wholesome-viral-2737654-2025-06-08",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Girl dances to Justin Bieber Baby to cheer up dad ... - India Today",
+        "url": "https://www.indiatoday.in/trending-news/story/justin-bieber-baby-dance-video-girl-dances-to-cheer-up-dad-wholesome-viral-2737654-2025-06-08",
+        "datePublished": "2025-06-08T12:28:00.0000000",
+        "datePublishedFreshnessText": "15 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.india<b>today</b>.in/trending-news/story/justin-bieber-baby-dance-video-girl...",
+        "snippet": "A girl decided to welcome her father home with a surprise that\u2019s now spreading smiles across the internet. In a video shared on Instagram by Laveera Lavi, she broke into an impromptu dance on Justin Bieber\u2019s hit track Baby as her father returned from work, and his reaction stole the show.. The <b>heartwarming</b> clip shows Laveera dancing the moment her father walks in.",
+        "dateLastCrawled": "2025-06-08T12:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "India Today"
     }
 }
