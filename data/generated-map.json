@@ -3842,5 +3842,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "India Today"
+    },
+    "2025-06-09": {
+        "date": "June 10, 2025",
+        "image_path": "./data/images/20250609-233007-3.png",
+        "story_summary": "Rochester, Minnesota -- June 09, 2025\n\n**Jayden Owens**, a 15-year-old fishing enthusiast, faced dismay when he returned to Silver Lake to find his cherished fishing pole missing. He had left it while making a phone call, and upon his return, the pole had mysteriously vanished.\n\nDetermined to help, local police stepped in with a heartwarming gesture. Unable to locate the suspect or the missing item, the officers decided to buy him a new pole, ensuring he could continue his favorite pastime. Jamell Owens, Jayden's father, was moved to tears by this kind act, highlighting the community's supportive spirit. *This incident reminds us of the compassion that can emerge even in unexpected circumstances.*",
+        "story_url": "https://www.wpbf.com/article/police-replace-teens-fishing-pole-after-stolen/65016579",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "VIDEO: Police officers replace a teen&#39;s fishing pole after it got stolen",
+        "url": "https://www.wpbf.com/article/police-replace-teens-fishing-pole-after-stolen/65016579",
+        "datePublished": "2025-06-10T01:45:00.0000000",
+        "datePublishedFreshnessText": "1 hour ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.wpbf.com</b>/article/police-replace-teens-fishing-pole-after-stolen/65016579",
+        "snippet": "(Video from KIMT via CNN Newsource) \u2014 When a teenage angler reported his fishing rod stolen, police in Rochester, Minnesota, stepped in to ensure he could once again cast a line.",
+        "dateLastCrawled": "2025-06-10T01:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "WPBF Channel 25"
     }
 }
