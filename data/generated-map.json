@@ -3861,5 +3861,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "WPBF Channel 25"
+    },
+    "2025-06-10": {
+        "date": "June 10, 2025",
+        "image_path": "./data/images/20250610-233008-1.png",
+        "story_summary": "BRUNSWICK, Maine -- June 10, 2025\n\n**In an uplifting display of community spirit**, hundreds of students from St. John's Catholic School united to help local families facing food insecurity. With a sense of purpose, they formed a quarter-mile human chain to deliver canned goods, showing that even small acts can bring **profound support** during challenging times.\n\n*Determined and compassionate*, the students, exchanging their classrooms for practical service, passed every item hand-to-hand. Their heartfelt words echoed throughout the line, emphasizing the joy of giving and the strength of community unity. Their collective effort not only lifted the spirits of those in need but also provided critical relief as the Mid Coast Hunger Prevention Program faced a surge in visits compared to the previous year.",
+        "story_url": "https://www.newscentermaine.com/article/news/community/brunswick-saint-johns-students-fight-hunger/97-c58ecf8f-9535-46b0-8832-c236cae426d8",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Students support food pantry with heartwarming donation chain ...",
+        "url": "https://www.newscentermaine.com/article/news/community/brunswick-saint-johns-students-fight-hunger/97-c58ecf8f-9535-46b0-8832-c236cae426d8",
+        "datePublished": "2025-06-10T20:06:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.newscentermaine.com/article/news/community/brunswick-saint-johns-students...",
+        "snippet": "In a <b>heartwarming</b> scene, hundreds of students formed a line stretching roughly a quarter of a mile from their school to the Mid Coast Hunger Prevention Program (MCHPP) food pantry. Their mission? ... The students passed everything from canned beans to tomato soup, each item representing a small but critical <b>act</b> of support for local families ...",
+        "dateLastCrawled": "2025-06-10T20:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "News Center Maine"
     }
 }
