@@ -3880,5 +3880,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "News Center Maine"
+    },
+    "2025-06-11": {
+        "date": "June 11, 2025",
+        "image_path": "./data/images/20250611-233007-1.png",
+        "story_summary": "Location unknown -- June 11, 2025\n\n**In an unexpected display of compassion,** a wild elephant was captured helping a drowning gazelle. The gentle giant approached slowly and used its trunk to lift the struggling animal to safety, leaving viewers in awe of its empathy and emotional depth.\n\n**A separate incident in Chhattisgarh** showed a rescued baby elephant, freed from a muddy pit, expressing gratitude with a gentle touch on the rescue equipment. This touching moment underscored the intelligence and sensitivity of these magnificent creatures.\n\n**Social media buzzed with admiration** as many celebrated the interspecies kindness and reflected on nature\u2019s capacity for care. The events sparked deeper conversations about wildlife conservation and the urgent need to protect these remarkable beings.",
+        "story_url": "https://timesofindia.indiatimes.com/etimes/trending/watch-elephants-unexpected-act-of-kindness-sparks-praise-online/articleshow/121783133.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Watch: Elephant\u2019s unexpected act of kindness sparks praise online",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/watch-elephants-unexpected-act-of-kindness-sparks-praise-online/articleshow/121783133.cms",
+        "datePublished": "2025-06-11T16:05:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/etimes/trending/watch-elephants-unexpected-<b>act</b>-of...",
+        "snippet": "A <b>heartwarming</b> video of a wild elephant rescuing a drowning gazelle has captivated the internet, showcasing an unexpected <b>act</b> of interspecies kindness. The gentle giant&#39;s compassionate behavior ...",
+        "dateLastCrawled": "2025-06-11T16:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
