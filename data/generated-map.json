@@ -3899,5 +3899,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2025-06-12": {
+        "date": "June 12, 2025",
+        "image_path": "./data/images/20250612-233003-1.png",
+        "story_summary": "Calgary -- June 12, 2025: **Laura Gaucher**, owner of Good Gals Vintage, faces a devastating setback when a break-in strips her vehicle of dozens of treasured western wear items. The loss of vintage cowboy hats, bolo ties, and belts, many of which hold personal value, leaves her inventory severely diminished just as her busiest season begins.\n\nIn response, the community unites in a heartening display of support. *Friends, local vendors, and fellow enthusiasts rally together* by organizing donation drives and offering aid to help her recover. Their determination and solidarity not only provide immediate relief but also reinforce the close-knit bonds that have long defined Calgary\u2019s vibrant and creative spirit.",
+        "story_url": "https://globalnews.ca/news/11238781/calgary-business-break-in-community-rallies/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Community rallies around Calgary vintage western wear business owner ...",
+        "url": "https://globalnews.ca/news/11238781/calgary-business-break-in-community-rallies/",
+        "datePublished": "2025-06-12T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>globalnews.ca</b>/<b>news</b>/11238781/calgary-business-break-in-community-rallies",
+        "snippet": "Over the past six years, Laura Gaucher has turned her lifestyle into her career as owner of vintage western wear store <b>Good</b> Gals Vintage. \u201cI tried to commit to the bit, I guess,\u201d Gaucher ...",
+        "dateLastCrawled": "2025-06-12T23:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Global News"
     }
 }
