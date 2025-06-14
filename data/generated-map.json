@@ -3918,5 +3918,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Global News"
+    },
+    "2025-06-13": {
+        "date": "June 13, 2025",
+        "image_path": "./data/images/20250613-233003-1.png",
+        "story_summary": "Powassan -- June 13, 2025\n\n**The Dupuis family** has captured the heart of their community with their annual Maple Hill Sap Run, a vibrant event that attracts over 300 participants. For eight years, Jared and Jenn Dupuis have transformed a simple walk/run into a festive celebration that now includes a 10 km race, a dedicated kids' run, and engaging team challenges.\n\n*Fueled by passion for health and community*, the Dupuis family donated $11,000 to enhance local children's recreational programs and bolster mental health services. Their generous contributions, earning widespread admiration, have also supported successful municipal soccer programs.\n\nTheir efforts showcase how dedication and a commitment to active living can uplift community spirit, encouraging youth to explore sports and embrace a healthier lifestyle.",
+        "story_url": "https://www.baytoday.ca/local-news/powassan-family-gives-back-through-fitness-and-fundraising-10806898",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Powassan family gives back through fitness and fundraising",
+        "url": "https://www.baytoday.ca/local-news/powassan-family-gives-back-through-fitness-and-fundraising-10806898",
+        "datePublished": "2025-06-13T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bay<b>today</b>.ca/local-news/powassan-family-gives-back-through-fitness-and...",
+        "snippet": "In a <b>heartwarming</b> show of community spirit, the Dupuis family of Powassan has donated $11,000 to support local children&#39;s recreational programs and mental health services. Kathie Hogan Jun 13 ...",
+        "dateLastCrawled": "2025-06-13T20:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "BayToday.ca"
     }
 }
