@@ -3937,5 +3937,32 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "BayToday.ca"
+    },
+    "2025-06-15": {
+        "date": "June 16, 2025",
+        "image_path": "./data/images/20250615-233008-3.png",
+        "story_summary": "Location unknown --, June 15, 2025\n\n**In a story of compassion and community spirit,** a dedicated Zomato delivery boy receives a delightful surprise on his birthday. His day transforms as kind customers come together, sharing warm gestures and heartfelt messages that brighten his routine work life.\n\n*The viral video capturing these moments highlights how simple acts of recognition can uplift and inspire. The genuine smiles and appreciative words express a shared commitment to care and mutual respect, turning an ordinary day into a memorable celebration.*\n\n**This narrative celebrates the unexpected joy found in everyday kindness.** It reminds everyone that even a small act of consideration can make a profound impact on someone\u2019s life, encouraging us all to acknowledge and cherish the human moments that connect us deeply.",
+        "story_url": "https://zeenews.india.com/hindi/off-beat/zomato-delivery-boy-special-birthday-celebrates-by-customers-heartwarming-video-viral/2802430",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Zomato delivery boy special birthday celebrates by Customers ...",
+        "url": "https://zeenews.india.com/hindi/off-beat/zomato-delivery-boy-special-birthday-celebrates-by-customers-heartwarming-video-viral/2802430",
+        "datePublished": "2025-06-16T02:06:00.0000000",
+        "datePublishedFreshnessText": "1 hour ago",
+        "video": {
+            "webSearchUrl": "https://www.bing.com/videos/search?q=Heartwarming%20acts%20today&view=detail&mid=805958E7C8BCAD810AD9805958E7C8BCAD810AD9",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.f1PHnEYyNPZylVoTGwI%2frg&w=128&h=72&c=4&rs=1&pid=6.1",
+            "duration": "",
+            "sourceWidth": 128,
+            "sourceHeight": 72,
+            "videoId": "805958E7C8BCAD810AD9805958E7C8BCAD810AD9"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>zeenews.india.com</b>/hindi/off-beat/zomato-delivery-boy-special-birthday...",
+        "snippet": "Zomato Delivery Boy: \u0907\u0938 \u091b\u094b\u091f\u0947 \u0938\u0947 \u092a\u094d\u0930\u092f\u093e\u0938 \u0928\u0947 \u0938\u093f\u0930\u094d\u092b \u0909\u0938 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u092c\u0949\u092f \u0915\u0940 \u0928\u0939\u0940\u0902, \u092c\u0932\u094d\u0915\u093f \u0932\u093e\u0916\u094b\u0902 \u0911\u0928\u0932\u093e\u0907\u0928 \u0926\u0930\u094d\u0936\u0915\u094b\u0902 \u0915\u0940 \u091c\u093f\u0902\u0926\u0917\u0940 \u0915\u094b \u0930\u094b\u0936\u0928 \u0915\u0930 \u0926\u093f\u092f\u093e. \u0907\u0938 \u0935\u0940\u0921\u093f\u092f\u094b \u0928\u0947 \u092f\u0939 \u0938\u093e\u092c\u093f\u0924 \u0915\u0930 \u0926\u093f\u092f\u093e \u0915\u093f ...",
+        "dateLastCrawled": "2025-06-16T02:08:00.0000000Z",
+        "language": "hi",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zee News"
     }
 }
