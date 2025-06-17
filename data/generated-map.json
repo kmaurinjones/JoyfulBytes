@@ -3964,5 +3964,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Zee News"
+    },
+    "2025-06-16": {
+        "date": "June 16, 2025",
+        "image_path": "./data/images/20250616-233008-3.png",
+        "story_summary": "Location unknown -- June 16, 2025\n\nA heartwarming event unfolds at a roadside eatery where **a gentle man** unexpectedly shares his meal with *a curious monkey*. Their calm interaction defies the usual chaos when wild animals intrude upon human spaces.\n\nThe video captures this serene moment as the man carefully rotates his plate to include his uninvited guest, sparking a wave of admiration online. Viewers celebrated his empathy and reflected on how such simple acts of kindness underscore our deep connection with all living beings.",
+        "story_url": "https://timesofindia.indiatimes.com/etimes/trending/viral-unexpected-guest-steals-food-but-this-mans-reaction-is-winning-the-internet/articleshow/121887813.cms",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Viral: Unexpected guest steals food, but this man\u2019s reaction is winning ...",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/viral-unexpected-guest-steals-food-but-this-mans-reaction-is-winning-the-internet/articleshow/121887813.cms",
+        "datePublished": "2025-06-16T14:13:00.0000000",
+        "datePublishedFreshnessText": "13 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>timesofindia.indiatimes.com</b>/etimes/trending/viral-unexpected-guest-steals-food...",
+        "snippet": "A <b>heartwarming</b> video circulating on social media captures a man&#39;s unexpected <b>act</b> of kindness towards a monkey at a roadside eatery. Instead of shooing the animal away, he calmly shared his meal ...",
+        "dateLastCrawled": "2025-06-16T15:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Times of India"
     }
 }
