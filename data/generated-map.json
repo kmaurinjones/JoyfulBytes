@@ -3983,5 +3983,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Times of India"
+    },
+    "2025-06-18": {
+        "date": "June 19, 2025",
+        "image_path": "./data/images/20250618-233008-1.png",
+        "story_summary": "New Delhi -- June 18, 2025\n\n**In a heartwarming gesture**, seasoned cricketer Rohit Sharma gifts a signed bat to young Mumbai talent Ayush Mhatre. Ayush, who made headlines in IPL 2025, shares his gratitude on social media, calling the bat *a cherished memory* from his idol.\n\nGrowing up watching Rohit bat, Ayush reflects on the surreal moment of sharing a dressing room with him. His story embodies passion, commitment, and the power of mentorship. As he prepares to captain the India U-19 team on their England tour from June 24 to July 23, his journey inspires both fans and emerging cricketers, symbolizing hope and the promise of future victories.",
+        "story_url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ayush-mhatre-signed-bat-india-u-19-england-tour-2742774-2025-06-18",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Rohit Sharma gifts Ayush Mhatre signed bat ahead of India ... - India Today",
+        "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ayush-mhatre-signed-bat-india-u-19-england-tour-2742774-2025-06-18",
+        "datePublished": "2025-06-18T16:50:00.0000000",
+        "datePublishedFreshnessText": "10 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.india<b>today</b>.in/sports/cricket/story/rohit-sharma-ayush-mhatre-signed-bat...",
+        "snippet": "In a <b>heartwarming</b> post on social media, Ayush Mhatre revealed that he got a signed bat from Rohit Sharma as a gift on Wednesday, June 18. Mhatre will be leading the Indian U-19 team for their tour of England. ... India <b>Today</b> Sports Desk. New Delhi, UPDATED: Jun 18, 2025 22:20 IST. In Short. Mhatre impressed everyone with his performance in IPL ...",
+        "dateLastCrawled": "2025-06-18T16:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "India Today"
     }
 }
