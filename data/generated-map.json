@@ -4002,5 +4002,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "India Today"
+    },
+    "2025-06-19": {
+        "date": "June 19, 2025",
+        "image_path": "./data/images/20250619-233015-1.png",
+        "story_summary": "Limerick -- June 19, 2025\n\n**Lucy\u2019s uplifting experience** shines through on a day that transformed her visit to the University Hospital Limerick. At 72, Lucy, traveling from Emly, encountered a small but life-affirming act of kindness when a compassionate stranger paid for her meal, insisting on his generosity despite her initial objections.\n\n*Overwhelmed with gratitude*, Lucy recalled that this thoughtful gesture came amidst a day filled with genuine care. She emphasized how the warm attention from the nurses, doctors, and receptionists made her feel truly seen and valued, reversing past experiences of feeling invisible.\n\n**The story resonates** as a reminder of the profound impact a simple act of kindness can have. Lucy\u2019s heartfelt thanks to all who cared lifted her spirits and underscored the enduring power of compassion in turning an ordinary day into a memorable journey.",
+        "story_url": "https://www.limerickleader.ie/news/home/1828878/random-act-of-kindness-transformed-limerick-hospital-visit-for-pensioner.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Random act of kindness transformed Limerick hospital visit for ...",
+        "url": "https://www.limerickleader.ie/news/home/1828878/random-act-of-kindness-transformed-limerick-hospital-visit-for-pensioner.html",
+        "datePublished": "2025-06-19T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.limerickleader.ie/news/home/1828878/random-<b>act</b>-of-kindness-transformed...",
+        "snippet": "A PENSIONER has shared how a random <b>act</b> of kindness by a \u201cmystery man\u201d brightened up her visit to the University Hospital Limerick (UCH). Linda (Lucy) Fitzgearld, 72, had to visit A&amp;E in UHL ...",
+        "dateLastCrawled": "2025-06-19T16:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Limerick Live Limerick Leader"
     }
 }
