@@ -4021,5 +4021,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Limerick Live Limerick Leader"
+    },
+    "2025-06-20": {
+        "date": "June 20, 2025",
+        "image_path": "./data/images/20250620-233008-1.png",
+        "story_summary": "New Delhi -- **June 20, 2025**. In this heartwarming story, an elderly couple takes a cherished ride on their vintage Royal Enfield along a picturesque road. Their gentle smiles and deep camaraderie capture a timeless spirit, turning every mile into an ode to a life well-lived.\n\nSocial media audiences have embraced their journey, as their joyful moment went viral with over 35 million views. The gentleman\u2019s beaming smile, sparked by a kind compliment, along with their shared zest for life, underscores the beauty of simple experiences that connect hearts and inspire others.",
+        "story_url": "https://www.indiatoday.in/trending-news/story/elderly-couple-vintage-royal-enfield-bike-ride-scenic-road-video-viral-35-million-views-2743860-2025-06-20",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Video of elderly couple Royal Enfield bike ride on scenic ... - India Today",
+        "url": "https://www.indiatoday.in/trending-news/story/elderly-couple-vintage-royal-enfield-bike-ride-scenic-road-video-viral-35-million-views-2743860-2025-06-20",
+        "datePublished": "2025-06-20T13:22:00.0000000",
+        "datePublishedFreshnessText": "14 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.india<b>today</b>.in/trending-news/story/elderly-couple-vintage-royal-enfield...",
+        "snippet": "India <b>Today</b> Trending Desk. New Delhi, UPDATED: Jun 20, 2025 18:52 IST. In Short. An elderly couple&#39;s vintage Royal Enfield ride went viral; Couple seen enjoying scenic ride; ... <b>Heartwarming</b> indeed! Published By: Raya Ghosh. Published On: Jun 20, 2025. Watch Live TV. Advertisement. Also Watch.",
+        "dateLastCrawled": "2025-06-20T13:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "India Today"
     }
 }
