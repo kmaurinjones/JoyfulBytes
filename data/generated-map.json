@@ -4040,5 +4040,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "India Today"
+    },
+    "2025-06-23": {
+        "date": "June 23, 2025",
+        "image_path": "./data/images/20250623-233008-1.png",
+        "story_summary": "Langford -- June 23, 2025\n\n**The Salvation Army\u2019s Connection Point has opened the Dignity Project**, a welcoming space that offers free showers, laundry facilities, and hot meals to those in need. This initiative provides a comforting environment where people from all walks of life can regain a sense of self-worth and dignity.\n\n*Robert Davison*, a West Shore senior who has been living in his car, expresses his gratitude for having a place where he feels respected and valued despite his hardships. His experience underscores the importance of access to basic amenities in rebuilding lives.\n\nSupported by community volunteers and initiatives like those from Viking Properties, the project not only meets physical needs but also nurtures human connection and emotional well-being, reminding us that kindness often begins with offering simple, heartfelt help.",
+        "story_url": "https://cheknews.ca/its-nice-to-have-a-little-dignity-and-feel-welcome-instead-of-being-stereotyped-that-were-no-good-for-anything-salvation-army-connection-place-dignity-project-launches-in-langford-1262751/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "&#39;Nice to have a little dignity:&#39; Salvation Army Connection Place ...",
+        "url": "https://cheknews.ca/its-nice-to-have-a-little-dignity-and-feel-welcome-instead-of-being-stereotyped-that-were-no-good-for-anything-salvation-army-connection-place-dignity-project-launches-in-langford-1262751/",
+        "datePublished": "2025-06-23T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://chek<b>news</b>.ca/its-nice-to-have-a-little-dignity-and-<b>feel</b>-welcome-instead-of...",
+        "snippet": "\u2018It\u2019s nice to have a little dignity and <b>feel</b> welcome\u2019: Salvation Army Connection Point \u2018Dignity Project\u2019 launches in Langford by Tess van Straaten June 22, 2025 6:29 pm June 23, 2025 11: ...",
+        "dateLastCrawled": "2025-06-24T01:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "CHEK News"
     }
 }
