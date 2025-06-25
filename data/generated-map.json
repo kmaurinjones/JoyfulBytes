@@ -4059,5 +4059,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "CHEK News"
+    },
+    "2025-06-24": {
+        "date": "June 25, 2025",
+        "image_path": "./data/images/20250624-233008-1.png",
+        "story_summary": "KENOSHA, Wis -- June 24, 2025. **Heather Sanders**, a resilient colon cancer survivor, embraced a triumphant moment as she tossed the first pitch at a local baseball game. As a dedicated mother and kindergarten teacher, she shared her personal journey of courage\u2014from a harrowing 2024 diagnosis to a victorious recovery following life-saving surgery. Her experience powerfully underscores the importance of early screenings and detection.\n\nThrough her heartfelt act on Strike Out Cancer Night, she symbolized hope and renewal, inspiring the community to prioritize health. **Heather's experience** and stirring message remind everyone that bravery and perseverance can transform adversity into a beacon of inspiration. Her legacy, supported by initiatives aiding families battling cancer, continues to spark vital conversations about the importance of early cancer detection.",
+        "story_url": "https://www.fox6now.com/news/kenosha-kingfish-strike-out-cancer-night-survivor-tosses-1st-pitch",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Kenosha Kingfish &#39;Strike Out Cancer&#39; Night; survivor tosses 1st pitch",
+        "url": "https://www.fox6now.com/news/kenosha-kingfish-strike-out-cancer-night-survivor-tosses-1st-pitch",
+        "datePublished": "2025-06-25T02:54:00.0000000",
+        "datePublishedFreshnessText": "36 minutes ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.fox6now.com/news/kenosha-kingfish-strike-out-cancer-night-survivor-tosses...",
+        "snippet": "KENOSHA, Wis. - Tuesday night, June 24, was a night to celebrate at the ballpark and raise awareness. A Kenosha woman threw out the first pitch at the Kenosha Kingfish game for its Strike Out ...",
+        "dateLastCrawled": "2025-06-25T02:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Fox6 Milwaukee"
     }
 }
