@@ -4078,5 +4078,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Fox6 Milwaukee"
+    },
+    "2025-06-25": {
+        "date": "June 26, 2025",
+        "image_path": "./data/images/20250625-233002-1.png",
+        "story_summary": "Gulfport, Miss. -- June 25, 2025 **Alicia Robinson**, an Air Force veteran and single mother, finds her life transformed when local businesses unite to gift her a reliable car. Tired of expensive rides and unreliable transport, she receives this life-changing vehicle at no cost through the National Auto Body Council\u2019s Recycled Rides program.\n\n**State Farm** donated the car, which was meticulously refurbished by **Unique Collision Center** in Gulfport. The team even added an extra $500 for insurance. Alicia\u2019s heartfelt excitement and gratitude reflect the deep impact of community support, as generous contributions of parts, labor, and kindness come together to honor her service and perseverance.",
+        "story_url": "https://www.wlox.com/2025/06/26/air-force-vet-single-mother-gifted-car-thanks-coast-businesses/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Air Force vet, single mother gifted car thanks to Coast businesses - WLOX",
+        "url": "https://www.wlox.com/2025/06/26/air-force-vet-single-mother-gifted-car-thanks-coast-businesses/",
+        "datePublished": "2025-06-26T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.wlox.com</b>/2025/06/26/air-force-vet-single-mother-gifted-car-thanks-coast...",
+        "snippet": "GULFPORT, Miss. (WLOX) - In a <b>heartwarming</b> <b>act</b> of community strength, several local businesses have come together to give one veteran a life-changing gift. An Air Force veteran and a single mother ...",
+        "dateLastCrawled": "2025-06-26T00:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "WLOX"
     }
 }
