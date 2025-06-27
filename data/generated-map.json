@@ -4097,5 +4097,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "WLOX"
+    },
+    "2025-06-26": {
+        "date": "June 27, 2025",
+        "image_path": "./data/images/20250626-233003-1.png",
+        "story_summary": "Cape Town -- June 26, 2025\n\n*In a moment of pure kindness amid a stifling traffic jam, a caring man stepped out of his car to offer refreshing water to stranded motorists. Armed with a 5-litre bottle and a warm smile, he moved among vehicles, ensuring everyone was touched by his compassion.*\n\nThe heartwarming act was captured on video and received overwhelming praise on social media, celebrating his embodiment of **Ubuntu**. Messages of blessings and deep gratitude poured in as people admired his selflessness and community spirit. In a time defined by frustration and delays, his gesture stood as a powerful reminder of human connection and generosity.",
+        "story_url": "https://briefly.co.za/people/218852-cup-remain-full-man-car-pour-water-motorists-traffic-sa-moved/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "\u201cMay His Cup Remain Full\u201d: Man Gets Out of Car To Pour Water for ...",
+        "url": "https://briefly.co.za/people/218852-cup-remain-full-man-car-pour-water-motorists-traffic-sa-moved/",
+        "datePublished": "2025-06-27T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://briefly.co.za/people/218852-cup-remain-full-man-car-pour-water-motorists...",
+        "snippet": "A local man displayed a <b>heartwarming</b> <b>act</b> of kindness to frustrated motorists sitting in a heavy traffic jam. The compelling clip, shared by TikTok user @hussaind_1, gained considerable interest, with many online users expressing deep appreciation for the kind <b>act</b>. The video captures a man, armed ...",
+        "dateLastCrawled": "2025-06-26T22:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Briefly"
     }
 }
