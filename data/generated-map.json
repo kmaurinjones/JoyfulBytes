@@ -4135,5 +4135,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Bramesh&#39;s Technical Analysis"
+    },
+    "2025-06-29": {
+        "date": "June 30, 2025",
+        "image_path": "./data/images/20250629-233005-1.png",
+        "story_summary": "Ashburton -- June 29, 2025\n\n**Ashburton\u2019s 'dancing queen' Eileen Greenwood celebrated her 102nd birthday** at her care home, surrounded by devoted family, friends, and staff. Although she joked about hiding under the bed, everyone gathered to honor a life full of quiet strength and vibrant energy.\n\n*Born in Canterbury in 1923 and originally from Aylesbury*, Eileen recalled her early years filled with determination\u2014biking miles to school, working from a young age, and enjoying community dances. Her youthful spirit shone through as she reminisced about zipping off to events in her long ball dress, an ode to elegance and resilience.\n\n**Her journey reminds us that staying active and cherishing close bonds is the key to a fulfilling life.** Through decades of experiences marked by hard work, love, and joyous dancing, Eileen\u2019s story inspires everyone to embrace life with passion and purpose.",
+        "story_url": "https://www.newstalkzb.co.nz/news/national/ashburton-s-dancing-queen-eileen-greenwood-turns-102/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Ashburton\u2019s \u2018dancing queen\u2019 Eileen Greenwood turns 102",
+        "url": "https://www.newstalkzb.co.nz/news/national/ashburton-s-dancing-queen-eileen-greenwood-turns-102/",
+        "datePublished": "2025-06-30T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.newstalkzb.co.nz/news/national/ashburton-s-dancing-queen-eileen-greenwood...",
+        "snippet": "Eileen Greenwood, otherwise known as Ashburton&#39;s &#39;dancing queen&#39; celebrated her 102nd birthday surrounded by family and friends <b>today</b>.",
+        "dateLastCrawled": "2025-06-30T01:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Newstalk ZB"
     }
 }
