@@ -4154,5 +4154,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Newstalk ZB"
+    },
+    "2025-07-01": {
+        "date": "July 02, 2025",
+        "image_path": "./data/images/20250701-233003-1.png",
+        "story_summary": "Bangalore -- July 01, 2025\n\n**In a heartwarming celebration of community and compassion**, educational supplies were distributed to young learners at Sri Maruthi Higher Primary School, benefiting students in Classes 1 to 7. Organized by the humanitarian movement *Payam-e-Insaniyat*, the event united dedicated Islamic scholars with local dignitaries, teachers, and community members in a true act of generosity.\n\n**Led by Maulana Shabbir Nadvi Sahab and Syed Shafiulla Sahab**, the drive underscored the importance of unity and support for underprivileged students. It provided essential materials like notebooks and utensils while fostering a spirit of civic responsibility and mutual care among all involved.\n\nThe story serves as a reminder that when communities come together in compassion, every act of giving transforms lives and strengthens hope.",
+        "story_url": "https://citytoday.media/2025/07/02/unity-in-compassion-payam-e-insaniyat-uplifts-students-through-school-supply-drive/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Unity in Compassion: \u201cPayam-e-Insaniyat\u201d Uplifts Students Through ...",
+        "url": "https://citytoday.media/2025/07/02/unity-in-compassion-payam-e-insaniyat-uplifts-students-through-school-supply-drive/",
+        "datePublished": "2025-07-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://city<b>today</b>.media/2025/07/02/unity-in-compassion-payam-e-insaniyat-uplifts...",
+        "snippet": "School Children Receive Educational Supplies in a <b>Heartwarming</b> Community Initiative Bangalore, June 30, 2025: In a commendable <b>act</b> of community service, educational materials including notebooks an\u2026",
+        "dateLastCrawled": "2025-07-02T02:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": true
     }
 }
