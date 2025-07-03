@@ -4172,5 +4172,23 @@
         "language": "en",
         "isNavigational": true,
         "noCache": true
+    },
+    "2025-07-02": {
+        "date": "July 02, 2025",
+        "image_path": "./data/images/20250702-233004-1.png",
+        "story_summary": "Location unknown -- July 02, 2025 **International Drop a Rock Day** invites people worldwide on July 3rd to share kindness through a creative act: painting and leaving a uniquely decorated rock for someone to find.\n\n**Inspired by Megan Murphy's original gesture on Cape Cod, Massachusetts,** this tradition has blossomed into a global celebration of hope and community. Participants stamp local parks, beaches, and sidewalks with messages like *You matter*, *Stay strong*, and *Keep going*, transforming mundane spaces into inspirational, unexpected havens.\n\n**Focused on 'Messages That Matter' in 2025,** this day demonstrates that small acts can spark significant change. Beyond its artistic flair, the initiative strengthens mental health, empathy, and togetherness, especially in a world driven by digital connections. Each painted rock serves as both a work of art and a reminder that simple kindness connects us all.",
+        "story_url": "https://today.infodatanews.com/international-drop-a-rock-day/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "International Drop a Rock Day 2025: A Powerful Tradition of ...",
+        "url": "https://today.infodatanews.com/international-drop-a-rock-day/",
+        "datePublished": "2025-07-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>today</b>.infodatanews.com/international-drop-a-rock-day",
+        "snippet": "Every year, on July 3rd, a surprisingly simple <b>act</b> unites thousands of people across the globe\u2014dropping a rock. But this is no ordinary rock. It&#39;s painted, inscribed with words of hope, and placed somewhere in public to brighten someone\u2019s day. International Drop a Rock Day is more than an art movement\u2014it&#39;s a <b>heartwarming</b> tradition rooted in sharing kindness, inspiration, and joy. This ...",
+        "dateLastCrawled": "2025-07-02T18:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
