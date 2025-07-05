@@ -4190,5 +4190,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-07-04": {
+        "date": "July 04, 2025",
+        "image_path": "./data/images/20250704-233003-3.png",
+        "story_summary": "Bratislava -- July 04, 2025\n\n**Bratislava\u2019s forests dazzle** as fireflies light up the summer nights in their final, enchanting display. The gentle flashes serve as a reminder of nature\u2019s delicate rhythm and invite visitors to appreciate the magic of the moment. Experts recommend quiet observation to preserve this fleeting wonder.\n\n**Community spirit shines** as U Taliana pizzeria earns international acclaim, ranking among Europe\u2019s top spots while celebrating culinary excellence and innovation. This achievement fills the city with pride and joy, highlighting Bratislava\u2019s vibrant blend of tradition and modern flair.\n\nIn another heartwarming initiative, Spanish soldiers visit a local paediatric hospital, offering **torches as symbols of hope**. Their visit fosters unity and compassion, bridging communities and reinforcing bonds that uplift the city.",
+        "story_url": "https://spectator.sme.sk/culture-and-lifestyle/c/bratislava-s-forests-sparkle-as-firefly-season-draws-to-a-close",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Bratislava\u2019s forests sparkle as firefly season draws to a close",
+        "url": "https://spectator.sme.sk/culture-and-lifestyle/c/bratislava-s-forests-sparkle-as-firefly-season-draws-to-a-close",
+        "datePublished": "2025-07-04T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://spectator.sme.sk/culture-and-lifestyle/c/bratislava-s-forests-sparkle-as...",
+        "snippet": "A selection of short <b>feel-good</b> <b>stories</b> from Slovakia. For a few fleeting nights this summer, parts of Bratislava\u2019s forests have come alive after dark with the glow of fireflies \u2013 and the natural light show is now entering its final days. The insects, in the last phase of their mating season, can ...",
+        "dateLastCrawled": "2025-07-04T19:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Slovak Spectator"
     }
 }
