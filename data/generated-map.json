@@ -4209,5 +4209,23 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "The Slovak Spectator"
+    },
+    "2025-07-05": {
+        "date": "July 06, 2025",
+        "image_path": "./data/images/20250705-233003-1.png",
+        "story_summary": "Location unknown -- July 05, 2025. **World Circle Dance Day 2025** brings together people from around the world in a spirited celebration of peace, unity, and shared cultural heritage. By forming hand-in-hand circles and dancing to diverse rhythms, participants express a deep warmth and collective healing.\n\n*Rooted in tradition and inspired by a pioneering spirit*, the celebration honors the legacy of sacred circle dances introduced in the 1970s. The event transcends language, culture, and belief, serving as a powerful reminder that every step and every smile contribute to a sense of belonging and inner peace.\n\nWith each movement, communities demonstrate that joy and compassion unite us all. **The day's theme, 'Moving in Harmony: One World, One Circle',** encapsulates a vision of togetherness and respect for diversity, inviting everyone\u2014young and old\u2014to be a part of this global ritual of connection.",
+        "story_url": "https://today.infodatanews.com/world-circle-dance-day/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Joyful Rhythms of Unity: World Circle Dance Day 2025 \u2013 A Global ...",
+        "url": "https://today.infodatanews.com/world-circle-dance-day/",
+        "datePublished": "2025-07-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>today</b>.infodatanews.com/world-circle-dance-day",
+        "snippet": "World Circle Dance Day is a <b>heartwarming</b> celebration of unity, movement, and shared humanity. Observed globally every year on the second Saturday of July, this day brings people together in a literal circle\u2014dancing hand-in-hand to traditional and contemporary music. It transcends language, culture, and religion, fostering a sense of belonging and global community. In 2025, the celebration ...",
+        "dateLastCrawled": "2025-07-05T18:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
