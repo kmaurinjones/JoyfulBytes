@@ -4227,5 +4227,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-07-06": {
+        "date": "July 06, 2025",
+        "image_path": "./data/images/20250706-233002-1.png",
+        "story_summary": "New Delhi --, July 06, 2025\n\n**A Mathura-born techie** now residing in Dallas embarks on an **emotional journey** by taking his parents to Las Vegas, marking their first-ever visit beyond familiar surroundings. His touching video captures their wonder and gratitude, reflecting the **unspoken promises** he made to himself, inspired by their lifelong sacrifices.\n\nThrough vibrant scenes of bustling streets and iconic landmarks, he weaves his personal story with heartfelt messages. *Every frame speaks of hope and gratitude*, as he acknowledges that his success is built on the **steadfast support** of his parents. Their expressions of joy and admiration breathe life into his narrative, reminding us that true fulfillment lies in sharing dreams with those who have always been by our side.",
+        "story_url": "https://www.indiatoday.in/trending-news/story/indian-techie-shares-heartfelt-video-of-parents-visiting-las-vegas-for-the-first-time-2751611-2025-07-06",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Indian techie shares heartfelt video of parents visiting ... - India Today",
+        "url": "https://www.indiatoday.in/trending-news/story/indian-techie-shares-heartfelt-video-of-parents-visiting-las-vegas-for-the-first-time-2751611-2025-07-06",
+        "datePublished": "2025-07-06T10:48:00.0000000",
+        "datePublishedFreshnessText": "16 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.india<b>today</b>.in/trending-news/story/indian-techie-shares-heartfelt-video-of...",
+        "snippet": "A Mathura-born techie, now based in Dallas, took his parents on a <b>heartwarming</b> trip to Las Vegas, calling it a tribute to the sacrifices that shaped his life. Listen to Story An Indian techie shared an emotional video of his parents&#39; first trip to Las Vegas The video highlighted parents&#39; sacrifices ...",
+        "dateLastCrawled": "2025-07-06T10:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "India Today"
     }
 }
