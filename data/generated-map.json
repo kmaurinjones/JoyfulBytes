@@ -4246,5 +4246,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "India Today"
+    },
+    "2025-07-07": {
+        "date": "July 08, 2025",
+        "image_path": "./data/images/20250707-233002-1.png",
+        "story_summary": "Thrissur -- July 07, 2025. **In a truly heartwarming chapter,** two elder residents of a government old age home, 79-year-old Vijayaraghavan and 75-year-old Sulochana, united in marriage under the Special Marriage Act.\n\n**Supported by community leaders** and celebrated by the Social Justice Department, prominent guests such as Kerala Higher Education and Social Justice Minister Dr R Bindu and Thrissur Mayor M K Varghese witnessed the joyful ceremony. *Their profound commitment and vibrant spirit* radiated throughout the celebration, symbolizing that love and companionship blossom regardless of age. This new venture illustrates the beauty of embracing life\u2019s later opportunities with courage and hope.",
+        "story_url": "https://www.onmanorama.com/news/kerala/2025/07/07/thrissur-old-age-home-wedding.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Thrissur couple who met in old age home ties the knot, begins new ...",
+        "url": "https://www.onmanorama.com/news/kerala/2025/07/07/thrissur-old-age-home-wedding.html",
+        "datePublished": "2025-07-07T16:03:00.0000000",
+        "datePublishedFreshnessText": "11 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.onmanorama.com/news/kerala/2025/07/07/thrissur-old-age-home-wedding.html",
+        "snippet": "Vijayaraghavan and Sulochana, residents of a government old age home in Thrissur, Kerala, tied the knot under the Special Marriage <b>Act</b>.",
+        "dateLastCrawled": "2025-07-07T16:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Onmanorama"
     }
 }
