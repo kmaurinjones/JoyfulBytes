@@ -4265,5 +4265,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "Onmanorama"
+    },
+    "2025-07-08": {
+        "date": "July 08, 2025",
+        "image_path": "./data/images/20250708-233003-1.png",
+        "story_summary": "Renfrew Ontario -- July 08, 2025\n\nIn Renfrew, the community comes together for an exuberant celebration of local talent through the free Music in the Park series. Every summer Sunday, residents relax at O'Brien Park with blankets and chairs, soaking in the warm embrace of the season as beloved local acts take the stage along the tranquil Bonnechere River. **Janyne Fraser**, the programming supervisor, expresses her delight in the carefully curated line-up that reflects the town's vibrant spirit.\n\nAs the event grows in excitement each week, the upcoming performance by *Denny Welburn* promises to deliver heartfelt melodies and joyful rhythms that bring neighbors and visitors together. The area near the McDougall Mill Museum becomes a beacon of community pride and summer delight, inviting everyone to savor memorable moments of music, unity, and shared celebration.",
+        "story_url": "https://www.renfrewtoday.ca/2025/07/08/whats-good-in-renfrew-free-concerts-light-up-renfrews-obrien-park-this-summeryour-sunday-soundtrack/",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "What\u2019s good in Renfrew? Free concerts bringing your summer Sunday ...",
+        "url": "https://www.renfrewtoday.ca/2025/07/08/whats-good-in-renfrew-free-concerts-light-up-renfrews-obrien-park-this-summeryour-sunday-soundtrack/",
+        "datePublished": "2025-07-08T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.renfrew<b>today</b>.ca/2025/07/08/whats-good-in-renfrew-free-concerts-light-up...",
+        "snippet": "Renfrew has already gotten a taste of what you can expect every Sunday this summer as top local <b>acts</b> flock along the Bonnechere River. The town\u2019s ever-popular Music in the Park series is currently underway as concertgoers flock to O\u2019Brien Park each week for an afternoon featuring some of the best musical talent the community has to offer, according to the town\u2019s programming supervisor ...",
+        "dateLastCrawled": "2025-07-08T23:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "96.1 Renfrew Today"
     }
 }
