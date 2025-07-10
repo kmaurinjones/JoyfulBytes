@@ -4284,5 +4284,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "96.1 Renfrew Today"
+    },
+    "2025-07-09": {
+        "date": "July 10, 2025",
+        "image_path": "./data/images/20250709-233003-1.png",
+        "story_summary": "Dongducheon city -- July 09, 2025\n\nIn the scorching summer heat, a touching act unfolds when a kind and caring middle school student named **Ok** meets an elderly vendor selling her homegrown produce. His sincere interest and respectful inquiry spark a bond of understanding between generations.\n\nDemonstrating **compassion** and practical wisdom, Ok uses his only 50,000 KRW emergency fund to help the vendor by exchanging it for smaller bills, ensuring she can complete her sale despite the oppressive heat. His selfless decision to part with his savings in a moment of need shines as a powerful reminder of empathy and community support.\n\nPraised by both his school community and thousands online, Ok\u2019s **selfless act** underscores the enduring power of kindness in challenging times, inspiring others to act with similar generosity and care.",
+        "story_url": "https://www.koreantopik.com/2025/07/its-so-hot-grandmamiddle-school-boy.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "\u201cIt\u2019s So Hot, Grandma\u2026\u201d\u2013A Middle School Boy\u2019s Act of Kindness Melts ...",
+        "url": "https://www.koreantopik.com/2025/07/its-so-hot-grandmamiddle-school-boy.html",
+        "datePublished": "2025-07-10T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.koreantopik.com/2025/07/its-so-hot-grandmamiddle-school-boy.html",
+        "snippet": "In the sweltering summer heat, a <b>heartwarming</b> moment between a Korean middle school student and an elderly street vendor has gone viral, touching thousands online. On July 7, in Dongducheon city , Gyeonggi Province, a second-year student gave up his savings to buy produce from an elderly woman selling goods on the roadside.",
+        "dateLastCrawled": "2025-07-09T21:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Korean TOPIK"
     }
 }
