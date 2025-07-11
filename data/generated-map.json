@@ -4303,5 +4303,24 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Korean TOPIK"
+    },
+    "2025-07-10": {
+        "date": "July 11, 2025",
+        "image_path": "./data/images/20250710-233003-1.png",
+        "story_summary": "Location unknown -- July 10, 2025\n\n**The Friday Club Messages** announce a vibrant schedule for students as they explore numerous engaging activities. The Creative Club encourages dazzling landscape drawing with A4 sheets, sketch pens, and colors. Meanwhile, the Democratic & Peace Club inspires kind acts and invites students to share their gestures on the \"Peace & Kindness Tree.\" The Heritage Club celebrates regional history through an essay competition, while the Gardening Club nurtures a passion for nature.\n\n**Additional events** further enrich the day. The Ramanujan Club blends numbers with art by creating mandalas; the Cuisine Club offers a no-cook Dahi Vada session; and the Grooming and Personality Development Clubs prompt reflective storytelling and a 24-hour kindness challenge. Finally, the Innovation Club engages students in testing biodegradable plastic made from starch. *Each club fosters creativity, compassion, and exploration*, uniting practical skills with a heartfelt community spirit.",
+        "story_url": "https://www.scribd.com/document/885897969/FRIDAY-CLUB-MESSAGES-11th-July-2025",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "FRIDAY CLUB MESSAGES 11th July 2025 | PDF | Chutney - Scribd",
+        "url": "https://www.scribd.com/document/885897969/FRIDAY-CLUB-MESSAGES-11th-July-2025",
+        "datePublished": "2025-07-11T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.scribd.com/document/885897969/FRIDAY-CLUB-MESSAGES-11th-July-2025",
+        "snippet": "Be ready, stay creative! DEMOCRATIC &amp; PEACE CLUB Dear Students, We invite you to join our <b>heartwarming</b> initiative aimed at creating a more peaceful, joyful, and inclusive school environment. Through simple <b>acts</b> of kindness, we can brighten someone\u2019s day and build a culture where compassion and respect thrive. Here\u2019s How You Can Participate:",
+        "dateLastCrawled": "2025-07-10T23:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Scribd"
     }
 }
