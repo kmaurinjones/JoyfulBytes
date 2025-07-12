@@ -4322,5 +4322,24 @@
         "isNavigational": false,
         "noCache": true,
         "siteName": "Scribd"
+    },
+    "2025-07-11": {
+        "date": "July 11, 2025",
+        "image_path": "./data/images/20250711-233007-1.png",
+        "story_summary": "McLennan County, Texas -- July 11, 2025\n\nIn a touching act during a routine traffic stop, Deputy Davila discovered that a young child was not properly secured due to financial constraints. When he learned that the child\u2019s mother could not afford a booster seat, he stepped in with genuine care and purchased one with his own funds.\n\n**This heartfelt gesture** highlights the true essence of commitment, showing that even in challenging moments, the welfare of others is paramount. The deputy\u2019s selfless action not only ensured safety but also reinforced the values of empathy and dedication in service.\n\n*His kindness* serves as a powerful reminder that small acts of generosity can spark profound changes in a community, leaving a lasting impact on those in need.",
+        "story_url": "https://www.11alive.com/article/life/heartwarming/mclennan-county-deputy-buys-booster-seat-family-traffic-stop/500-5d0a284c-d7bf-4c1e-a438-f578658956ac",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Deputy buys booster seat for family after traffic stop",
+        "url": "https://www.11alive.com/article/life/heartwarming/mclennan-county-deputy-buys-booster-seat-family-traffic-stop/500-5d0a284c-d7bf-4c1e-a438-f578658956ac",
+        "datePublished": "2025-07-11T21:06:00.0000000",
+        "datePublishedFreshnessText": "6 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.11alive.com</b>/article/life/<b>heartwarming</b>/mclennan-county-deputy-buys-booster...",
+        "snippet": "After learning a mother could not afford a booster seat for her child, McLennan County Sheriff&#39;s Office Deputy Davila bought one for her himself.",
+        "dateLastCrawled": "2025-07-11T21:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "11Alive.com"
     }
 }
