@@ -4341,5 +4341,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "11Alive.com"
+    },
+    "2025-07-12": {
+        "date": "July 12, 2025",
+        "image_path": "./data/images/20250712-233006-1.png",
+        "story_summary": "Thalassery -- July 12, 2025\n\n**In a heartwarming display of love and resilience, a wheelchair-bound father embraces life by hosting a special pre-wedding reception exclusively for fellow wheelchair users at his son's wedding.**\n\n*Drawing people from different districts, he transforms the celebration into a soulful gathering where every gesture reflects hope and dignity.*\n\nThe event celebrates inclusivity and emotional bonds as attendees share their blessings with the couple. This touching narrative highlights the father's determination to create joyful memories despite physical challenges, capturing the genuine warmth of family ties and community support.\n\nImages of beaming smiles, heartfelt embraces, and a spirited ambiance weave a narrative of courage and acceptance, reminding us that love transcends all barriers.",
+        "story_url": "https://www.manoramaonline.com/news/latest-news/2025/07/13/inspiring-act-thalassery-man-son-wedding-celebration.html",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "\u0d07\u0d24\u0d4d \u0d28\u0d3e\u0d38\u0d31\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d38\u0d4d\u0d28\u0d47\u0d39 \u0d38\u0d7d\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d02; \u0d07\u0d30\u0d1f\u0d4d\u0d1f\u0d3f \u0d2e\u0d3e\u0d27\u0d41\u0d30\u0d4d\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d2e\u0d15\u0d28\u0d4d\u0d31\u0d46 \u0d35\u0d3f\u0d35\u0d3e\u0d39\u0d02",
+        "url": "https://www.manoramaonline.com/news/latest-news/2025/07/13/inspiring-act-thalassery-man-son-wedding-celebration.html",
+        "datePublished": "2025-07-12T22:26:00.0000000",
+        "datePublishedFreshnessText": "5 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.manoramaonline.com</b>/news/latest-news/2025/07/13/inspiring-<b>act</b>-thalassery...",
+        "snippet": "\u0d24\u0d32\u0d36\u0d4d\u0d36\u0d47\u0d30\u0d3f \u2219 &#39;\u0d24\u0d28\u0d4d\u0d28\u0d46\u0d2a\u0d4d\u0d2a\u0d4b\u0d32\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d38\u0d39\u0d1c\u0d40\u0d35\u0d3f\u0d15\u0d33\u0d46\u0d2f\u0d41\u0d02 \u0d38\u0d4d\u0d28\u0d47\u0d39\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d15&#39; \u0d0e\u0d28\u0d4d\u0d28 ...",
+        "dateLastCrawled": "2025-07-12T22:27:00.0000000Z",
+        "language": "ml",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
     }
 }
