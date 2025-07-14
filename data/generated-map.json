@@ -4360,5 +4360,24 @@
         "isNavigational": false,
         "noCache": false,
         "siteName": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33 \u0d2e\u0d28\u0d4b\u0d30\u0d2e"
+    },
+    "2025-07-13": {
+        "date": "July 13, 2025",
+        "image_path": "./data/images/20250713-233005-1.png",
+        "story_summary": "New Kent, Virginia -- July 13, 2025\n\n**A transformative moment unfolded** when a concerned mom, Courtney Spates, captured her 4-year-old daughter Harper at a prekindergarten event. Harper\u2019s radiant smile as she celebrated a classmate\u2019s achievement stirred deep emotions, easing Courtney\u2019s lingering worries about her parenting. Her daughter\u2019s pure enthusiasm, marked by patience and genuine care, highlighted what it means to nurture kindness and empathy from a young age.\n\n*The incident resonates with the power of small acts of compassion.* Harper\u2019s gentle support for her nonverbal classmate, Reed Southward, symbolized a quiet celebration of neurodiversity and the inherent worth of every child. Both teachers and parents see this moment as a testament to the importance of acceptance and understanding in a sometimes harsh world. For Courtney, witnessing Harper\u2019s instinctive urge to cheer on Reed reinforced her belief that she is raising a good human, one who loves without judgment.\n\n**This story inspires hope** and reminds us that the seeds of empathy can grow into a more compassionate future.",
+        "story_url": "https://www.newsweek.com/little-girl-celebrates-neurodiverse-friend-graduation-2097765",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Mom Always Questions Her Parenting\u2014Then Sees Daughter at ... - Newsweek",
+        "url": "https://www.newsweek.com/little-girl-celebrates-neurodiverse-friend-graduation-2097765",
+        "datePublished": "2025-07-13T22:00:00.0000000",
+        "datePublishedFreshnessText": "5 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.newsweek.com</b>/little-girl-celebrates-neurodiverse-friend-graduation-2097765",
+        "snippet": "A millennial mom has shared the moment she realized she is doing a <b>good</b> job at parenting after capturing a heartwarming interaction between her daughter and a classmate on camera.",
+        "dateLastCrawled": "2025-07-13T22:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Newsweek"
     }
 }
