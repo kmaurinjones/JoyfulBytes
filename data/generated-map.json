@@ -4379,5 +4379,23 @@
         "isNavigational": true,
         "noCache": false,
         "siteName": "Newsweek"
+    },
+    "2025-07-14": {
+        "date": "July 15, 2025",
+        "image_path": "./data/images/20250714-233005-1.png",
+        "story_summary": "Location unknown -- July 14, 2025\n\n**Jim Abbott\u2019s story shines as a testament to determination and resilience.** Born without a right hand, Jim defied all odds by pitching a no-hitter for the New York Yankees in 1993 against Cleveland\u2014a moment that remains a highlight in sports history.\n\n*Overcoming childhood challenges and persistent doubts, he developed a unique pitching style that transformed his perceived limitation into a powerful strength.* His swift, agile moves on the mound and unwavering focus not only silenced critics but also inspired countless individuals facing adversity.\n\n**Abbott\u2019s legacy transcends his on-field success.** Beyond his remarkable MLB career, he emerged as a motivational speaker and role model for many, proving that persistence and passion can overcome any barrier.",
+        "story_url": "https://trendsalad.com/en/archives/43973",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "How Did Jim Abbott Throw a No-Hitter With One Hand? Inspiring MLB ...",
+        "url": "https://trendsalad.com/en/archives/43973",
+        "datePublished": "2025-07-15T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://trendsalad.com/en/archives/43973",
+        "snippet": "Jim Abbott\u2019s incredible no-hitter on September 4, 1993, remains one of MLB\u2019s most <b>inspiring</b> <b>moments</b>. Born without a right hand, the former Yankees pitcher defied all odds, delivering a historic performance against Cleveland.",
+        "dateLastCrawled": "2025-07-15T02:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
     }
 }
