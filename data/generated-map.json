@@ -4397,5 +4397,24 @@
         "language": "en",
         "isNavigational": false,
         "noCache": false
+    },
+    "2025-07-19": {
+        "date": "July 19, 2025",
+        "image_path": "./data/images/20250719-233006-1.png",
+        "story_summary": "Seattle, WA -- July 19, 2025\n\n**Mia Stephenson** faced a challenging diagnosis when a discovered lump led to an unexpected cancer battle. After a timely lumpectomy at UW Medicine\u2019s Fred Hutchinson Cancer Center, she prepared herself for the journey ahead with chemotherapy, radiation, and long-term endocrine therapy. Her decision to shave her head symbolized taking control of her narrative, marking a bold new chapter amid uncertainty.\n\nAt The Collective Salon in Eastlake, Mia\u2019s commitment to hope and resilience was celebrated by her close-knit circle of friends. **With heartfelt unity**, four of her dear companions joined her in an empowering act of solidarity by shaving their heads. Their collective support, cheers, and shared determination transformed a difficult day into a moving tribute to love, care, and the strength found in deep, trusting bonds.",
+        "story_url": "https://www.king5.com/article/life/heartwarming/friendship-and-solidarity-at-seattle-eastlake-salon-breast-cancer-battle/281-de305b0b-8655-471b-abfa-bc01b7924f1f",
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Friends shave heads in solidarity with Seattle woman amid cancer battle ...",
+        "url": "https://www.king5.com/article/life/heartwarming/friendship-and-solidarity-at-seattle-eastlake-salon-breast-cancer-battle/281-de305b0b-8655-471b-abfa-bc01b7924f1f",
+        "datePublished": "2025-07-19T22:42:00.0000000",
+        "datePublishedFreshnessText": "4 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://<b>www.king5.com</b>/article/life/<b>heartwarming</b>/friendship-and-solidarity-at-seattle...",
+        "snippet": "Mia Stephenson&#39;s close-knit friends join her in shaving their heads in Seattle, showing solidarity and support in her battle against breast cancer.",
+        "dateLastCrawled": "2025-07-19T22:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "king5.com"
     }
 }
